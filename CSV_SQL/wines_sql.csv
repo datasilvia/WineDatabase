@@ -1,0 +1,2049 @@
+id,wine,price,rating,body,acidity,num_reviews
+1,Tinto,995.0,4.9,5.0,3.0,58
+2,Vina El Pison,313.5,4.9,4.0,2.0,31
+3,Unico,324.95,4.8,5.0,3.0,1793
+4,Unico,692.96,4.8,5.0,3.0,1705
+5,Unico,778.06,4.8,5.0,3.0,1309
+6,Unico,490.0,4.8,5.0,3.0,1209
+7,Unico,349.0,4.8,5.0,3.0,1201
+8,Unico,810.89,4.8,5.0,3.0,926
+9,Unico Reserva Especial Edicion,345.0,4.8,5.0,3.0,643
+10,Unico,315.0,4.8,5.0,3.0,630
+11,Unico Reserva Especial Edicion,514.85,4.8,5.0,3.0,591
+12,El Anejon,105.15,4.8,5.0,3.0,454
+13,Unico Reserva Especial Edicion,430.0,4.8,5.0,3.0,438
+14,Unico,925.0,4.8,5.0,3.0,417
+15,Don PX Convento Seleccion,350.0,4.8,5.0,1.0,398
+16,Cuesta de Las Liebres,166.18,4.8,5.0,3.0,372
+17,Unico,1620.0,4.8,5.0,3.0,295
+18,Unico Reserva Especial Edicion,431.36,4.8,5.0,3.0,250
+19,El Nido,195.627379550654,4.8,4.0,3.0,217
+20,Unico Reserva Especial Edicion,824.43,4.8,5.0,3.0,211
+21,Toneles Moscatel,253.0,4.8,4.0,3.0,174
+22,Unico Reserva Especial Edicion,570.51,4.8,5.0,3.0,172
+23,Pingus,1280.0,4.8,5.0,3.0,145
+24,Don PX Convento Seleccion,244.85,4.8,5.0,1.0,139
+25,Unico Reserva Especial Edicion,719.34,4.8,5.0,3.0,125
+26,Unico,815.0,4.8,5.0,3.0,118
+27,Don PX Pedro Ximenez,285.86,4.8,5.0,1.0,103
+28,L'Ermita Velles Vinyes Priorat,1410.26,4.8,4.0,3.0,87
+29,Unico Reserva Especial Edicion,813.96,4.8,5.0,3.0,87
+30,Unico Reserva Especial Edicion,435.75,4.8,5.0,3.0,84
+31,Vatan Arena Tinta de Toro,369.05,4.8,5.0,3.0,79
+32,Unico Reserva Especial Edicion,1182.77,4.8,5.0,3.0,70
+33,Don PX Convento Seleccion,227.95,4.8,5.0,1.0,69
+34,Ribera Del Duero Gran Reserva 12 Anos,999.0,4.8,5.0,3.0,68
+35,Pesus Ribera del Duero,360.0,4.8,5.0,3.0,68
+36,Tinto,1190.0,4.8,5.0,3.0,56
+37,Pingus,1150.0,4.8,5.0,3.0,52
+38,Tinto,950.0,4.8,5.0,3.0,50
+39,L'Ermita Velles Vinyes Priorat,1021.21,4.8,4.0,3.0,40
+40,Magico,544.5,4.8,4.0,3.0,40
+41,Tinto,1295.0,4.8,5.0,3.0,32
+42,L'Ermita Velles Vinyes Priorat,992.2,4.8,4.0,3.0,31
+43,Tinto,1289.44,4.8,5.0,3.0,28
+44,La Faraona Bierzo (Corullon),1098.9,4.8,4.0,3.0,26
+45,Gran Reserva 890,215.34,4.8,4.0,3.0,26
+46,L'Ermita Velles Vinyes Priorat,1094.9,4.8,4.0,3.0,26
+47,Unico Reserva Especial Edicion,423.5,4.7,5.0,3.0,12421
+48,Valbuena 5o,239.5,4.7,5.0,3.0,5266
+49,Valbuena 5o,175.5,4.7,5.0,3.0,4350
+50,Valbuena 5o,194.0,4.7,5.0,3.0,3929
+51,Unico,381.15,4.7,5.0,3.0,3437
+52,Unico,584.43,4.7,5.0,3.0,3164
+53,Unico,555.2,4.7,5.0,3.0,3127
+54,Unico,445.28,4.7,5.0,3.0,2935
+55,Valbuena 5o,189.0,4.7,5.0,3.0,2826
+56,Unico,362.25,4.7,5.0,3.0,2765
+57,Unico,289.0,4.7,5.0,3.0,2480
+58,Unico,325.0,4.7,5.0,3.0,2419
+59,Valbuena 5o,107.57,4.7,5.0,3.0,2177
+60,Valbuena 5o,234.0,4.7,5.0,3.0,1892
+61,Unico,500.94,4.7,5.0,3.0,1199
+62,Unico,698.9,4.7,5.0,3.0,1141
+63,Unico,872.47,4.7,5.0,3.0,940
+64,Unico Reserva Especial Edicion,877.85,4.7,5.0,3.0,935
+65,Unico,827.94,4.7,5.0,3.0,690
+66,Cuesta de Las Liebres,113.18,4.7,5.0,3.0,685
+67,Unico,679.72,4.7,5.0,3.0,675
+68,Unico,787.59,4.7,5.0,3.0,593
+69,Unico Reserva Especial Edicion,480.06,4.7,5.0,3.0,560
+70,El Anejon,75.1,4.7,5.0,3.0,543
+71,El Nido,154.9,4.7,4.0,3.0,511
+72,El Nido,145.0,4.7,4.0,3.0,476
+73,Unico Reserva Especial Edicion,290.0,4.7,5.0,3.0,442
+74,Castillo Ygay Gran Reserva Especial Blanco,795.0,4.7,3.0,3.0,425
+75,El Nido,371.78009750522,4.7,4.0,3.0,393
+76,El Nido,134.19,4.7,4.0,3.0,347
+77,La Nieta,82.58,4.7,4.0,3.0,312
+78,Unico,873.86,4.7,5.0,3.0,308
+79,Unico Reserva Especial Edicion,774.4,4.7,5.0,3.0,303
+80,Malleolus de Valderramiro,84.95,4.7,5.0,3.0,300
+81,Pingus,940.0,4.7,5.0,3.0,295
+82,Unico,812.63,4.7,5.0,3.0,292
+83,Malleolus de Sanchomartin,116.54,4.7,5.0,3.0,291
+84,Pingus,1500.0,4.7,5.0,3.0,285
+85,Pingus,1190.0,4.7,5.0,3.0,280
+86,El Nido,154.85,4.7,4.0,3.0,268
+87,Alabaster,135.0,4.7,5.0,3.0,264
+88,La Mula de la Quietud,63.75,4.7,5.0,3.0,256
+89,Unico,827.94,4.7,5.0,3.0,254
+90,Terreus Paraje de Cueva Baja,66.07,4.7,4.0,2.0,251
+91,Contador Rioja,213.9,4.7,4.0,3.0,243
+92,Maria Remirez de Ganuza,234.9,4.7,4.0,3.0,240
+93,Unico,2087.25,4.7,5.0,3.0,225
+94,La Nieta,89.9,4.7,4.0,3.0,220
+95,Unico,1384.54,4.7,5.0,3.0,214
+96,Unico,820.98,4.7,5.0,3.0,205
+97,Pingus,1250.0,4.7,5.0,3.0,203
+98,Unico Reserva Especial Edicion,1500.0,4.7,5.0,3.0,196
+99,Pingus,1715.18,4.7,5.0,3.0,184
+100,Unico,932.3,4.7,5.0,3.0,173
+101,L'Ermita Velles Vinyes Priorat,1372.14,4.7,4.0,3.0,171
+102,Cartago Paraje de Pozo,78.9,4.7,5.0,3.0,137
+103,Unico Reserva Especial Edicion,660.96,4.7,5.0,3.0,136
+104,Parcela El Picon Tinto,154.0,4.7,5.0,3.0,134
+105,Valbuena 5o,134.89,4.7,5.0,3.0,133
+106,L'Ermita Velles Vinyes Priorat,1422.96,4.7,4.0,3.0,132
+107,Termanthia,207.11,4.7,5.0,3.0,131
+108,Unico Reserva Especial Edicion,340.49,4.7,5.0,3.0,131
+109,Clon De La Familia,317.63,4.7,5.0,3.0,127
+110,Aquilon Garnacha,108.9,4.7,5.0,3.0,123
+111,Unico,700.0,4.7,5.0,3.0,118
+112,Don PX Convento Seleccion,185.0,4.7,5.0,1.0,117
+113,Unico,911.43,4.7,5.0,3.0,116
+114,Contador Rioja,1150.0,4.7,4.0,3.0,112
+115,Unico,698.95,4.7,5.0,3.0,110
+116,Termanthia,2814.16,4.7,5.0,3.0,108
+117,Tinto,1325.0,4.7,5.0,3.0,102
+118,Quinon de Valmira,527.26,4.7,4.0,3.0,102
+119,Unico Reserva Especial Edicion,1071.45,4.7,5.0,3.0,100
+120,1902 Centenary Carignan Priorat,299.0,4.7,4.0,3.0,94
+121,Tintilla de Rota,43.13,4.7,,,92
+122,Unico,1207.6,4.7,5.0,3.0,89
+123,Cirsion Rioja,175.0,4.7,4.0,3.0,87
+124,L'Ermita Velles Vinyes Priorat,1252.35,4.7,4.0,3.0,82
+125,El Nido,145.9,4.7,4.0,3.0,80
+126,1902 Centenary Carignan Priorat,447.95,4.7,4.0,3.0,74
+127,Unico Reserva Especial Edicion,813.96,4.7,5.0,3.0,72
+128,L'Ermita Velles Vinyes Priorat,1410.26,4.7,4.0,3.0,67
+129,Cami Pesseroles,182.9,4.7,4.0,3.0,65
+130,Turo d'en Mota,99.0,4.7,2.0,3.0,64
+131,Unico Reserva Especial Edicion,1113.2,4.7,5.0,3.0,63
+132,Priorat,654.31,4.7,4.0,3.0,60
+133,Parcela El Picon Tinto,134.26,4.7,5.0,3.0,59
+134,Reliquia Palo Cortado Sherry,380.0,4.7,4.0,3.0,58
+135,Gran Reserva 890,292.09,4.7,4.0,3.0,57
+136,Anada Palo Cortado 1987,400.85,4.7,4.0,3.0,53
+137,Daphne Glorian Red,202.01,4.7,4.0,3.0,51
+138,Don PX Pedro Ximenez,250.0,4.7,5.0,1.0,50
+139,La Nieta,88.9,4.7,4.0,3.0,49
+140,El Regollar,77.9,4.7,4.0,3.0,49
+141,Don PX Convento Seleccion,191.61,4.7,5.0,1.0,47
+142,Alabaster,123.89,4.7,5.0,3.0,45
+143,Abuelo Diego Palo Cortado,114.28,4.7,5.0,1.0,42
+144,La Bota 78 de Oloroso,95.57,4.7,4.0,3.0,41
+145,Touran,93.95,4.7,5.0,3.0,41
+146,Luthier Gran Reserva,248.0,4.7,5.0,3.0,40
+147,Vina El Pison,397.0,4.7,4.0,2.0,39
+148,Sorte O Soro Val do Bibei,194.86,4.7,,,37
+149,Reserva Particular de Recaredo Brut Nature,65.05,4.7,2.0,3.0,35
+150,Terreus Paraje de Cueva Baja,86.9,4.7,4.0,2.0,33
+151,Pesus Ribera del Duero,472.5,4.7,5.0,3.0,32
+152,Usted,379.0,4.7,4.0,3.0,31
+153,Gran Reserva,185.15,4.7,5.0,3.0,31
+154,Regina Vides Ribera del Duero,94.2,4.7,5.0,3.0,30
+155,La Loma,46.0,4.7,4.0,3.0,29
+156,L'Ermita Velles Vinyes Priorat,919.6,4.7,4.0,3.0,28
+157,Recondita Armonia Monastrell Dulce,81.9,4.7,,,27
+158,Castillo Ygay Gran Reserva Especial Tinto,680.0,4.7,4.0,3.0,27
+159,Valbuena 5o,218.0,4.6,5.0,3.0,6803
+160,Valbuena 5o,177.0,4.6,5.0,3.0,5938
+161,Valbuena 5o,187.3,4.6,5.0,3.0,5545
+162,Valbuena 5o,195.59,4.6,5.0,3.0,5116
+163,Valbuena 5o,135.0,4.6,5.0,3.0,4747
+164,Valbuena 5o,225.2,4.6,5.0,3.0,4685
+165,Ribera del Duero,79.8,4.6,5.0,3.0,4516
+166,PS (Pagos Seleccionados) Ribera del Duero,116.187943627787,4.6,5.0,3.0,3383
+167,PS (Pagos Seleccionados) Ribera del Duero,89.3,4.6,5.0,3.0,3239
+168,Castillo Ygay Gran Reserva Especial Tinto,438.9,4.6,4.0,3.0,2416
+169,Ribera del Duero,79.9,4.6,5.0,3.0,2208
+170,Valbuena 5o,249.0,4.6,5.0,3.0,1608
+171,Flor de Pingus,129.95,4.6,5.0,3.0,1363
+172,PS (Pagos Seleccionados) Ribera del Duero,76.95,4.6,5.0,3.0,1108
+173,Valbuena 5o,252.0,4.6,5.0,3.0,1015
+174,Valbuena 5o,232.0,4.6,5.0,3.0,936
+175,Termanthia,214.0,4.6,5.0,3.0,840
+176,Termanthia,205.0,4.6,5.0,3.0,790
+177,Pago De Valtarrena,49.95,4.6,5.0,3.0,700
+178,Malleolus de Sanchomartin,125.0,4.6,5.0,3.0,693
+179,Valbuena 5o,276.8,4.6,5.0,3.0,595
+180,Malleolus de Valderramiro,75.0,4.6,5.0,3.0,516
+181,Pingus,1359.75,4.6,5.0,3.0,410
+182,Cuesta de Las Liebres,81.5,4.6,5.0,3.0,405
+183,Pingus,890.0,4.6,5.0,3.0,400
+184,El Titan del Bendito,43.5,4.6,5.0,3.0,388
+185,Malleolus de Sanchomartin,99.0,4.6,5.0,3.0,369
+186,Pingus,1198.72,4.6,5.0,3.0,323
+187,Terreus Paraje de Cueva Baja,94.95,4.6,4.0,2.0,313
+188,Terreus Paraje de Cueva Baja,89.0,4.6,4.0,2.0,304
+189,Pingus,1785.96,4.6,5.0,3.0,293
+190,La Nieta,108.21,4.6,4.0,3.0,286
+191,Vina El Pison,391.5,4.6,4.0,2.0,274
+192,Pingus,1350.0,4.6,5.0,3.0,244
+193,Cirsion Rioja,145.0,4.6,4.0,3.0,242
+194,Cirsion Rioja,173.38,4.6,4.0,3.0,231
+195,Contador Rioja,220.0,4.6,4.0,3.0,225
+196,Dalmau Rioja,85.7,4.6,4.0,3.0,222
+197,Unico,2884.04,4.6,5.0,3.0,218
+198,Finca el Bosque,79.9,4.6,4.0,3.0,214
+199,Pago de Santa Cruz,68.7,4.6,5.0,3.0,211
+200,Pingus,1638.95,4.6,5.0,3.0,205
+201,Clos Fonta Priorat,150.0,4.6,4.0,3.0,202
+202,Pago De Valtarrena,48.95,4.6,5.0,3.0,200
+203,Parcela El Picon Tinto,109.41,4.6,5.0,3.0,197
+204,Malleolus de Sanchomartin,119.0,4.6,5.0,3.0,186
+205,Valbuena 5o,195.0,4.6,5.0,3.0,176
+206,Pingus,1595.0,4.6,5.0,3.0,172
+207,Vina El Pison,519.55,4.6,4.0,2.0,169
+208,Parcela El Picon Tinto,89.0,4.6,5.0,3.0,165
+209,Vina El Pison,511.9,4.6,4.0,2.0,165
+210,L'Ermita Velles Vinyes Priorat,980.0,4.6,4.0,3.0,164
+211,Cuvee N Vinas Viejas,73.0,4.6,4.0,3.0,160
+212,Vina El Pison,280.0,4.6,4.0,2.0,159
+213,Unico,932.3,4.6,5.0,3.0,157
+214,Contador Rioja,251.99,4.6,4.0,3.0,157
+215,Cartago Paraje de Pozo,61.69,4.6,5.0,3.0,153
+216,L'Ermita Velles Vinyes Priorat,1372.14,4.6,4.0,3.0,150
+217,Termanthia,210.5,4.6,5.0,3.0,147
+218,Valbuena 5o,285.0,4.6,5.0,3.0,146
+219,Ribera del Duero Prestigio Pago de las Solanas,245.75,4.6,5.0,3.0,145
+220,Valbuena 5o,228.57,4.6,5.0,3.0,143
+221,Contador Rioja,319.9,4.6,4.0,3.0,143
+222,Vina El Pison,325.0,4.6,4.0,2.0,142
+223,Nit de Nin Mas d'en Cacador,345.0,4.6,4.0,3.0,139
+224,VS,58.9,4.6,4.0,2.0,136
+225,Maria Remirez de Ganuza,159.0,4.6,4.0,3.0,136
+226,Blecua Somontano,69.9,4.6,4.0,3.0,135
+227,Unico Reserva Especial Edicion,895.4,4.6,5.0,3.0,133
+228,Alabaster,147.85,4.6,5.0,3.0,131
+229,Terreus Paraje de Cueva Baja,88.05,4.6,4.0,2.0,128
+230,L'Ermita Velles Vinyes Priorat,1080.0,4.6,4.0,3.0,127
+231,Frank Gehry Selection,301.0,4.6,4.0,2.0,124
+232,Vina El Pison,275.0,4.6,4.0,2.0,124
+233,Unico,1106.24,4.6,5.0,3.0,123
+234,Amaya Arzuaga (Coleccion),64.9,4.6,5.0,3.0,123
+235,Pingus,1503.0,4.6,5.0,3.0,122
+236,L'Ermita Velles Vinyes Priorat,1372.14,4.6,4.0,3.0,122
+237,Vina El Pison,241.55,4.6,4.0,2.0,122
+238,La Creu Alta,89.17,4.6,4.0,3.0,116
+239,Unico,769.9,4.6,5.0,3.0,115
+240,Tinto,67.94,4.6,5.0,3.0,114
+241,5o Ano Ribera del Duero Tinto,44.0,4.6,5.0,3.0,113
+242,Vina El Pison,445.0,4.6,4.0,2.0,113
+243,Planots Priorat,87.02,4.6,4.0,3.0,112
+244,Unico Reserva Especial Edicion,747.17,4.6,5.0,3.0,111
+245,El Titan del Bendito,49.95,4.6,5.0,3.0,111
+246,Capitel,50.51,4.6,3.0,3.0,107
+247,Gran Arzuaga Ribera del Duero,157.4,4.6,5.0,3.0,105
+248,Aquilon Garnacha,120.9,4.6,5.0,3.0,105
+249,Pingus,1746.94,4.6,5.0,3.0,102
+250,Horcajo,75.3,4.6,5.0,3.0,100
+251,Pago De Valtarrena,47.5,4.6,5.0,3.0,99
+252,Unico,359.9,4.6,5.0,3.0,98
+253,Tinto,43.5,4.6,5.0,3.0,97
+254,Aurus,136.0,4.6,4.0,3.0,95
+255,Dolc de L'Obac,117.239420060872,4.6,,,94
+256,Parcela El Picon Tinto,135.0,4.6,5.0,3.0,93
+257,Trasnocho,82.5,4.6,4.0,3.0,91
+258,Cirsion Rioja,149.9,4.6,4.0,3.0,90
+259,Tinto,1260.0,4.6,5.0,3.0,87
+260,Doroteo Edicion Especial 25 Aniversario,59.0,4.6,5.0,3.0,86
+261,Tierra Alta de 2 Racimos Gran Reserva,82.5,4.6,5.0,3.0,85
+262,Castillo Ygay Gran Reserva Especial Tinto,195.0,4.6,4.0,3.0,85
+263,Valbuena 5o,195.0,4.6,5.0,3.0,84
+264,Reserva Especial Ribera del Duero,54.5,4.6,5.0,3.0,83
+265,Reserva Especial,79.1,4.6,5.0,3.0,80
+266,Gran Buig Priorat,272.0,4.6,4.0,3.0,79
+267,Finca Garbet,99.0,4.6,4.0,3.0,75
+268,Solera India Oloroso Rare Sherry,189.99,4.6,4.0,3.0,74
+269,Clon De La Familia,317.63,4.6,5.0,3.0,72
+270,Amancio,399.6,4.6,4.0,3.0,70
+271,Gines Liebana Pedro Ximenez,701.05,4.6,5.0,1.0,70
+272,Reserva Particular de Recaredo Brut Nature,74.9,4.6,2.0,3.0,69
+273,Priorat,654.31,4.6,4.0,3.0,66
+274,Valbuena 5o,247.75,4.6,5.0,3.0,66
+275,Don PX Seleccion,144.99,4.6,5.0,1.0,65
+276,L'Ermita Velles Vinyes Priorat,945.0,4.6,4.0,3.0,65
+277,Reserva,50.0,4.6,5.0,3.0,64
+278,Finca Las Naves,126.64,4.6,4.0,3.0,63
+279,AAA,162.38,4.6,4.0,3.0,63
+280,Vina del Olivo,81.0,4.6,4.0,3.0,60
+281,L'Ermita Velles Vinyes Priorat,2750.0,4.6,4.0,3.0,60
+282,Dalmau Rioja,121.0,4.6,4.0,3.0,59
+283,Les Aubaguetes Priorat,355.95,4.6,4.0,3.0,59
+284,Cava Enoteca Finca La Plana Brut Nature,164.66,4.6,2.0,3.0,58
+285,Aquilon Garnacha,120.9,4.6,5.0,3.0,58
+286,Gran Reserva Penas Aladas,218.9,4.6,5.0,3.0,58
+287,Pena Lobera,65.95,4.6,5.0,3.0,57
+288,La Creu Alta,86.0,4.6,4.0,3.0,53
+289,Adega do Moucho Treixadura,34.5,4.6,,,53
+290,Son Negre,282.65,4.6,4.0,3.0,51
+291,1902 Centenary Carignan Priorat,259.9,4.6,4.0,3.0,51
+292,Unico,1099.28,4.6,5.0,3.0,50
+293,Casa Cisca Monastrell,35.0,4.6,5.0,3.0,49
+294,Moncerbal Bierzo (Corullon),269.95,4.6,3.0,3.0,48
+295,Capricho,27.2693427,4.6,4.0,3.0,47
+296,Pingus,1250.0,4.6,5.0,3.0,47
+297,Cerrado del Castillo Rioja,52.95,4.6,4.0,3.0,47
+298,Kalamity Rioja,114.95,4.6,4.0,3.0,46
+299,Conde de Aldama Amontillado,89.9,4.6,4.0,3.0,46
+300,Valbuena 5o,195.0,4.6,5.0,3.0,46
+301,Respeto,29.35,4.6,4.0,3.0,45
+302,El Garnacho Viejo de la Familia Acha,79.9,4.6,4.0,3.0,45
+303,Ribera del Duero Prestigio,53.95,4.6,5.0,3.0,45
+304,Finca Misenhora Edicion Limitada,26.2,4.6,,,44
+305,1902 Centenary Carignan Priorat,270.44,4.6,4.0,3.0,43
+306,La Poza de Ballesteros,187.5,4.6,4.0,2.0,42
+307,Reserva Rioja (Finca Ygay),210.0,4.6,4.0,3.0,42
+308,Reserva Especial,85.63,4.6,5.0,3.0,41
+309,Vina El Pison,304.54,4.6,4.0,2.0,41
+310,Idus,34.3,4.6,4.0,3.0,41
+311,Priorat,993.28,4.6,4.0,3.0,41
+312,Amancio,85.95,4.6,4.0,3.0,40
+313,Rosado de Larrainzar,12.0,4.6,,,39
+314,Clon De La Familia,249.9,4.6,5.0,3.0,39
+315,Unico Reserva Especial Edicion,1238.43,4.6,5.0,3.0,39
+316,Finca el Bosque,128.0,4.6,4.0,3.0,38
+317,Valdafoz Bierzo (Corullon),135.5,4.6,3.0,3.0,38
+318,Tinto,40.5,4.6,4.0,3.0,38
+319,Tintilla de Rota,43.1,4.6,,,37
+320,La Creu Alta,85.0,4.6,4.0,3.0,36
+321,Rioja Gran Reserva,123.0,4.6,4.0,3.0,35
+322,Valdegatiles Ribera del Duero,106.35,4.6,5.0,3.0,34
+323,Don PX Seleccion,207.0,4.6,5.0,1.0,34
+324,Respublica Verdejo,75.95,4.6,3.0,3.0,33
+325,Gran Reserva Penas Aladas,185.3,4.6,5.0,3.0,33
+326,Les Tosses,205.95,4.6,4.0,3.0,33
+327,Torremilanos Coleccion Ribera del Duero,40.45,4.6,5.0,3.0,32
+328,El Carretil,176.89,4.6,4.0,2.0,32
+329,Taberner No. 1,79.9,4.6,4.0,3.0,32
+330,Vina Motulleri,79.0,4.6,4.0,3.0,30
+331,Saktih,195.27,4.6,4.0,3.0,30
+332,Cuvee Palomar,58.9,4.6,4.0,3.0,30
+333,L'Ermita Velles Vinyes Priorat,1660.0,4.6,4.0,3.0,30
+334,Valdegatiles Ribera del Duero,111.9,4.6,5.0,3.0,29
+335,Respeto,29.95,4.6,4.0,3.0,29
+336,Uno Tinto,129.9,4.6,4.0,3.0,28
+337,Macan,69.95,4.6,4.0,3.0,28
+338,1903 Centenary Grenache,299.0,4.6,4.0,3.0,28
+339,La Faraona Bierzo (Corullon),3119.08,4.6,4.0,3.0,28
+340,Galiano Seleccion Especial,99.95,4.6,4.0,3.0,28
+341,Molino Real,41.69,4.6,,,28
+342,Son Negre,374.35,4.6,4.0,3.0,27
+343,5o Ano Ribera del Duero Tinto,46.45,4.6,5.0,3.0,27
+344,L'Ermita Velles Vinyes Priorat,2750.0,4.6,4.0,3.0,27
+345,Etern Vinyes Molt Velles,42.5,4.6,4.0,3.0,26
+346,40 Aniversario Gran Reserva,95.0,4.6,5.0,3.0,25
+347,Solera BC-200,197.3,4.6,4.0,3.0,25
+348,Corpinnat Enoteca Reserva Particular de Recaredo,130.0,4.6,2.0,3.0,25
+349,Don PX Pedro Ximenez,181.5,4.6,5.0,1.0,25
+350,Tinto,29.8,4.5,5.0,3.0,7529
+351,Ribera del Duero,73.0,4.5,5.0,3.0,7435
+352,Ribera del Duero,56.27,4.5,5.0,3.0,7237
+353,Toro,69.0,4.5,5.0,3.0,5863
+354,Tinto,45.0,4.5,5.0,3.0,5372
+355,Ribera del Duero,75.0,4.5,5.0,3.0,5365
+356,Toro,69.8,4.5,5.0,3.0,4979
+357,Tinto,121.936825872994,4.5,5.0,3.0,4935
+358,PS (Pagos Seleccionados) Ribera del Duero,78.65,4.5,5.0,3.0,4411
+359,Castillo Ygay Gran Reserva Especial Tinto,400.0,4.5,4.0,3.0,3521
+360,Gran Reserva 890,125.0,4.5,4.0,3.0,3443
+361,Castillo Ygay Gran Reserva Especial Tinto,229.0,4.5,4.0,3.0,3148
+362,Toro,40.41,4.5,5.0,3.0,3118
+363,Flor de Pingus,101.94,4.5,5.0,3.0,2887
+364,PS (Pagos Seleccionados) Ribera del Duero,172.5,4.5,5.0,3.0,2858
+365,Clio,33.2,4.5,4.0,3.0,2712
+366,Flor de Pingus,125.0,4.5,5.0,3.0,2710
+367,Flor de Pingus,125.0,4.5,5.0,3.0,2551
+368,Flor de Pingus,125.0,4.5,5.0,3.0,2530
+369,Clio,31.75,4.5,4.0,3.0,2228
+370,Clio,39.5,4.5,4.0,3.0,2220
+371,PS (Pagos Seleccionados) Ribera del Duero,64.0,4.5,5.0,3.0,2207
+372,Tinto,33.8,4.5,5.0,3.0,2144
+373,Macan,58.95,4.5,4.0,3.0,1910
+374,Tinto,33.25,4.5,5.0,3.0,1864
+375,Clio,61.8491765262698,4.5,4.0,3.0,1520
+376,Garnacha,44.27,4.5,5.0,3.0,1503
+377,Parcela El Nogal Tinto,45.9,4.5,5.0,3.0,1393
+378,Valbuena 5o,239.2,4.5,5.0,3.0,1346
+379,Macan,68.9,4.5,4.0,3.0,1345
+380,Ribera del Duero,164.0,4.5,5.0,3.0,1236
+381,Belondrade y Lurton,32.85,4.5,3.0,3.0,1192
+382,Parcela El Nogal Tinto,40.95,4.5,5.0,3.0,1163
+383,Reserva,69.5803235920536,4.5,5.0,3.0,1148
+384,Flor de Pingus,110.0,4.5,5.0,3.0,1094
+385,Rioja Reserva,49.75,4.5,4.0,3.0,1089
+386,Prado Enea Gran Reserva,51.0,4.5,4.0,3.0,1014
+387,Rioja Reserva,59.9,4.5,4.0,3.0,1012
+388,Gran Reserva 890,290.7,4.5,4.0,3.0,990
+389,Belondrade y Lurton,37.7,4.5,3.0,3.0,961
+390,Priorat,146.95,4.5,4.0,3.0,955
+391,Pedro Ximenez Tradicion 20 Years Old Vos,68.9,4.5,5.0,1.0,854
+392,Torre Muga,70.5,4.5,4.0,3.0,838
+393,Macan,64.0,4.5,4.0,3.0,813
+394,Termanthia,168.0,4.5,5.0,3.0,729
+395,Malleolus de Valderramiro,173.95,4.5,5.0,3.0,719
+396,Priorat,65.0,4.5,4.0,3.0,666
+397,Dalmau Rioja,67.6,4.5,4.0,3.0,642
+398,Reserva,53.95,4.5,5.0,3.0,629
+399,Parcela El Nogal Tinto,42.95,4.5,5.0,3.0,595
+400,Gran Reserva 890,127.23,4.5,4.0,3.0,574
+401,Clio,47.3,4.5,4.0,3.0,550
+402,Aro,169.4,4.5,4.0,3.0,529
+403,Gran Reserva,121.838963251908,4.5,4.0,3.0,529
+404,San Vicente Rioja,34.8,4.5,4.0,3.0,505
+405,Ribera del Duero TSM,55.35,4.5,5.0,3.0,503
+406,Pago de Santa Cruz,75.95,4.5,5.0,3.0,501
+407,Ribera Del Duero Reserva Premium 6 Anos,48.7,4.5,5.0,3.0,500
+408,Trasnocho,118.89,4.5,4.0,3.0,499
+409,Clos de L'Obac,92.8716274104906,4.5,4.0,3.0,493
+410,Valbuena 5o,290.4,4.5,5.0,3.0,488
+411,Reserva Ribera del Duero,31.8,4.5,5.0,3.0,477
+412,Gran Reserva 890,149.5,4.5,4.0,3.0,469
+413,Ribera Del Duero,35.85,4.5,5.0,3.0,462
+414,Pago de Santa Cruz,82.95,4.5,5.0,3.0,420
+415,Ribera Del Duero Reserva Premium 6 Anos,59.0,4.5,5.0,3.0,406
+416,Bruto,37.7,4.5,5.0,3.0,384
+417,Culmen Reserva Rioja,42.75,4.5,4.0,3.0,365
+418,Cirsion Rioja,175.57,4.5,4.0,3.0,353
+419,Priorat,61.64,4.5,4.0,3.0,336
+420,Bruto,30.7,4.5,5.0,3.0,322
+421,VS,56.5,4.5,4.0,2.0,318
+422,Termanthia,207.11,4.5,5.0,3.0,316
+423,Trasnocho,110.5,4.5,4.0,3.0,301
+424,Reserva,55.95,4.5,5.0,3.0,297
+425,Vina Tondonia Gran Reserva,170.0,4.5,4.0,3.0,292
+426,Petit Verdot,107.9,4.5,4.0,3.0,286
+427,5o Ano Ribera del Duero Tinto,69.9,4.5,5.0,3.0,264
+428,El Titan del Bendito,49.5,4.5,5.0,3.0,261
+429,Petit Verdot,176.98,4.5,4.0,3.0,249
+430,Amancio,90.0,4.5,4.0,3.0,246
+431,Clos Martinet,65.0,4.5,4.0,3.0,230
+432,Trasnocho,95.0,4.5,4.0,3.0,229
+433,Tinto,39.0,4.5,5.0,3.0,229
+434,Ribera del Duero,193.0,4.5,5.0,3.0,226
+435,Aro,174.91,4.5,4.0,3.0,222
+436,Valbuena 5o,312.0,4.5,5.0,3.0,221
+437,Tinto,52.9,4.5,5.0,3.0,218
+438,Pago de Santa Cruz,40.9,4.5,5.0,3.0,217
+439,Tinto,157.95,4.5,4.0,3.0,214
+440,Millenium Gran Reserva,77.5,4.5,5.0,3.0,213
+441,Regina Vides Ribera del Duero,116.0,4.5,5.0,3.0,213
+442,Finca Dofi,75.0,4.5,4.0,3.0,207
+443,Gran Reserva Ribera del Duero,80.98,4.5,5.0,3.0,205
+444,Vina del Olivo,64.5,4.5,4.0,3.0,203
+445,Flor de Pingus,118.5,4.5,5.0,3.0,201
+446,Seleccio Especial Vinyes Velles,64.0,4.5,4.0,3.0,197
+447,Priorat,95.0,4.5,4.0,3.0,196
+448,Calvario Rioja,125.97,4.5,4.0,3.0,194
+449,Ribera del Duero Una Cepa I,26.5,4.5,5.0,3.0,194
+450,Ribera del Duero Prestigio,54.01,4.5,5.0,3.0,190
+451,Regina Vides Ribera del Duero,104.9,4.5,5.0,3.0,189
+452,Grans Muralles,170.5,4.5,4.0,3.0,189
+453,Pesus Ribera del Duero,315.0,4.5,5.0,3.0,189
+454,Gran Vino Albarino,34.9,4.5,3.0,3.0,188
+455,Reserva Especial Ribera del Duero,51.5,4.5,5.0,3.0,187
+456,Cuatro Palmas Amontillado,112.26,4.5,4.0,3.0,186
+457,Pago Garduna,71.85,4.5,4.0,3.0,186
+458,Belondrade y Lurton,38.9,4.5,3.0,3.0,184
+459,Toro,54.09,4.5,5.0,3.0,178
+460,La Cueva del Contador Rioja,67.9,4.5,4.0,3.0,174
+461,Finca el Bosque,80.95,4.5,4.0,3.0,173
+462,Solera 1830 Pedro Ximenez,114.5,4.5,5.0,1.0,171
+463,Que Bonito Cacareaba Blanco,50.34,4.5,3.0,3.0,170
+464,5o Ano Ribera del Duero Tinto,57.96,4.5,5.0,3.0,165
+465,Baron de Chirel Rioja Reserva,73.62,4.5,4.0,3.0,163
+466,Capitel,144.78,4.5,3.0,3.0,162
+467,Turo d'en Mota,90.0,4.5,2.0,3.0,161
+468,Amancio,89.95,4.5,4.0,3.0,156
+469,Regina Vides Ribera del Duero,92.8,4.5,5.0,3.0,154
+470,Emeritvs (Emeritus),48.9,4.5,4.0,3.0,147
+471,Regina Vides Ribera del Duero,70.55,4.5,5.0,3.0,144
+472,Turo d'en Mota,110.0,4.5,2.0,3.0,142
+473,Cami Pesseroles,139.3,4.5,4.0,3.0,141
+474,Reserva,59.8,4.5,5.0,3.0,141
+475,Amancio,75.0,4.5,4.0,3.0,140
+476,Finca Los Hoyales Ribera del Duero,57.0,4.5,5.0,3.0,140
+477,Vina El Pison,253.47,4.5,4.0,2.0,137
+478,Blanco,49.95,4.5,,,134
+479,Pesus Ribera del Duero,298.0,4.5,5.0,3.0,134
+480,Pago Garduna,73.6,4.5,4.0,3.0,132
+481,La Basseta,58.0,4.5,4.0,3.0,132
+482,Territorio Luthier Reserva,54.0,4.5,5.0,3.0,128
+483,Ribera del Duero,78.38,4.5,5.0,3.0,128
+484,Valbuena 5o,228.63,4.5,5.0,3.0,126
+485,Son Negre,228.9,4.5,4.0,3.0,121
+486,Clos de L'Obac,81.3,4.5,4.0,3.0,121
+487,Vinas Viejas de Soria Ribera Del Duero,165.0,4.5,5.0,3.0,117
+488,Pago de Santa Cruz Gran Reserva Ribera del Duero,54.9,4.5,5.0,3.0,115
+489,As Sortes Val do Bibei Godello,55.0,4.5,,,115
+490,Cami Pesseroles,131.85,4.5,4.0,3.0,113
+491,Parcela El Picon Tinto,148.39,4.5,5.0,3.0,113
+492,Tinto,39.0,4.5,5.0,3.0,110
+493,Seleccion Rioja,67.1,4.5,4.0,3.0,107
+494,Millenium Reserva,199.45,4.5,5.0,3.0,106
+495,Acediano,52.0,4.5,5.0,3.0,104
+496,Gaudium,34.9,4.5,4.0,3.0,104
+497,Vinas Viejas de Soria Ribera Del Duero,75.81,4.5,5.0,3.0,103
+498,Finca el Bosque,84.36,4.5,4.0,3.0,103
+499,Pico de Luyas,47.95,4.5,5.0,3.0,103
+500,Grandes Anadas Rioja,391.65,4.5,4.0,3.0,103
+501,Bruto,32.5,4.5,5.0,3.0,104
+502,Aro,198.0,4.5,4.0,3.0,102
+503,Mas Via Gran Reserva Brut,40.33,4.5,2.0,3.0,102
+504,Les Aubaguetes Priorat,302.5,4.5,4.0,3.0,99
+505,La Mula de la Quietud,62.0,4.5,5.0,3.0,99
+506,Navarra Coleccion 125 Blanco,49.1,4.5,4.0,3.0,97
+507,Dalmau Rioja,75.0,4.5,4.0,3.0,97
+508,Chardonnay Uno,200.13,4.5,4.0,3.0,96
+509,Don PX Vieja Cosecha,113.0,4.5,5.0,1.0,95
+510,Ribas de Cabrera,68.4059721390231,4.5,4.0,3.0,94
+511,Cenit,37.5,4.5,4.0,2.0,92
+512,El Carretil,165.0,4.5,4.0,2.0,88
+513,Quinon de Valmira,415.0,4.5,4.0,3.0,88
+514,Acediano,74.0,4.5,5.0,3.0,87
+515,Mas del Serral,192.16,4.5,2.0,3.0,82
+516,Estrats,59.82,4.5,4.0,3.0,81
+517,Son Negre,164.9,4.5,4.0,3.0,81
+518,Fino Imperial Amontillado 30 Anos,94.9,4.5,4.0,3.0,81
+519,Coliseo Amontillado VORS,199.0,4.5,4.0,3.0,81
+520,Finca el Bosque,85.95,4.5,4.0,3.0,81
+521,Grans Muralles,125.05,4.5,4.0,3.0,81
+522,Malleolus de Valderramiro,85.55,4.5,5.0,3.0,82
+523,Contador Rioja,317.75,4.5,4.0,3.0,80
+524,Tinto,35.0,4.5,5.0,3.0,79
+525,Vina Tondonia Gran Reserva Blanco,274.95,4.5,3.0,3.0,78
+526,Cami Pesseroles,82.55,4.5,4.0,3.0,78
+527,Priorat,63.9,4.5,4.0,3.0,76
+528,8000,29.95,4.5,5.0,3.0,75
+529,Pesus Ribera del Duero,312.6,4.5,5.0,3.0,75
+530,La Basseta,58.95,4.5,4.0,3.0,75
+531,La Poza de Ballesteros,99.35,4.5,4.0,2.0,74
+532,Mironia Black Edition Tempranillo,49.5,4.5,5.0,3.0,73
+533,La Creu Alta,234.98,4.5,4.0,3.0,73
+534,Miserere,78.5,4.5,4.0,3.0,74
+535,Prado Enea Gran Reserva,56.95,4.5,4.0,3.0,72
+536,Alma Tobia Rioja,40.0,4.5,4.0,3.0,72
+537,Tm,100.0,4.5,4.0,2.0,71
+538,Doix,79.9,4.5,4.0,3.0,71
+539,Tinto,63.5,4.5,5.0,3.0,70
+540,La Loma,38.9,4.5,4.0,3.0,69
+541,Nebro Ribera del Duero,154.5,4.5,5.0,3.0,69
+542,Priorat,374.66,4.5,4.0,3.0,69
+543,El Carretil,143.51,4.5,4.0,2.0,66
+544,El Canto del Angel,59.95,4.5,5.0,3.0,66
+545,Grandes Anadas Rioja,467.65,4.5,4.0,3.0,66
+546,Rioja Blanco Reserva,65.5,4.5,3.0,3.0,66
+547,Gran Reserva,88.5,4.5,4.0,3.0,65
+548,Cayetano del Pino Viejisimo Palo Cortado,25.92,4.5,4.0,3.0,61
+549,Calvario Rioja,95.0,4.5,4.0,3.0,61
+550,Gran Reserva Penas Aladas,559.02,4.5,5.0,3.0,61
+551,Cami Pesseroles,115.85,4.5,4.0,3.0,60
+552,Unico,976.83,4.5,5.0,3.0,60
+553,Gratallops Partida Bellvisos,266.81,4.5,4.0,3.0,59
+554,Coleccion Privada,26.9,4.5,4.0,3.0,59
+555,Finca El Canto,89.66,4.5,4.0,2.0,58
+556,Finca Cascorrales,64.3,4.5,5.0,3.0,57
+557,Rioja Gran Reserva 904,190.0,4.5,4.0,3.0,57
+558,AAA,141.2,4.5,4.0,3.0,56
+559,Tinto,32.0,4.5,5.0,3.0,55
+560,Rioja Gran Reserva,61.0,4.5,4.0,3.0,54
+561,Gran Reserva,140.0,4.5,4.0,3.0,54
+562,Marques de Poley Amontillado Seleccion 1951,169.95,4.5,5.0,1.0,53
+563,Ribera Del Duero Reserva Premium 6 Anos,49.9,4.5,5.0,3.0,53
+564,Reserva Especial,65.9,4.5,4.0,3.0,53
+565,Platon Tinto,25.9,4.5,5.0,3.0,52
+566,Altos de Las Gateras Monastrell,58.19,4.5,5.0,3.0,51
+567,Canta la Perdiz,295.0,4.5,5.0,3.0,51
+568,Marques de la Concordia VSG Premium (formerly Hacienda de Susar Rioja),35.5,4.5,4.0,3.0,50
+569,Cava Kripta Gran Reserva Brut Nature,53.7,4.5,2.0,3.0,49
+570,Alba de Miros Rueda Verdejo,9.9,4.5,3.0,3.0,49
+571,Ribera del Duero TSM,40.8333333333333,4.5,5.0,3.0,48
+572,Pendon De La Aguilera,299.286840932831,4.5,5.0,3.0,47
+573,V2 Tinto,43.6838985,4.5,4.0,3.0,49
+574,L'Ermita Velles Vinyes Priorat,1372.14,4.5,4.0,3.0,46
+575,Cami Pesseroles,79.55,4.5,4.0,3.0,46
+576,Planots Priorat,57.0,4.5,4.0,3.0,46
+577,Blanco,14.96,4.5,,,45
+578,Celia,60.06,4.5,5.0,3.0,44
+579,Ribera del Duero Prestigio Pago de las Solanas,237.0,4.5,5.0,3.0,44
+580,Priorat,993.28,4.5,4.0,3.0,43
+581,Calmo,71.9,4.5,5.0,3.0,43
+582,Gran Reserva,270.0,4.5,4.0,3.0,43
+583,Dalmau Rioja,48.5,4.5,4.0,3.0,42
+584,Son Negre,200.0,4.5,4.0,3.0,42
+585,Confesor Rioja,107.5,4.5,4.0,3.0,42
+586,Cartago Paraje de Pozo,77.5,4.5,5.0,3.0,42
+587,La Bienquerida,32.9,4.5,3.0,3.0,41
+588,Seleccion Especial,93.51,4.5,4.0,3.0,40
+589,Saca Unica,96.38,4.5,4.0,3.0,39
+590,Taberner No. 1,75.0,4.5,4.0,3.0,38
+591,Palomero,44.95,4.5,5.0,3.0,38
+592,Grano a Grano,75.0,4.5,4.0,3.0,37
+593,Nebro Ribera del Duero,143.38,4.5,5.0,3.0,37
+594,Valbuena 5o,195.0,4.5,5.0,3.0,37
+595,Petit Verdot,20.15,4.5,4.0,3.0,36
+596,La Faraona Bierzo (Corullon),1373.66,4.5,4.0,3.0,36
+597,Santa Ana Pedro Ximenez 1861,320.0,4.5,5.0,1.0,36
+598,Cuvee Julia Ribera del Duero,157.0,4.5,5.0,3.0,35
+599,Don PX Seleccion,295.0,4.5,5.0,1.0,34
+600,Garnacha,29.95,4.5,5.0,3.0,33
+601,Vina Tondonia Gran Reserva,187.91,4.5,4.0,3.0,33
+602,Cami Pesseroles,113.2,4.5,4.0,3.0,32
+603,Las Lamas Bierzo (Corullon),120.0,4.5,3.0,3.0,32
+604,Finca Garbet,89.9,4.5,4.0,3.0,32
+605,200 Monges Rioja Reserva Seleccion Especial,59.25,4.5,4.0,3.0,32
+606,Galia Clos Santuy,89.0,4.5,4.0,3.0,32
+607,Tomas Esteban,71.3,4.5,5.0,3.0,32
+608,Finca Las Comas Verdejo,34.5,4.5,3.0,3.0,32
+609,Valbuena 5o,195.0,4.5,5.0,3.0,31
+610,Petit Verdot,160.81,4.5,4.0,3.0,31
+611,Diables,38.75,4.5,,,31
+612,St Antoni de Scala Dei Priorat,75.04,4.5,4.0,3.0,30
+613,Anada Palo Cortado 1987,230.0,4.5,4.0,3.0,30
+614,Valdegines,40.0,4.5,4.0,2.0,30
+615,Priorat,225.0,4.5,4.0,3.0,30
+616,Seda de Oro Reserva,69.0,4.5,4.0,3.0,29
+617,Grano a Grano Graciano - Garnacha,55.14,4.5,5.0,3.0,29
+618,Reserva,90.0,4.5,5.0,3.0,29
+619,Carraquintana de Amaren,56.5,4.5,4.0,3.0,29
+620,Garnacha Parcela 81 Vinas Viejas,54.9,4.5,4.0,3.0,28
+621,Saktih,132.95,4.5,4.0,3.0,28
+622,Cava Enoteca Finca de L'Origen Brut Nature,142.0,4.5,2.0,3.0,28
+623,Salinas 1237,53.25,4.5,4.0,3.0,28
+624,Cabernet Sauvignon,16.9,4.5,4.0,3.0,27
+625,Finca La Colina Sauvignon Blanc,13.45,4.5,3.0,3.0,27
+626,Dominio del Verso Red Blend,29.5,4.5,,,27
+627,Altos R Pigeage Nacido en Barrica Blanco,29.9168517,4.4,,,27
+628,Vinyes Altes Porrera,69.0,4.5,,,26
+629,La Vinya del Vuit (8),73.0,4.5,,,26
+630,Venus de la Figuera,51.5,4.5,,,26
+631,Vendetta,38.0,4.5,,,25
+632,Ribera del Duero,189.0,4.4,,,6395
+633,Toro,39.5,4.4,,,5732
+634,Toro,89.9,4.4,,,5614
+635,Toro,76.8,4.4,,,5204
+636,Rioja Gran Reserva 904,47.5,4.4,,,5109
+637,Ribera del Duero Reserva,31.5,4.4,,,4851
+638,Rioja Gran Reserva 904,47.95,4.4,,,4625
+639,Rioja Gran Reserva 904,47.95,4.4,,,4357
+640,Malleolus,38.61,4.4,,,4121
+641,Seleccion Especial (Reserva),27.9,4.4,,,3589
+642,Ribera del Duero Reserva,37.25,4.4,,,3456
+643,Cosecha,37.8,4.4,,,3406
+644,Rioja Gran Reserva 904,61.55,4.4,,,3327
+645,Prado Enea Gran Reserva,43.95,4.4,,,3197
+646,Red,31.95,4.4,,,3095
+647,Seleccion Especial,25.5,4.4,,,3093
+648,Clio,35.65,4.4,,,3089
+649,Flor de Pingus,125.0,4.4,,,2546
+650,Flor de Pingus,125.0,4.4,,,2418
+651,Vina Ardanza Reserva,23.0,4.4,4.0,3.0,2370
+652,Roda I Reserva Rioja,43.5,4.4,4.0,3.0,2228
+653,Roda I Reserva Rioja,24.7,4.4,4.0,3.0,2133
+654,3er Ano Ribera del Duero Tinto,27.4,4.4,5.0,3.0,2080
+655,Ribera del Duero,96.0,4.4,5.0,3.0,2053
+656,Macan Clasico,37.52,4.4,4.0,3.0,1993
+657,Roda I Reserva Rioja,43.95,4.4,4.0,3.0,1949
+658,Alaya Tierra (Old Vines Vieilles Vignes),19.6,4.4,5.0,3.0,1948
+659,Castillo Ygay Gran Reserva Especial Tinto,160.0,4.4,4.0,3.0,1943
+660,Roda I Reserva Rioja,43.5,4.4,4.0,3.0,1853
+661,3er Ano Ribera del Duero Tinto,27.75,4.4,5.0,3.0,1842
+662,Cosecha,32.5,4.4,5.0,3.0,1777
+663,Red,29.45,4.4,4.0,3.0,1701
+664,Tinto,51.526827174062,4.4,5.0,3.0,1561
+665,Macan,216.0,4.4,4.0,3.0,1519
+666,Ribera del Duero,119.7,4.4,5.0,3.0,1514
+667,Torre Muga,66.73,4.4,4.0,3.0,1475
+668,Roda I Reserva Rioja,39.95,4.4,4.0,3.0,1463
+669,El Viejo,32.01,4.4,5.0,3.0,1438
+670,Ribera del Duero Una Cepa I,28.9,4.4,5.0,3.0,1372
+671,Tinto,36.0,4.4,5.0,3.0,1339
+672,Hacienda Pradolagar,105.12,4.4,4.0,3.0,1326
+673,Cava Kripta Gran Reserva Brut Nature,52.5,4.4,2.0,3.0,1269
+674,Cosecha,33.31,4.4,5.0,3.0,1266
+675,Rioja Reserva,73.65,4.4,4.0,3.0,1255
+676,Garnacha,33.95,4.4,5.0,3.0,1226
+677,Rioja Reserva,74.0,4.4,4.0,3.0,1172
+678,Ribera del Duero,169.0,4.4,5.0,3.0,1166
+679,Alaya Tierra (Old Vines Vieilles Vignes),24.8,4.4,5.0,3.0,1158
+680,Ribera del Duero,140.840866321332,4.4,5.0,3.0,1121
+681,Priorat,175.5,4.4,4.0,3.0,1104
+682,200 Monges Rioja Reserva,37.57,4.4,4.0,3.0,1098
+683,Reserva Ribera del Duero,26.24,4.4,5.0,3.0,1087
+684,Malleolus,28.5,4.4,5.0,3.0,1069
+685,VS,178.0,4.4,4.0,2.0,1064
+686,Reserva,78.65,4.4,5.0,3.0,1048
+687,Flor de Pingus,125.0,4.4,5.0,3.0,1047
+688,Roda I Reserva Rioja,35.9,4.4,4.0,3.0,1039
+689,Reserva Tinto,35.7,4.4,5.0,3.0,1040
+690,Tinto,33.0,4.4,5.0,3.0,1018
+691,VS,60.95,4.4,4.0,2.0,995
+692,Jumilla Blue Label,21.95,4.4,4.0,3.0,966
+693,Palo Cortado Tradicion Vors 30 Years Sherry,82.5,4.4,4.0,3.0,941
+694,Reserva,109.9,4.4,5.0,3.0,927
+695,San Vicente Rioja,33.5,4.4,4.0,3.0,925
+696,Garnacha,38.95,4.4,5.0,3.0,915
+697,Triga,34.9,4.4,4.0,3.0,852
+698,Gaudium,37.8,4.4,4.0,3.0,827
+699,Amontillado Tradicion Vors 30 Years,59.9,4.4,4.0,3.0,825
+700,Victorino,38.7,4.4,5.0,3.0,812
+701,Priorat,90.0,4.4,4.0,3.0,809
+702,Priorat,69.79,4.4,4.0,3.0,799
+703,Culmen Reserva Rioja,59.9,4.4,4.0,3.0,798
+704,Alaya Tierra (Old Vines Vieilles Vignes),27.39,4.4,5.0,3.0,787
+705,Roda I Reserva Rioja,93.0,4.4,4.0,3.0,783
+706,Reserva,73.57,4.4,5.0,3.0,778
+707,Reserva Privada Rioja,49.67,4.4,4.0,3.0,746
+708,Pago Negralada,91.57,4.4,4.0,2.0,726
+709,Priorat,90.0,4.4,4.0,3.0,695
+710,Baron de Chirel Rioja Reserva,69.95,4.4,4.0,3.0,683
+711,Ribera del Duero,190.0,4.4,5.0,3.0,681
+712,Baron de Chirel Rioja Reserva,140.0,4.4,4.0,3.0,667
+713,Rejon Tempranillo,35.75,4.4,4.0,2.0,664
+714,Finca Dofi,52.5,4.4,4.0,3.0,639
+715,Priorat,95.0,4.4,4.0,3.0,624
+716,Interpretacion,45.15,4.4,5.0,3.0,618
+717,Torre Muga,58.2142247461506,4.4,4.0,3.0,617
+718,San Vicente Rioja,42.7,4.4,4.0,3.0,609
+719,Vendimia,28.7315367295517,4.4,5.0,3.0,581
+720,Priorat Vinyes Velles,32.65,4.4,4.0,3.0,575
+721,Gaudium,43.86,4.4,4.0,3.0,561
+722,Macan Clasico,36.9,4.4,4.0,3.0,560
+723,Rioja Reserva,54.83,4.4,4.0,3.0,550
+724,Dalmau Rioja,55.33,4.4,4.0,3.0,550
+725,Tempranillo Reserva,26.9,4.4,4.0,3.0,542
+726,Cream Tradicion Vos 20 Years,57.9,4.4,,,527
+727,Millenium Reserva,74.0,4.4,,,527
+728,Cosecha,34.35,4.4,,,523
+729,Gran Reserva Ribera del Duero,76.3,4.4,,,516
+730,Interpretacion,45.3,4.4,,,514
+731,Valbuena 5o,299.0,4.4,,,512
+732,VS,56.5,4.4,,,506
+733,Pago de Santa Cruz,54.9,4.4,,,499
+734,Vatan Tinta de Toro,55.31,4.4,,,498
+735,Dominio del Pidio,53.91,4.4,,,495
+736,Rioja Gran Reserva,35.1,4.4,,,485
+737,Victorino,38.5,4.4,,,481
+738,Rioja Gran Reserva,49.97,4.4,,,471
+739,Reserva,32.9,4.4,,,450
+740,Tinto,34.0,4.4,,,443
+741,Pagos Viejos,90.5,4.4,,,442
+742,An,38.3,4.4,,,436
+743,Ribera del Duero Prestigio,41.32,4.4,,,421
+744,Numanthia,98.0,4.4,,,414
+745,As Sortes Val do Bibei Godello,55.71,4.4,,,412
+746,Suprema 30 Meses,35.2,4.4,,,406
+747,La Cueva del Contador Rioja,73.6,4.4,,,389
+748,Interpretacion,41.0,4.4,,,389
+749,Garnacha,31.5,4.4,,,376
+750,Ribera del Duero TSM,56.75,4.4,,,367
+751,Whisba Tempranillo Aged 18 Months in Whisky Barrels,20.9,4.4,5.0,3.0,363
+752,A Mano Rioja,30.73,4.4,4.0,3.0,360
+753,Finca Los Hoyales Ribera del Duero,49.9,4.4,5.0,3.0,351
+754,200 Monges Rioja Gran Reserva,52.0,4.4,4.0,3.0,349
+755,La Cueva del Contador Rioja,90.0,4.4,4.0,3.0,343
+756,La Hormiga de Antidoto,26.63,4.4,5.0,3.0,336
+757,Le Domaine Blanco de Guarda,32.58,4.4,,,334
+758,As Sortes Val do Bibei Godello,46.5,4.4,,,333
+759,Edicion Limitada,32.5811870756681,4.4,5.0,3.0,328
+760,Tinto,29.95,4.4,4.0,3.0,319
+761,Lealtanza Coleccion de Artistas Espanoles Sorolla,34.9,4.4,4.0,3.0,316
+762,Granja Gran Reserva Rioja,43.9,4.4,4.0,3.0,313
+763,Priorat,65.0,4.4,4.0,3.0,309
+764,Don PX Pedro Ximenez,35.9,4.4,5.0,1.0,306
+765,Perez Pascuas Gran Reserva Seleccion,210.5,4.4,5.0,3.0,305
+766,Cava Kripta Gran Reserva Brut Nature,55.95,4.4,2.0,3.0,298
+767,Miserere,92.8716274104906,4.4,4.0,3.0,296
+768,Clos Martinet,65.4,4.4,4.0,3.0,296
+769,V2 Tinto,45.890156,4.4,4.0,3.0,293
+770,Grans Muralles,304.0,4.4,4.0,3.0,292
+771,Cerrado del Castillo Rioja,47.5,4.4,4.0,3.0,269
+772,A Mano Rioja,29.9,4.4,4.0,3.0,269
+773,Rioja Gran Reserva,40.45,4.4,4.0,3.0,267
+774,El Puntido Gran Reserva,49.65,4.4,4.0,3.0,267
+775,Pagos Viejos,57.11,4.4,4.0,2.0,262
+776,Ribera del Duero,141.0,4.4,5.0,3.0,259
+777,Trasnocho,133.75,4.4,4.0,3.0,258
+778,La Cueva del Contador Rioja,67.9,4.4,4.0,3.0,252
+779,Clos Martinet,75.92,4.4,4.0,3.0,249
+780,Cava Kripta Gran Reserva Brut Nature,47.52,4.4,2.0,3.0,245
+781,Triga,29.9,4.4,4.0,3.0,243
+782,Cuvee Old Vines Unfiltered,19.99,4.4,4.0,3.0,241
+783,Gran Reserva,59.25,4.4,4.0,3.0,239
+784,Fondillon,73.9,4.4,4.0,3.0,236
+785,1730 Pedro Ximenez,39.35,4.4,4.0,3.0,234
+786,Cirerets,40.3,4.4,4.0,3.0,233
+787,Dominio del Pidio,42.75,4.4,5.0,3.0,225
+788,Vina del Olivo,149.5,4.4,4.0,3.0,224
+789,La Cueva del Contador Rioja,76.5,4.4,4.0,3.0,222
+790,Clos Martinet,113.2,4.4,4.0,3.0,220
+791,Vinas Viejas Verdejo,26.9,4.4,3.0,3.0,219
+792,Valbuena 5o,249.8,4.4,5.0,3.0,218
+793,Reserva,29.95,4.4,5.0,3.0,217
+794,Tadeo Tinto,33.0,4.4,4.0,3.0,215
+795,Tierras de Cair Reserva,37.0,4.4,5.0,3.0,208
+796,Tinto,37.13,4.4,5.0,3.0,207
+797,Gran Reserva Rosado,49.95,4.4,,,206
+798,Navarra Coleccion 125 Blanco,50.9,4.4,4.0,3.0,204
+799,Cava Celler Batlle,51.95,4.4,2.0,3.0,201
+800,Rioja Blanco,49.2,4.4,3.0,3.0,201
+801,Casa Cisca Monastrell,35.2,4.4,5.0,3.0,200
+802,Lapola,20.74,4.4,,,196
+803,Calvario Rioja,87.3,4.4,4.0,3.0,195
+804,Granja Gran Reserva Rioja,45.95,4.4,4.0,3.0,194
+805,Pago Negralada,64.99,4.4,4.0,2.0,189
+806,Doix,350.03,4.4,4.0,3.0,187
+807,Seleccio Especial Vinyes Velles,69.9,4.4,4.0,3.0,185
+808,Idus,36.95,4.4,4.0,3.0,180
+809,Clos Martinet,154.37,4.4,4.0,3.0,177
+810,Clos Abella Seleccion Especial,43.85,4.4,4.0,3.0,173
+811,Pie Franco,77.98,4.4,5.0,3.0,172
+812,Amancio,91.43,4.4,4.0,3.0,172
+813,Malleolus de Sanchomartin,195.0,4.4,5.0,3.0,172
+814,Tinto,125.84,4.4,4.0,3.0,169
+815,Culmen Reserva Rioja,69.0,4.4,4.0,3.0,168
+816,Singular V Malcorta Verdejo,17.49,4.4,3.0,3.0,168
+817,Serral del Vell Brut Nature,44.41,4.4,2.0,3.0,166
+818,Tinto,149.0,4.4,4.0,3.0,165
+819,Pago Negralada,73.6,4.4,4.0,2.0,165
+820,Trasnocho,82.75,4.4,4.0,3.0,164
+821,Doix,78.38,4.4,4.0,3.0,164
+822,Seleccion Finca el Grajo Viejo,59.95,4.4,5.0,3.0,162
+823,Finca el Bosque,80.95,4.4,4.0,3.0,162
+824,La Poza de Ballesteros,95.9,4.4,4.0,2.0,161
+825,Millenium Reserva,75.0,4.4,5.0,3.0,160
+826,30 Years VORS Pedro Ximenez Sherry,58.95,4.4,4.0,3.0,159
+827,Gaudium,125.0,4.4,4.0,3.0,159
+828,Vina del Olivo,64.0,4.4,4.0,3.0,159
+829,Finca el Bosque,78.9,4.4,4.0,3.0,158
+830,Malpuesto,35.5,4.4,4.0,3.0,158
+831,Valdegines,42.35,4.4,4.0,2.0,155
+832,Chafandin,28.95,4.4,5.0,3.0,155
+833,Vina El Pison,495.0,4.4,4.0,2.0,154
+834,Pago Negralada,63.95,4.4,4.0,2.0,152
+835,La Vina de Andres Romeo Rioja,99.0,4.4,4.0,3.0,151
+836,Pesus Ribera del Duero,379.0,4.4,5.0,3.0,150
+837,Reserva,56.95,4.4,5.0,3.0,149
+838,Regina Vides Ribera del Duero,65.34,4.4,5.0,3.0,148
+839,Delicado Cosecha Pedro Ximenez,22.35,4.4,5.0,1.0,147
+840,Atlantico,18.99,4.4,,,146
+841,Quincha Corral,79.95,4.4,4.0,3.0,145
+842,Els Escurcons,78.49,4.4,4.0,3.0,143
+843,Rioja Reserva,49.9,4.4,4.0,3.0,142
+844,Idus,35.5,4.4,4.0,3.0,141
+845,Vinos Singulares Tempranillo Blanco Reserva,34.9,4.4,3.0,3.0,141
+846,Christina Ribera del Duero,50.76,4.4,5.0,3.0,142
+847,Desti,29.95,4.4,4.0,3.0,136
+848,Gran Reserva Classica Tinto,36.75,4.4,4.0,3.0,135
+849,Godello Blanco,37.6,4.4,,,134
+850,Aquilon Garnacha,100.0,4.4,5.0,3.0,134
+851,Palo Cortado 1/10,25.0,4.4,4.0,3.0,134
+852,Fourth Edition,40.0,4.4,4.0,2.0,131
+853,Rioja Blanco,52.0,4.4,3.0,3.0,130
+854,Seleccion de Anada Albarino Rias Baixas,34.25,4.4,3.0,3.0,130
+855,Albarino de Fefinanes III Ano,35.4,4.4,3.0,3.0,128
+856,Reserva Ribera del Duero,32.15,4.4,5.0,3.0,128
+857,Perpetual,62.75,4.4,4.0,3.0,127
+858,Cava Celler Batlle,58.3,4.4,2.0,3.0,126
+859,Seleccio Especial Vinyes Velles,58.9,4.4,4.0,3.0,123
+860,El Cel,59.0,4.4,4.0,3.0,123
+861,Montes Obarenes Seleccion Terroir,42.95,4.4,3.0,3.0,122
+862,Porrera Vi de Vila,43.95,4.4,4.0,3.0,122
+863,Gran Ribera del Duero,41.9188925,4.4,5.0,3.0,122
+864,Heretge Priorat,91.03,4.4,4.0,3.0,120
+865,Vinas Viejas,25.1,4.4,5.0,3.0,119
+866,La Poza de Ballesteros,104.0,4.4,4.0,2.0,119
+867,El Carretil,295.3,4.4,4.0,2.0,117
+868,Sibarita Oloroso Jerez-Xeres-Sherry 30 Years V.O.R.S,79.9,4.4,4.0,3.0,117
+869,Pago de Santa Cruz Gran Reserva Ribera del Duero,71.95,4.4,5.0,3.0,116
+870,17,57.9,4.4,4.0,2.0,115
+871,Pesus Ribera del Duero,465.0,4.4,5.0,3.0,114
+872,Doix,116.0,4.4,4.0,3.0,114
+873,Les Tosses,158.88,4.4,4.0,3.0,113
+874,Cami Pesseroles,165.85,4.4,4.0,3.0,112
+875,La Poza de Ballesteros,101.01,4.4,4.0,2.0,112
+876,Clos del Portal Tros de Clos,56.95,4.4,4.0,3.0,109
+877,Pago de Santa Cruz,48.69,4.4,5.0,3.0,109
+878,La Basseta,56.0,4.4,4.0,3.0,108
+879,Classic,217.2,4.4,4.0,3.0,106
+880,Nit de Nin Mas d'en Cacador,89.9,4.4,4.0,3.0,106
+881,Minami,48.9,4.4,5.0,3.0,106
+882,Rioja Gran Reserva 904,145.0,4.4,4.0,3.0,106
+883,Vi de Vila Gratallops,54.5,4.4,4.0,3.0,105
+884,Acediano,42.0,4.4,5.0,3.0,104
+885,Cava Celler Batlle,59.75,4.4,2.0,3.0,102
+886,Classic,49.95,4.4,4.0,3.0,102
+887,Veguin de Murua Gran Reserva,36.0,4.4,4.0,3.0,101
+888,O Luar do Sil Valdeorras Godello Sobre Lias,16.39,4.4,,,101
+889,Doix,95.0,4.4,4.0,3.0,100
+890,Teixar,51.05,4.4,4.0,3.0,99
+891,Tinto,52.9,4.4,5.0,3.0,99
+892,Anada Pedro Ximenez,17.5,4.4,5.0,1.0,99
+893,Le Domaine Blanco de Guarda,33.8,4.4,,,99
+894,Vina El Pison,419.85,4.4,4.0,2.0,98
+895,Clos del Portal Somni,33.03,4.4,4.0,3.0,98
+896,Les Manyes,189.0,4.4,4.0,3.0,98
+897,Emporda Aires de Garbet,39.22,4.4,4.0,3.0,98
+898,Montes de Toledo Syrah,19.5,4.4,4.0,3.0,97
+899,Torremilanos Coleccion Ribera del Duero,44.0,4.4,5.0,3.0,97
+900,Regina Vides Ribera del Duero,101.1,4.4,5.0,3.0,96
+901,Maceracion Con Pieles,36.95,4.4,3.0,3.0,95
+902,Don PX Pedro Ximenez,225.0,4.4,5.0,1.0,95
+903,Baron de Chirel Rioja Reserva,77.0,4.4,4.0,3.0,95
+904,Pie Franco,69.0,4.4,5.0,3.0,95
+905,La Cueva del Contador Rioja,90.0,4.4,4.0,3.0,94
+906,Clos Monlleo,50.0,4.4,4.0,3.0,94
+907,Calvario Rioja,125.97,4.4,4.0,3.0,92
+908,B.Rodriguez La-Cave Quo Vadis?,87.9,4.4,4.0,3.0,89
+909,La Solana Alta,63.46,4.4,,,90
+910,Blecua Somontano,69.0,4.4,4.0,3.0,88
+911,El Cel,64.0,4.4,4.0,3.0,88
+912,Rioja Reserva 10 Anos Despues Edicion Limitada,57.9,4.4,4.0,3.0,88
+913,El Carretil,143.51,4.4,4.0,2.0,86
+914,Perinet + Plus,54.05,4.4,4.0,3.0,85
+915,Tinto,102.0,4.4,4.0,3.0,85
+916,Priorat,95.0,4.4,4.0,3.0,85
+917,Vina de Martin Escolma Ribeiro,37.65,4.4,,,85
+918,Vina El Pison,340.0,4.4,4.0,2.0,85
+919,Reserva,28.9,4.4,5.0,3.0,83
+920,Finca Dofi,84.55,4.4,4.0,3.0,82
+921,Castillo Ygay Gran Reserva Especial Tinto,940.0,4.4,4.0,3.0,80
+922,Cami Pesseroles,152.6,4.4,4.0,3.0,80
+923,Ribera del Duero Torralvo,32.45,4.4,5.0,3.0,80
+924,El Cabernet F - Familiar,34.9,4.4,4.0,3.0,80
+925,Premium,35.0,4.4,5.0,3.0,79
+926,Hipperia Red Blend,24.9,4.4,4.0,3.0,79
+927,Maria Ribera del Duero,53.9,4.4,5.0,3.0,78
+928,Vendimia Seleccionada,21.38,4.4,5.0,3.0,77
+929,Vina El Pison,385.0,4.4,4.0,2.0,77
+930,Clos Figueres,53.4,4.4,4.0,3.0,75
+931,Castillo de Monte la Reina Cuvee Privee,14.65,4.4,5.0,3.0,75
+932,Maria Ribera del Duero,54.9,4.4,5.0,3.0,75
+933,Amontillado Saca,62.02,4.4,4.0,3.0,74
+934,Queiron Reserva Vinedos Familiares,26.85,4.4,4.0,3.0,74
+935,Cami Pesseroles,126.5,4.4,4.0,3.0,74
+936,Don PX Gran Reserva,35.9,4.4,5.0,1.0,73
+937,Seleccio Especial Vinyes Velles,64.35,4.4,4.0,3.0,73
+938,Llanos del Almendro Ribera del Duero,115.2,4.4,5.0,3.0,73
+939,Dolc Mataro,17.95,4.4,,,72
+940,Prado Enea Gran Reserva,140.0,4.4,4.0,3.0,72
+941,Prado Enea Gran Reserva,167.0,4.4,4.0,3.0,72
+942,Victorino,33.9,4.4,5.0,3.0,71
+943,Roda I Reserva Rioja,45.95,4.4,4.0,3.0,71
+944,Toro 2V Premium,44.0,4.4,5.0,3.0,70
+945,Rejon Tempranillo,31.94,4.4,4.0,2.0,70
+946,Les Eres Vinyes Velles,32.49,4.4,4.0,3.0,70
+947,Gran Reserva Classica Blanco,36.75,4.4,3.0,3.0,70
+948,The Artist,26.84,4.4,4.0,3.0,69
+949,Amontillado 30 Years Old V.O.R.S Sherry,36.9,4.4,4.0,3.0,69
+950,La Comtesse de Pazo Barrantes Albarino,59.95,4.4,3.0,3.0,69
+951,Gratallops Partida Bellvisos,241.4,4.4,4.0,3.0,69
+952,Seleccion Especial,27.6,4.4,4.0,3.0,68
+953,5V Blanco,37.98,4.4,3.0,3.0,68
+954,Finca Butaros Vinya Centenaria,32.23,4.4,4.0,3.0,67
+955,Grans Muralles,123.76,4.4,4.0,3.0,67
+956,La Bienquerida,34.55,4.4,3.0,3.0,66
+957,El Carretil,155.0,4.4,4.0,2.0,66
+958,Seleccion Privada,68.0,4.4,4.0,3.0,65
+959,Seleccion Finca el Grajo Viejo,59.9,4.4,5.0,3.0,65
+960,Aponte Winemaker's Private Collection Tempranillo,112.0,4.4,4.0,2.0,66
+961,Cami de Cormes,14.18,4.4,4.0,3.0,65
+962,Kalamity Rioja,106.0,4.4,4.0,3.0,65
+963,1194,105.8121097,4.4,4.0,3.0,64
+964,Malabrigo Ribera del Duero,31.5,4.4,5.0,3.0,65
+965,Old & Plus Pedro Ximenez,42.12,4.4,4.0,3.0,64
+966,Reserva Trajanvs,21.5,4.4,4.0,3.0,64
+967,Finca Dofi,75.0,4.4,4.0,3.0,64
+968,No. 2 Victoria,15.9,4.4,,,64
+969,Granja Gran Reserva Rioja,53.9,4.4,4.0,3.0,63
+970,Emporda Gran Claustro,30.86,4.4,4.0,3.0,63
+971,Son Negre,235.95,4.4,4.0,3.0,63
+972,200 Monges Rioja Reserva,38.5,4.4,4.0,3.0,62
+973,Lalomba Finca Valhonta,56.75,4.4,4.0,3.0,61
+974,Manyetes,59.9,4.4,4.0,3.0,61
+975,Gran Reserva,122.667917,4.4,5.0,3.0,60
+976,Serral del Vell Brut Nature,34.56,4.4,2.0,3.0,60
+977,Pago Valdebellon,65.9,4.4,4.0,3.0,60
+978,Cava Celler Batlle,59.75,4.4,2.0,3.0,59
+979,Pesus Ribera del Duero,509.25,4.4,5.0,3.0,59
+980,Les Tosses,158.88,4.4,4.0,3.0,59
+981,Guarda de Leda Seleccion Tempranillo,37.66,4.4,4.0,2.0,59
+982,Nun Vinya dels Taus,62.7,4.4,,,59
+983,Vinyes Altes Porrera,60.73,4.4,4.0,3.0,58
+984,Lo Cortinelo.Lo Blanc,27.25,4.4,,,58
+985,5 Partides Gratallops Vi de La Vila,49.6,4.4,4.0,3.0,58
+986,Cava Ex-Vite Gran Reserva Brut,43.5,4.4,2.0,3.0,57
+987,Valbuena 5o,225.0,4.4,5.0,3.0,56
+988,Summa Edicion Limitada,89.97,4.4,5.0,3.0,56
+989,Cirerets,37.9,4.4,4.0,3.0,56
+990,Pago El Espino,18.9,4.4,4.0,3.0,56
+991,Gran Reserva,53.8,4.4,4.0,3.0,55
+992,Perez Pascuas Gran Reserva Seleccion,55.25,4.4,5.0,3.0,55
+993,Gloria Rioja,44.9,4.4,4.0,3.0,55
+994,Petra de Valpiedra Garnacha,32.9,4.4,5.0,3.0,55
+995,Alto de la Caseta,82.5,4.4,4.0,3.0,54
+996,Serral del Vell Brut Nature,33.78,4.4,2.0,3.0,54
+997,Rejon Tempranillo,34.9,4.4,4.0,2.0,54
+998,Mas de la Rosa,367.39,4.4,4.0,3.0,53
+999,Rioja B70,104.5,4.4,4.0,3.0,52
+1000,Gran Reserva,74.55,4.4,5.0,3.0,52
+1001,Tinto,119.0,4.4,5.0,3.0,52
+1002,Don Miguel,31.9239296995019,4.4,5.0,3.0,51
+1003,Singular Negre,27.35,4.4,4.0,3.0,51
+1004,Vinyes Altes Porrera,33.0,4.4,4.0,3.0,51
+1005,Rioja Reserva Especial,280.0,4.4,4.0,3.0,51
+1006,Rioja Cisma,140.0,4.4,4.0,3.0,50
+1007,Seleccion Rioja,32.0,4.4,4.0,3.0,50
+1008,Martires Rioja,91.5,4.4,3.0,3.0,50
+1009,Cava Original Brut (Espumos),52.95,4.4,2.0,3.0,49
+1010,Marti Reserva Penedes,35.15,4.4,4.0,3.0,49
+1011,Vina Ardanza Reserva Seleccion Especial,23.0,4.4,4.0,3.0,49
+1012,Oloroso 30 Years Old V.O.R.S,37.9,4.4,4.0,3.0,48
+1013,Pozo Alto,119.95,4.4,4.0,3.0,48
+1014,El Cristo de Samaniego,42.9,4.4,4.0,3.0,47
+1015,El Belisario,39.9,4.4,4.0,2.0,47
+1016,Baron de Ona Rioja Reserva,50.0,4.4,4.0,3.0,46
+1017,Priorat,209.31,4.4,4.0,3.0,45
+1018,Don PX Seleccion,165.0,4.4,5.0,1.0,45
+1019,Gran Reserva,97.0,4.4,4.0,3.0,45
+1020,Cepas Vellas Rias Baixas Albarino,26.5,4.4,3.0,3.0,44
+1021,La Aguilera,32.5,4.4,5.0,3.0,44
+1022,Pirata,194.0,4.4,3.0,3.0,44
+1023,Blecua Somontano,74.95,4.4,4.0,3.0,43
+1024,Hispania,28.9,4.4,5.0,3.0,43
+1025,Arousa,18.99,4.4,3.0,3.0,44
+1026,Las Cenizas Tempranillo,19.95,4.4,4.0,3.0,43
+1027,Solanes Priorat,38.66,4.4,4.0,3.0,43
+1028,Grandes Anadas Rioja,180.0,4.4,4.0,3.0,43
+1029,Cami Pesseroles,75.5,4.4,4.0,3.0,42
+1030,Cava Cuvee De Prestige Trepat,7.89,4.4,2.0,3.0,43
+1031,Felix Azpilicueta Coleccion Privada,18.0,4.4,4.0,3.0,41
+1032,Savinat Sauvignon Blanc,17.9,4.4,3.0,3.0,41
+1033,Capricho Crianza,15.4438025,4.4,5.0,3.0,41
+1034,Finca La Emperatriz Vinedo Singular Tinto,33.55,4.4,4.0,3.0,41
+1035,Galena,19.8,4.4,4.0,3.0,41
+1036,Rioja Reserva,145.0,4.4,4.0,3.0,41
+1037,Solera PAP Palo Cortado Rare Sherry,189.99,4.4,4.0,3.0,41
+1038,Finca Helena,59.9,4.4,5.0,3.0,40
+1039,Primordium,29.9,4.4,5.0,3.0,40
+1040,Marti Reserva Penedes,33.8,4.4,4.0,3.0,39
+1041,La Solana Alta,43.5,4.4,,,39
+1042,La Cuartilleja Reserva,39.9,4.4,5.0,3.0,39
+1043,Malleolus de Sanchomartin,119.35,4.4,5.0,3.0,39
+1044,Noble,60.0,4.4,5.0,3.0,38
+1045,De Garage Rioja,40.0,4.4,4.0,3.0,37
+1046,Gran Calzadilla,34.75,4.4,4.0,3.0,37
+1047,4 Varietales Coleccion Rioja,24.0,4.4,4.0,3.0,37
+1048,Oloroso,59.9,4.4,4.0,3.0,38
+1049,Aurus,245.25,4.4,4.0,3.0,37
+1050,Don PX Pedro Ximenez,109.76,4.4,5.0,1.0,37
+1051,Numerus Clausus,59.9,4.4,4.0,2.0,37
+1052,Rioja Cisma,130.5,4.4,4.0,3.0,37
+1053,200 Monges Rioja Seleccion Especial Reserva Blanco,61.5,4.4,3.0,3.0,36
+1054,Don PX Gran Reserva,33.23,4.4,5.0,1.0,36
+1055,Emporda Aires de Garbet,38.5,4.4,4.0,3.0,36
+1056,Rioja Gran Reserva,38.12,4.4,4.0,3.0,36
+1057,30 Years V.O.R.S Very Old Palo Cortado Blend Medium Sherry,65.0,4.4,4.0,3.0,35
+1058,Campus Gothorum,41.0,4.4,5.0,3.0,35
+1059,Gran Reserva,74.5,4.4,5.0,3.0,35
+1060,Nun Vinya dels Taus,45.39,4.4,,,35
+1061,La Pizca,26.0,4.4,4.0,3.0,35
+1062,La Bota 90 de Manzanilla Pasada,39.75,4.4,4.0,3.0,35
+1063,Moradillo de Roa,29.89,4.4,5.0,3.0,35
+1064,Cofradia,38.0,4.4,4.0,3.0,34
+1065,Rioja Cisma,132.4,4.4,4.0,3.0,34
+1066,Vinyes Altes Porrera,69.0,4.4,4.0,3.0,34
+1067,Stairway To Heaven Rosado,13.99,4.4,,,34
+1068,La Silleria,24.5,4.4,,,34
+1069,Planella,16.25,4.4,4.0,3.0,34
+1070,Gallaecia Rias Baixes Albarino,39.95,4.4,3.0,3.0,34
+1071,Gran Reserva,138.0,4.4,5.0,3.0,34
+1072,Monada,35.4,4.4,4.0,3.0,33
+1073,Tinto,20.95,4.4,4.0,3.0,33
+1074,Heretge Priorat,39.99,4.4,4.0,3.0,33
+1075,Usted,159.8,4.4,4.0,3.0,33
+1076,Martires Rioja,139.63,4.4,3.0,3.0,33
+1077,Verdejo,19.97,4.4,3.0,3.0,32
+1078,Vina Garugele,75.8,4.4,4.0,3.0,32
+1079,Petit Verdot,52.5,4.4,4.0,3.0,32
+1080,Barrica,20.95,4.4,4.0,3.0,32
+1081,Voltons,51.95,4.4,4.0,3.0,32
+1082,Ekam Essencia,43.44,4.4,,,32
+1083,Valcavado de Traslascuestas,35.48,4.4,5.0,3.0,31
+1084,Oscar Tobia Gran Reserva Rioja,28.0,4.4,4.0,3.0,31
+1085,La Baixada,239.5,4.4,4.0,3.0,31
+1086,La Cueva del Contador Rioja,60.61,4.4,4.0,3.0,31
+1087,Seleccion,35.35,4.4,5.0,3.0,31
+1088,Cava El Tros Nou Pinot Noir,89.9,4.4,2.0,3.0,30
+1089,Manyetes,74.56,4.4,4.0,3.0,30
+1090,Tinto,33.4,4.4,4.0,3.0,30
+1091,Los Dominios de Berceo Prefiloxerico,29.25,4.4,4.0,3.0,29
+1092,Old & Plus Amontillado,15.84,4.4,4.0,3.0,28
+1093,Don PX Convento Seleccion,173.0,4.4,5.0,1.0,28
+1094,Sao Expressiu,34.5,4.4,4.0,3.0,28
+1095,Onomastica Rioja Reserva,21.88,4.4,4.0,3.0,28
+1096,Vina Arana Gran Reserva,27.9,4.4,4.0,3.0,28
+1097,Carinena Parcela 15 Vinas Viejas,54.9,4.4,4.0,3.0,28
+1098,Vobiscum,31.99,4.4,4.0,3.0,28
+1099,La Navilla,24.9,4.4,5.0,3.0,27
+1100,Merlot - Syrah,11.5,4.4,4.0,3.0,27
+1101,Termanthia,140.0,4.4,5.0,3.0,27
+1102,Casta Diva Cosecha Miel Moscatel Dulce,15.5,4.4,,,27
+1103,Baron de Chirel Rioja Reserva,95.0,4.4,4.0,3.0,27
+1104,Pago de Las Costanas,40.2,4.4,4.0,2.0,27
+1105,Rioja Blanco,26.45,4.4,3.0,3.0,27
+1106,Vendimia Seleccionada,7.9,4.4,5.0,3.0,27
+1107,Cava Gran Reserva Familiar Millenium Brut,29.95,4.4,2.0,3.0,27
+1108,Zona Zepa Monastrell,59.9,4.4,5.0,3.0,26
+1109,Petit Verdot,115.9,4.4,4.0,3.0,26
+1110,Alma Tobia Blanco,33.0,4.4,3.0,3.0,26
+1111,Reserva,72.0,4.4,4.0,3.0,25
+1112,Garnacha Vinas Centenarias,13.95,4.4,5.0,3.0,25
+1113,El Jardin de las Iguales Vinedo Historico Garnacha,195.99,4.4,5.0,3.0,25
+1114,Silvanus Edicion Limitada Ribera del Duero,46.0,4.4,5.0,3.0,25
+1115,Vina Ardanza Reserva,24.38,4.3,4.0,3.0,10273
+1116,Vina Ardanza Reserva,20.0,4.3,4.0,3.0,9092
+1117,San Valentin Parellada,6.95,4.3,,,7401
+1118,Seleccion Especial,17.48,4.3,4.0,3.0,7293
+1119,Vina Tondonia Reserva,37.9,4.3,4.0,3.0,6521
+1120,Toro,79.75,4.3,5.0,3.0,6345
+1121,Seleccion Especial,24.95,4.3,4.0,3.0,5152
+1122,Rioja Gran Reserva 904,29.9,4.3,4.0,3.0,4994
+1123,PSI,29.13,4.3,5.0,3.0,4767
+1124,PSI,33.9,4.3,5.0,3.0,4457
+1125,Seleccion Especial (Reserva),28.0,4.3,4.0,3.0,4266
+1126,Tinto,25.8,4.3,,,4023
+1127,Malleolus,37.86,4.3,,,3997
+1128,Seleccion Especial (Reserva),34.0,4.3,,,3829
+1129,Ribera del Duero Reserva,33.64,4.3,,,3660
+1130,Ribera del Duero Reserva,36.35,4.3,,,3620
+1131,Prado Enea Gran Reserva,35.5,4.3,,,3608
+1132,Red,66.75,4.3,,,3587
+1133,Ribera del Duero Crianza,19.01,4.3,,,3524
+1134,Cosecha,75.9,4.3,,,2990
+1135,Malleolus,38.05,4.3,,,2936
+1136,Prado Enea Gran Reserva,40.4,4.3,,,2923
+1137,Mas La Plana Cabernet Sauvignon,63.33,4.3,,,2911
+1138,Tinto,26.9,4.3,,,2844
+1139,Cosecha,34.95,4.3,,,2783
+1140,Crianza Tinto,24.5,4.3,,,2705
+1141,Toro,93.5,4.3,,,2575
+1142,Numanthia,99.9,4.3,,,2453
+1143,Vina Tondonia Reserva,35.09,4.3,,,2423
+1144,Macan Clasico,36.8,4.3,,,2341
+1145,Reserva Tinto,80.35,4.3,,,2295
+1146,Numanthia,46.0,4.3,,,2241
+1147,Macan Clasico,50.41,4.3,,,2241
+1148,Toro,150.0,4.3,,,2062
+1149,El Viejo,33.95,4.3,,,2013
+1150,Reserva Tinto,48.6377226796774,4.3,,,1924
+1151,3er Ano Ribera del Duero Tinto,27.29,4.3,5.0,3.0,1914
+1152,Tinto,65.9,4.3,5.0,3.0,1884
+1153,Tinto,33.66,4.3,5.0,3.0,1846
+1154,Tinto,190.0,4.3,5.0,3.0,1824
+1155,Mas La Plana Cabernet Sauvignon,55.0,4.3,4.0,3.0,1797
+1156,Tinto,26.9,4.3,5.0,3.0,1749
+1157,Numanthia,36.9,4.3,5.0,3.0,1743
+1158,Ribera del Duero Una Cepa I,25.95,4.3,5.0,3.0,1645
+1159,Reserva Tinto,34.5,4.3,5.0,3.0,1638
+1160,Rioja Gran Reserva,47.9,4.3,4.0,3.0,1615
+1161,Garnacha,36.94,4.3,5.0,3.0,1544
+1162,Rioja Gran Reserva 904,75.0,4.3,4.0,3.0,1528
+1163,Vina Arana Gran Reserva,24.9,4.3,4.0,3.0,1525
+1164,Rioja Reserva,58.0,4.3,4.0,3.0,1493
+1165,Vina Arana Gran Reserva,32.55,4.3,4.0,3.0,1471
+1166,Bosque de Matasnos Etiqueta Blanca,26.9,4.3,5.0,3.0,1465
+1167,Matusalem Sherry VORS,63.34,4.3,4.0,3.0,1452
+1168,Reserva Privada Rioja,37.9,4.3,4.0,3.0,1367
+1169,Ribera del Duero Una Cepa I,46.95,4.3,5.0,3.0,1362
+1170,Roda I Reserva Rioja,39.22,4.3,4.0,3.0,1330
+1171,Reserva Seleccion de la Familia,18.5,4.3,4.0,3.0,1282
+1172,Apostoles 30 Years Old Sherry,74.0,4.3,4.0,3.0,1247
+1173,200 Monges Rioja Reserva,35.0,4.3,4.0,3.0,1230
+1174,Reserva,26.7597646010531,4.3,5.0,3.0,1230
+1175,Belondrade y Lurton,32.7,4.3,3.0,3.0,1230
+1176,Vinas Viejas Verdejo,49.0,4.3,3.0,3.0,1181
+1177,Victorino,38.0,4.3,5.0,3.0,1178
+1178,Ribera del Duero,33.59,4.3,5.0,3.0,1119
+1179,Gran Reserva Rioja (Finca Ygay),94.95,4.3,4.0,3.0,1118
+1180,Gaudium,36.91,4.3,4.0,3.0,1116
+1181,Triga,30.67,4.3,4.0,3.0,1114
+1182,El Puntido,86.15,4.3,4.0,3.0,1067
+1183,Don Guido Pedro Ximenez Solera Especial Aged 20 Years,32.9,4.3,5.0,1.0,1057
+1184,Reserva Seleccion de la Familia,17.07,4.3,4.0,3.0,1022
+1185,Crianza Tinto,19.45,4.3,5.0,3.0,1011
+1186,Rioja Gran Reserva,39.9,4.3,4.0,3.0,995
+1187,Vendimia,28.65,4.3,5.0,3.0,930
+1188,El Puntido,33.82,4.3,4.0,3.0,929
+1189,Dalmau Rioja,67.95,4.3,4.0,3.0,916
+1190,Dalmau Rioja,60.95,4.3,4.0,3.0,912
+1191,Gran Reserva Rioja,35.01,4.3,4.0,3.0,901
+1192,Torre Muga,69.95,4.3,4.0,3.0,900
+1193,Vinas Viejas Verdejo,28.18,4.3,3.0,3.0,885
+1194,Victorino,34.22,4.3,5.0,3.0,878
+1195,Rioja Gran Reserva,49.75,4.3,4.0,3.0,835
+1196,Priorat Vinyes Velles,33.95,4.3,4.0,3.0,828
+1197,Reserva,21.5,4.3,4.0,3.0,818
+1198,Finca Dofi,80.0,4.3,4.0,3.0,814
+1199,San Vicente Rioja,36.0,4.3,4.0,3.0,811
+1200,Rioja Reserva,25.45,4.3,4.0,3.0,799
+1201,Vina Ardanza Reserva,17.16,4.3,4.0,3.0,783
+1202,Toro,116.9,4.3,5.0,3.0,760
+1203,200 Monges Rioja Reserva,39.5,4.3,4.0,3.0,760
+1204,El Puntido Gran Reserva,40.0,4.3,4.0,3.0,754
+1205,Gran Reserva Rioja (Finca Ygay),39.78,4.3,4.0,3.0,749
+1206,An,39.98,4.3,4.0,3.0,740
+1207,Torre Muga,69.9,4.3,4.0,3.0,728
+1208,San Vicente Rioja,77.7,4.3,4.0,3.0,724
+1209,Priorat,95.0,4.3,4.0,3.0,723
+1210,La Baraja,24.9,4.3,5.0,3.0,716
+1211,Tinto,25.9,4.3,5.0,3.0,693
+1212,Finca Malaveina,22.5,4.3,4.0,3.0,687
+1213,Gran Reserva Rioja (Finca Ygay),50.0,4.3,4.0,3.0,685
+1214,Granja Gran Reserva Rioja,57.8,4.3,4.0,3.0,682
+1215,Reserva XR,21.24,4.3,4.0,3.0,676
+1216,Alenza Ribera del Duero Gran Reserva,70.0,4.3,5.0,3.0,675
+1217,Chardonnay Fermentado en Barrica,15.75,4.3,4.0,3.0,674
+1218,Vatan Tinta de Toro,26.0,4.3,5.0,3.0,665
+1219,A Mano Rioja,25.8208254922442,4.3,4.0,3.0,663
+1220,Baron de Chirel Rioja Reserva,62.95,4.3,4.0,3.0,661
+1221,Alicante Bouschet by Tarima,17.15,4.3,4.0,3.0,658
+1222,Reserva Ribera del Duero,33.9,4.3,5.0,3.0,641
+1223,Finca Dofi,80.0,4.3,4.0,3.0,613
+1224,Finca Dofi,80.0,4.3,4.0,3.0,605
+1225,Chardonnay Fermentado en Barrica,16.9,4.3,4.0,3.0,603
+1226,Ribera del Duero,40.92,4.3,5.0,3.0,598
+1227,Priorat,95.0,4.3,4.0,3.0,592
+1228,Oloroso Tradicion Vors 30 Years,58.9,4.3,4.0,3.0,590
+1229,Seleccion de Anada Albarino Rias Baixas,30.887605,4.3,3.0,3.0,582
+1230,Ribera del Duero TSM,67.5,4.3,5.0,3.0,577
+1231,Pago Valdebellon,67.45,4.3,4.0,3.0,569
+1232,Vinas Viejas,16.5,4.3,5.0,3.0,567
+1233,A Mano Rioja,30.71,4.3,4.0,3.0,559
+1234,Dominio de Atauta,25.25,4.3,5.0,3.0,556
+1235,Gran Reserva,41.95,4.3,5.0,3.0,553
+1236,Tierras de Cair Reserva,38.3,4.3,5.0,3.0,535
+1237,Crianza,19.95,4.3,5.0,3.0,533
+1238,Seleccion Finca el Grajo Viejo,59.87,4.3,5.0,3.0,530
+1239,Perpetual,63.5,4.3,4.0,3.0,530
+1240,Laurel,46.88,4.3,4.0,3.0,527
+1241,Priorat,95.0,4.3,4.0,3.0,527
+1242,Finca Dofi,99.9,4.3,4.0,3.0,522
+1243,Victorino,47.01,4.3,5.0,3.0,517
+1244,Seleccion La Aguilera,15.9,4.3,5.0,3.0,511
+1245,Finca Martelo,21.15,4.3,4.0,3.0,512
+1246,Priorat Vinyes Velles,49.9,4.3,4.0,3.0,501
+1247,Rioja Blanco,23.83,4.3,3.0,3.0,495
+1248,Pedro Ximenez Murillo Seleccion del Centenario,40.0,4.3,5.0,1.0,481
+1249,El Puntido,33.0,4.3,4.0,3.0,474
+1250,Pago Negralada,67.82,4.3,4.0,2.0,474
+1251,Mirto,48.34,4.3,4.0,3.0,473
+1252,Torre Muga,99.9,4.3,4.0,3.0,468
+1253,Vi de Vila Gratallops,54.9,4.3,4.0,3.0,463
+1254,Clos Martinet,116.05,4.3,4.0,3.0,461
+1255,Vi de Vila Gratallops,48.75,4.3,4.0,3.0,461
+1256,Ribera del Duero,98.0,4.3,5.0,3.0,456
+1257,I Gran Reserva,272.0,4.3,4.0,3.0,454
+1258,Rioja Gran Reserva,40.45,4.3,4.0,3.0,453
+1259,Roda Reserva Rioja,81.35,4.3,4.0,3.0,452
+1260,I Gran Reserva,206.91,4.3,4.0,3.0,449
+1261,Vinas Viejas Verdejo,42.0,4.3,3.0,3.0,449
+1262,Gran Reserva,34.9,4.3,4.0,3.0,445
+1263,Reserva,53.95,4.3,5.0,3.0,431
+1264,Rioja Vina Coqueta,56.7603202298046,4.3,4.0,3.0,429
+1265,Seleccion Finca el Grajo Viejo,62.74,4.3,5.0,3.0,427
+1266,Vermello Vermu,10.89,4.3,,,424
+1267,Toro,107.0,4.3,5.0,3.0,422
+1268,Capellania Reserva,32.33,4.3,3.0,3.0,422
+1269,Los Tabaqueros,21.95,4.3,,,419
+1270,Torre Albeniz Reserva Ribera del Duero,28.85,4.3,5.0,3.0,419
+1271,Castillo Ygay Gran Reserva Especial Tinto,160.0,4.3,4.0,3.0,418
+1272,Finca El Otero,26.9,4.3,5.0,3.0,411
+1273,Familia Comenge Reserva,21.3,4.3,5.0,3.0,410
+1274,Gran Reserva Rioja (Finca Ygay),42.0,4.3,4.0,3.0,405
+1275,Tierra Alta de 2 Cotas Reserva,30.5,4.3,5.0,3.0,407
+1276,Castillo Ygay Gran Reserva Especial Tinto,160.0,4.3,4.0,3.0,404
+1277,Fagus de Coto de Hayas Garnacha,21.02,4.3,5.0,3.0,398
+1278,Finca Terrerazo,22.8,4.3,4.0,3.0,397
+1279,Laurel,36.57,4.3,4.0,3.0,397
+1280,Finca Dofi,85.0,4.3,4.0,3.0,384
+1281,Godello,23.4,4.3,,,375
+1282,Priorat,110.0,4.3,4.0,3.0,375
+1283,Malabrigo Ribera del Duero,53.5,4.3,5.0,3.0,374
+1284,El Puntido,35.95,4.3,4.0,3.0,371
+1285,Godina Garnacha,16.25,4.3,5.0,3.0,370
+1286,Perez Pascuas Gran Reserva Seleccion,498.614195,4.3,5.0,3.0,370
+1287,Rioja Gran Reserva,25.95,4.3,4.0,3.0,368
+1288,Coleccion Privada,29.0132184621944,4.3,4.0,3.0,366
+1289,Porrera Vi de Vila,40.5,4.3,4.0,3.0,364
+1290,QS,35.85,4.3,4.0,3.0,358
+1291,Don Miguel Comenge Reserva,38.4,4.3,5.0,3.0,355
+1292,3.9,20.65,4.3,4.0,3.0,345
+1293,Numanthia,39.53,4.3,5.0,3.0,345
+1294,Montes de Toledo Syrah,25.31,4.3,4.0,3.0,344
+1295,Vi de Vila Gratallops,53.95,4.3,4.0,3.0,344
+1296,Finca Iscorta Gran Reserva,27.0,4.3,4.0,3.0,334
+1297,Le Domaine Blanco de Guarda,36.95,4.3,,,327
+1298,Finca Biniagual Veran,26.5,4.3,4.0,3.0,322
+1299,Brega Garnacha,27.9,4.3,5.0,3.0,317
+1300,Toro,189.45,4.3,5.0,3.0,315
+1301,La Cueva del Contador Rioja,90.0,4.3,,,312
+1302,Le Domaine Blanco de Guarda,34.1,4.3,,,309
+1303,Elite,35.51,4.3,,,301
+1304,La Mar,27.7,4.3,,,301
+1305,Pago Garduna,75.0,4.3,,,299
+1306,I Gran Reserva,425.0,4.3,,,298
+1307,Victorino,35.51,4.3,,,298
+1308,Mirto,33.9,4.3,,,297
+1309,Rioja Reserva,65.0,4.3,,,296
+1310,La Hormiga de Antidoto,45.0,4.3,,,293
+1311,Finca Dofi,84.9,4.3,,,292
+1312,Chafandin,27.85,4.3,,,290
+1313,Reserva Tinto,30.99,4.3,,,287
+1314,Nelin Priorat,36.5,4.3,,,290
+1315,Arcos de la Frontera,25.9,4.3,,,284
+1316,Albarino,13.75,4.3,,,281
+1317,Calvario Rioja,53.35,4.3,,,279
+1318,Clos Fonta Priorat,54.5,4.3,,,278
+1319,La Cueva del Contador Rioja,90.15,4.3,,,275
+1320,Cepas Vellas Godello,18.48,4.3,,,272
+1321,Vina del Olivo,92.0,4.3,,,272
+1322,Las Sabias,22.55,4.3,,,270
+1323,Galena,17.95,4.3,,,264
+1324,Finca Dofi,85.0,4.3,,,263
+1325,Bosque de Matasnos Etiqueta Blanca,26.9,4.3,,,260
+1326,Vina del Olivo,63.95,4.3,4.0,3.0,260
+1327,Cerro Anon Rioja Gran Reserva,12.9,4.3,4.0,3.0,258
+1328,Ekam,24.61,4.3,,,257
+1329,Llanos del Almendro Ribera del Duero,107.74,4.3,5.0,3.0,251
+1330,Clos Martinet,162.5,4.3,4.0,3.0,249
+1331,Vatan Tinta de Toro,33.6,4.3,5.0,3.0,247
+1332,Chardonnay Fermentado en Barrica,16.9,4.3,4.0,3.0,244
+1333,Masdeu,84.9,4.3,4.0,3.0,242
+1334,Ribera Del Duero,30.9,4.3,5.0,3.0,242
+1335,Lapola,21.8,4.3,,,241
+1336,Pantocrator,19.9,4.3,4.0,3.0,241
+1337,Senorio de Cuzcurrita Rioja,24.3677926503816,4.3,4.0,3.0,239
+1338,Finca Malaveina,18.88,4.3,4.0,3.0,239
+1339,Malpuesto,30.3,4.3,4.0,3.0,239
+1340,Silencio de Miros Ribera Del Duero,42.35,4.3,5.0,3.0,239
+1341,Pago Valdebellon,64.5,4.3,4.0,3.0,237
+1342,Clos Figueres,49.61,4.3,4.0,3.0,237
+1343,Castillo Ygay Gran Reserva Especial Tinto,145.0,4.3,4.0,3.0,234
+1344,No. 2 Victoria,21.4,4.3,,,232
+1345,Queiron Mi Lugar,21.5,4.3,4.0,3.0,232
+1346,Rioja Blanco,55.0,4.3,3.0,3.0,227
+1347,Purgatori Costers del Segre,27.9,4.3,4.0,3.0,228
+1348,Perfume de Sonsierra,28.5,4.3,4.0,3.0,227
+1349,Chafandin,25.65,4.3,5.0,3.0,223
+1350,Valdegines,43.95,4.3,4.0,2.0,223
+1351,Clos Martinet,60.45,4.3,4.0,3.0,222
+1352,Chardonnay Roure,30.3,4.3,4.0,3.0,221
+1353,Rioja Graciano,62.5,4.3,4.0,3.0,220
+1354,Clos Figueres,57.49,4.3,4.0,3.0,219
+1355,Clos Martinet,127.2,4.3,4.0,3.0,218
+1356,Castillo Ygay Gran Reserva Especial Tinto,182.0,4.3,4.0,3.0,216
+1357,Vendimia,34.25,4.3,5.0,3.0,215
+1358,ARX Arcos de la Frontera,15.9,4.3,4.0,3.0,215
+1359,La Bienquerida,37.35,4.3,3.0,3.0,213
+1360,Perez Pascuas Gran Reserva Seleccion,259.0,4.3,5.0,3.0,211
+1361,Navarra Reserva Coleccion 125,20.5,4.3,4.0,3.0,211
+1362,Suprema 30 Meses,24.0,4.3,5.0,3.0,210
+1363,Finca Dofi,80.0,4.3,4.0,3.0,209
+1364,Venus,59.55,4.3,4.0,3.0,207
+1365,Porrera Vi de Vila,50.67,4.3,4.0,3.0,205
+1366,Roda I Reserva Rioja,91.0,4.3,4.0,3.0,202
+1367,Finca Dofi,88.0,4.3,4.0,3.0,202
+1368,Clos Figueres,70.89,4.3,4.0,3.0,201
+1369,Pie Franco,59.9,4.3,5.0,3.0,200
+1370,Grillo,32.9,4.3,4.0,3.0,200
+1371,Prieto Picudo,21.4,4.3,4.0,3.0,198
+1372,Seleccio Especial Vinyes Velles,64.0,4.3,4.0,3.0,197
+1373,Emeritvs (Emeritus),47.0,4.3,4.0,3.0,197
+1374,Rioja Blanco,60.25,4.3,3.0,3.0,196
+1375,Sofia,15.9,4.3,4.0,3.0,195
+1376,Finca Cuesta Clara Raro Reserva,32.0,4.3,4.0,3.0,194
+1377,Pagos Viejos,62.5,4.3,4.0,2.0,193
+1378,Fermentado En Barrica Blanco,24.5,4.3,3.0,3.0,193
+1379,Clos Martinet,110.0,4.3,4.0,3.0,192
+1380,Doix,82.0,4.3,4.0,3.0,191
+1381,Pago Valdebellon,55.0,4.3,4.0,3.0,191
+1382,Tinto,36.5,4.3,4.0,3.0,190
+1383,Le Domaine Blanco de Guarda,123.82,4.3,,,190
+1384,Clos Martinet,114.6,4.3,4.0,3.0,189
+1385,Pagos Viejos,130.0,4.3,4.0,2.0,189
+1386,Ribera del Duero,33.5,4.3,5.0,3.0,188
+1387,Ribera Del Duero Gran Reserva,62.8,4.3,5.0,3.0,187
+1388,Godello Blanco,34.5,4.3,,,186
+1389,Vinas Viejas de Soria Ribera Del Duero,92.24,4.3,5.0,3.0,184
+1390,Hipperia Red Blend,36.111307180686,4.3,4.0,3.0,184
+1391,Tinto,56.92,4.3,4.0,3.0,184
+1392,Clos Martinet,117.3,4.3,4.0,3.0,178
+1393,Vinya La Scala Gran Reserva Cabernet Sauvignon,41.9,4.3,4.0,3.0,177
+1394,Atteca Armas Garnacha Old Vines,32.9,4.3,5.0,3.0,176
+1395,Syrah (Shiraz),23.5,4.3,4.0,3.0,175
+1396,Campo Eliseo,48.5,4.3,5.0,3.0,175
+1397,Vinas Viejas Tempranillo,28.38,4.3,4.0,2.0,174
+1398,Rioja Graciano,64.75,4.3,4.0,3.0,174
+1399,Delicado Cosecha Pedro Ximenez,19.9,4.3,5.0,1.0,172
+1400,Cepas Vellas Rias Baixas Albarino,33.95,4.3,3.0,3.0,172
+1401,Teixar,42.25,4.3,,,171
+1402,Vitium Reserva,27.8,4.3,,,171
+1403,Lo Cabalo Reserva,26.9,4.3,,,171
+1404,Perez Pascuas Gran Reserva Seleccion,245.53,4.3,,,171
+1405,Finca Matambres,28.3,4.3,,,170
+1406,Suzzane Rioja,37.29,4.3,,,168
+1407,Giro de Abargues,23.5,4.3,,,167
+1408,Sofia,18.9,4.3,,,166
+1409,Reserva Vermouth Rojo,8.95,4.3,,,166
+1410,Punta Esencia,32.45,4.3,,,163
+1411,Finca Los Hoyales Ribera del Duero,41.28,4.3,,,163
+1412,Casa Cisca Monastrell,33.77,4.3,,,161
+1413,Pla dels Angels Rosado,23.0,4.3,,,160
+1414,Gran Reserva,67.0,4.3,,,159
+1415,Uro,31.45,4.3,,,155
+1416,Tras da Vina Albarino,33.67,4.3,,,155
+1417,Cava Kripta Gran Reserva Brut Nature,87.39,4.3,,,155
+1418,Rioja Gran Reserva 904,150.0,4.3,,,154
+1419,Ribera del Duero Torralvo,45.48,4.3,,,153
+1420,Clos Fonta Priorat,125.0,4.3,,,153
+1421,Teixar,39.5,4.3,,,151
+1422,Calvario Rioja,90.0,4.3,,,150
+1423,Serral del Vell Brut Nature,44.41,4.3,,,149
+1424,Albarino,21.5,4.3,,,150
+1425,Masia Carreras Negre,20.59,4.3,,,149
+1426,Branco Vermu,13.95,4.3,,,148
+1427,Palmeri Navalta Garnacha,28.9,4.2,5.0,3.0,151
+1428,Rioja Blanco,56.89,4.3,3.0,3.0,146
+1429,Elite,30.9166666666667,4.3,5.0,3.0,145
+1430,Tinto,39.9,4.3,4.0,3.0,145
+1431,Reserva,65.0,4.3,5.0,3.0,144
+1432,Gran Reserva,146.05,4.3,5.0,3.0,142
+1433,La Plazuela,44.05,4.3,4.0,3.0,141
+1434,Gran Reserva Ribera del Duero,62.56,4.3,5.0,3.0,140
+1435,Solar de Estraunza Reserva,9.8840336,4.3,4.0,2.0,140
+1436,III a.C,46.16,4.3,4.0,3.0,140
+1437,V2 Tinto,48.537665,4.3,4.0,3.0,140
+1438,La Vina de Andres Romeo Rioja,97.5,4.3,4.0,3.0,139
+1439,Matallana,42.0,4.3,5.0,3.0,138
+1440,Rioja Norte,75.0,4.3,4.0,3.0,138
+1441,Roda I Reserva Rioja,85.0,4.3,4.0,3.0,137
+1442,Tinto,52.8,4.3,5.0,3.0,137
+1443,Artigas,20.4,4.3,4.0,3.0,136
+1444,Chafandin,26.2902950466486,4.3,5.0,3.0,136
+1445,Tinto,19.9,4.3,4.0,3.0,136
+1446,Godello Blanco,92.45,4.3,,,135
+1447,Julia,17.95,4.3,5.0,3.0,135
+1448,Clos Martinet,130.5,4.3,4.0,3.0,135
+1449,Jerez-Xeres-Sherry 30 Year Old Oloroso VORS,39.0,4.3,4.0,3.0,135
+1450,Pancrudo,34.9,4.3,4.0,3.0,134
+1451,Aurea,28.5,4.3,3.0,3.0,133
+1452,Coleccion Syrah,25.89,4.3,4.0,3.0,133
+1453,Flor de Primavera Peraj Ha'abib,27.5,4.3,4.0,3.0,133
+1454,Altos de Losada El Cepon,35.9,4.3,3.0,3.0,132
+1455,Rioja Blanco,63.53,4.3,3.0,3.0,131
+1456,Gran Vino Blanco,112.76,4.3,4.0,3.0,131
+1457,Crianza Vendimia Seleccionada,18.95,4.3,5.0,3.0,130
+1458,Vermouth Reserva,10.45,4.3,,,129
+1459,Ribera del Duero Torralvo,40.95,4.3,5.0,3.0,128
+1460,Matallana,39.75,4.3,5.0,3.0,128
+1461,Finca Azaya Premium,23.44,4.3,5.0,3.0,128
+1462,Tinto,133.34,4.3,4.0,3.0,127
+1463,Ribera del Duero Tinto,35.0,4.3,5.0,3.0,126
+1464,Clos Martinet,57.5,4.3,4.0,3.0,125
+1465,No. 20,23.95,4.3,4.0,3.0,124
+1466,Rioja Blanco,77.9,4.3,3.0,3.0,123
+1467,Montes Obarenes Seleccion Terroir,97.35,4.3,3.0,3.0,122
+1468,Els Escurcons,84.95,4.3,4.0,3.0,122
+1469,Clos Fonta Priorat,53.9,4.3,4.0,3.0,122
+1470,Tinto,12.19,4.3,4.0,3.0,122
+1471,La Casilla Amontillado,43.95,4.3,4.0,3.0,122
+1472,Palo Cortado,85.4,4.3,4.0,3.0,119
+1473,Martelo Reserva,23.43,4.3,4.0,3.0,119
+1474,Classic,43.24,4.3,4.0,3.0,118
+1475,Acediano,35.0,4.3,5.0,3.0,120
+1476,Gloria Rioja,54.52,4.3,4.0,3.0,117
+1477,Vintage Albarino,24.0,4.3,3.0,3.0,117
+1478,Cardenal Palo Cortado VORS,176.5,4.3,4.0,3.0,116
+1479,Vallegarcia Viognier,18.5,4.3,,,114
+1480,Finca la Atalaya Reserva,23.5,4.3,5.0,3.0,114
+1481,Tempranillo Reserva,28.0,4.3,4.0,3.0,112
+1482,Blecua Somontano,73.9,4.3,4.0,3.0,112
+1483,Priorat,100.0,4.3,4.0,3.0,111
+1484,Rioja Graciano,62.9,4.3,4.0,3.0,111
+1485,Grandes Anadas Rioja,265.0,4.3,4.0,3.0,111
+1486,Clos Cypres Vinyes Velles (Old Vines),49.0,4.3,4.0,3.0,111
+1487,Castineiro Albarino,30.75,4.3,3.0,3.0,111
+1488,Amontillado V.O.R.S,50.0,4.3,4.0,3.0,110
+1489,Altar,32.18,4.3,4.0,3.0,109
+1490,Gran Barquero Palo Cortado Solera 25 Anos,34.9,4.3,,,108
+1491,Toro Gran Elias Mora,33.5,4.3,5.0,3.0,108
+1492,Vinas Viejas de Soria Ribera Del Duero,92.24,4.3,5.0,3.0,108
+1493,Gran Vino Blanco,52.95,4.3,4.0,3.0,108
+1494,Arnau Oller Seleccio de la Familia,33.15,4.3,4.0,3.0,108
+1495,Roda Reserva Rioja,24.51,4.3,4.0,3.0,108
+1496,Nebro Ribera del Duero,135.95,4.3,5.0,3.0,107
+1497,Rioja Norte,46.9,4.3,4.0,3.0,106
+1498,Don PX Gran Reserva,19.8,4.3,5.0,1.0,104
+1499,Classic,39.51,4.3,4.0,3.0,102
+1500,Classic,119.95,4.3,4.0,3.0,102
+1501,Vina Tondonia Reserva,249.0,4.3,4.0,3.0,101
+1502,Las Lamas Bierzo (Corullon),95.25,4.3,3.0,3.0,100
+1503,Orbus,24.95,4.3,4.0,3.0,100
+1504,La Bienquerida,36.91,4.3,3.0,3.0,100
+1505,Les Manyes,158.88,4.3,4.0,3.0,99
+1506,Finca Dofi,90.6,4.3,4.0,3.0,99
+1507,Malbec,24.9,4.3,4.0,3.0,99
+1508,Altos de Losada,18.35,4.3,3.0,3.0,97
+1509,Gran Vino Blanco,65.25,4.3,4.0,3.0,95
+1510,Reserva Especial Rioja,23.95,4.3,4.0,3.0,95
+1511,Aurus,148.65,4.3,4.0,3.0,94
+1512,La Time,21.95,4.3,,,94
+1513,QS,37.49,4.3,4.0,3.0,93
+1514,Dolc Mataro,16.5,4.3,,,92
+1515,Priorat Vinyes Velles,33.95,4.3,4.0,3.0,94
+1516,Vendimia Tardia Moscatel,10.76,4.3,,,91
+1517,Hiru 3 Rioja Racimos,118.0,4.3,4.0,3.0,91
+1518,Triaca,34.9,4.3,4.0,3.0,90
+1519,Prado Enea Gran Reserva,150.0,4.3,4.0,3.0,90
+1520,Amontillado 51-1a 30 Years VORS Sherry,64.8,4.3,4.0,3.0,89
+1521,Cyclo,35.15,4.3,5.0,3.0,89
+1522,Tinto,145.0,4.3,5.0,3.0,89
+1523,Maimo Garnatxa,26.9,4.3,5.0,3.0,88
+1524,Montes Obarenes Seleccion Terroir,42.9,4.3,3.0,3.0,88
+1525,Gran Reserva 890,215.34,4.3,4.0,3.0,88
+1526,Fos Baranda,29.9,4.3,,,87
+1527,Finca la Oracion,20.45,4.3,,,88
+1528,Albarino Pedralonga,15.71,4.3,,,86
+1529,Mas de Masos,39.99,4.3,,,86
+1530,Com Tu,34.95,4.3,,,85
+1531,El Rocallis,88.0,4.3,,,83
+1532,Iugiter,25.5,4.3,,,83
+1533,Doix,79.9,4.3,,,83
+1534,Ultreia Valtuille Mencia,45.9,4.3,,,83
+1535,La Chispa Negra,24.0,4.3,,,82
+1536,Sauvignon Blanc,8.9,4.3,,,83
+1537,Reserva,65.0,4.3,,,82
+1538,Clos Adrien,47.0,4.3,,,82
+1539,Sofia,20.5,4.3,,,82
+1540,Cava Original Brut (Espumos),62.9,4.3,,,81
+1541,Laderas Rioja,31.13,4.3,,,81
+1542,Reserva,73.0,4.3,,,81
+1543,La Basseta,58.0,4.3,,,80
+1544,El Rocallis,34.5,4.3,,,80
+1545,Blanco de Parcela,41.9,4.3,,,80
+1546,Finca la Beata Bobal,33.9,4.3,,,80
+1547,Resalte Expresion,28.5,4.3,,,80
+1548,Cava Brut Milesime,24.1,4.3,,,80
+1549,Syrah de Matasnos,27.9,4.3,,,80
+1550,Amancio,84.5,4.3,,,80
+1551,Massipa de Scala Dei Garnatxa Blanca - Xenin,36.78,4.3,,,79
+1552,Seleccion Privada,54.5,4.3,4.0,3.0,79
+1553,Nunci Negre,21.4,4.3,4.0,3.0,79
+1554,Oloroso Extra Viejo 1/7,217.8,4.3,4.0,3.0,78
+1555,Musivari Gran Reserva Brut Nature,23.22,4.3,2.0,3.0,77
+1556,Amaya Arzuaga (Coleccion),51.2,4.3,5.0,3.0,77
+1557,Christina Ribera del Duero,38.0,4.3,5.0,3.0,77
+1558,La Cueva del Contador Rioja,67.9,4.3,4.0,3.0,77
+1559,San Vicente Rioja,32.9,4.3,4.0,3.0,77
+1560,Faustino de Autor Reserva Especial,45.0,4.3,4.0,3.0,76
+1561,Rioja Gran Reserva 904,260.0,4.3,4.0,3.0,76
+1562,Vinas Viejas Aguilera,69.0,4.3,4.0,3.0,76
+1563,Prado Enea Gran Reserva,98.0,4.3,4.0,3.0,75
+1564,Les Manyes,348.85,4.3,4.0,3.0,74
+1565,Pla dels Angels Rosado,23.95,4.3,,,74
+1566,Juan Piernas Finca El Paso Malo Monastrell,27.9,4.3,5.0,3.0,74
+1567,Albarino Pedralonga,15.0,4.3,3.0,3.0,74
+1568,Vina del Olivo,155.0,4.3,4.0,3.0,74
+1569,Pedra de Guix,57.9,4.3,,,73
+1570,Vinyes Velles de Samso,36.93,4.3,4.0,3.0,73
+1571,Hispania,52.0,4.3,5.0,3.0,73
+1572,Malvasia,31.5,4.3,3.0,3.0,72
+1573,Priorat,654.31,4.3,4.0,3.0,72
+1574,Vina Ardanza Reserva,75.0,4.3,4.0,3.0,72
+1575,La Bota 69 de Amontillado,113.72,4.3,4.0,3.0,72
+1576,Antigues Reserves,27.45,4.3,4.0,3.0,72
+1577,Regina Vides Ribera del Duero,69.9,4.3,5.0,3.0,71
+1578,Baron de Chirel Verdejo Vinas Centenarias,40.5,4.3,3.0,3.0,71
+1579,Gran Calzadilla,39.95,4.3,4.0,3.0,70
+1580,Alto de la Caseta,55.45,4.3,4.0,3.0,70
+1581,Clos Martinet,177.45,4.3,4.0,3.0,70
+1582,Masia Carreras Negre,11.91,4.3,4.0,3.0,69
+1583,Clos Monlleo,54.95,4.3,4.0,3.0,68
+1584,Priorat,25.88,4.3,4.0,3.0,68
+1585,Milagros de Figuero,34.85,4.3,5.0,3.0,68
+1586,Las Botas Palo Cortado Horizontal,37.0,4.3,4.0,3.0,67
+1587,Rioja Norte,75.0,4.3,4.0,3.0,67
+1588,La Riva Fino Balbaina Alta,47.45,4.3,4.0,3.0,67
+1589,Coma Bruna,22.8,4.3,4.0,3.0,67
+1590,Vina Tondonia Gran Reserva,199.0,4.3,4.0,3.0,66
+1591,Palo Cortado de la Cruz de 1767,59.9,4.3,4.0,3.0,66
+1592,Grano a Grano Tempranillo,120.13,4.3,4.0,3.0,65
+1593,Voltons,47.0,4.3,4.0,3.0,64
+1594,Masdeu,84.9,4.3,4.0,3.0,64
+1595,Tinto,78.95,4.3,4.0,3.0,64
+1596,Crianza,9.99,4.3,5.0,3.0,64
+1597,S'Alou,31.5,4.3,4.0,3.0,64
+1598,Altos R Pigeage,29.95,4.3,4.0,3.0,63
+1599,Massipa de Scala Dei Garnatxa Blanca - Xenin,36.95,4.3,,,62
+1600,Finca Monteviejo,32.0,4.3,4.0,3.0,62
+1601,Rioja Gran Reserva,25.95,4.3,4.0,3.0,62
+1602,Habis,21.5,4.3,3.0,3.0,62
+1603,5o Ano,23.3863295,4.3,4.0,3.0,62
+1604,Gaminde,43.8,4.3,4.0,3.0,62
+1605,Nun Vinya dels Taus,123.75,4.3,,,62
+1606,Els Escurcons,75.5,4.3,4.0,3.0,61
+1607,Varietal Fermentacion Lenta,29.9,4.3,5.0,1.0,61
+1608,El Cordero y las Virgenes,24.0,4.3,4.0,3.0,60
+1609,Clos Fonta Priorat,150.0,4.3,4.0,3.0,60
+1610,Finca Las Comas Verdejo,29.4,4.3,3.0,3.0,60
+1611,Finca Dofi,170.0,4.3,4.0,3.0,60
+1612,La Poza de Ballesteros,93.26,4.3,4.0,2.0,60
+1613,Vinas Viejas de Soria Ribera Del Duero,75.95,4.3,5.0,3.0,59
+1614,Reserva,23.77,4.3,5.0,3.0,59
+1615,Selection 1884 Vermouth Gran Reserva,27.11,4.3,,,57
+1616,Macan Clasico,42.5,4.3,4.0,3.0,57
+1617,Dalmau Rioja,75.0,4.3,4.0,3.0,57
+1618,Tomas Esteban,68.99,4.3,5.0,3.0,57
+1619,Prieto Picudo,21.95,4.3,4.0,3.0,57
+1620,Garnacha Tintorera,13.237545,4.3,4.0,3.0,57
+1621,Penalba Lopez Blanco,13.65,4.3,,,57
+1622,Cabernet,23.5,4.3,4.0,3.0,57
+1623,El Cuentista,17.9,4.3,,,57
+1624,Porrera Vi de Vila,49.95,4.3,4.0,3.0,56
+1625,Les Manyes,348.85,4.3,4.0,3.0,56
+1626,Tahulla Moscatel Blanco Seco,11.95,4.3,,,56
+1627,Juegabolos,28.6,4.3,5.0,3.0,56
+1628,3.9,21.3,4.3,4.0,3.0,56
+1629,Sketch,44.95,4.3,3.0,3.0,56
+1630,Clos del Portal Somni,36.3,4.3,4.0,3.0,55
+1631,De Garage Rioja,32.0,4.3,4.0,3.0,55
+1632,Montsalvat,39.712635,4.3,4.0,3.0,54
+1633,Galena,17.9,4.3,4.0,3.0,54
+1634,Sio Negre,39.9,4.3,4.0,3.0,53
+1635,Aurus,140.0,4.3,4.0,3.0,53
+1636,Chardonnay Uno,249.95,4.3,4.0,3.0,53
+1637,Vendimia Seleccionada,28.83,4.3,5.0,3.0,53
+1638,Nebro Ribera del Duero,196.29,4.3,5.0,3.0,53
+1639,Pago de Otazu Chardonnay Con Crianza,28.4,4.3,4.0,3.0,53
+1640,Verdejo Fermentado en Barrica,14.5,4.3,3.0,3.0,53
+1641,Rioja Gran Reserva 904,260.0,4.3,4.0,3.0,53
+1642,Don PX Pedro Ximenez,36.9,4.3,5.0,1.0,52
+1643,Vinyes Altes de Les Garrigues Vi Blanc,25.8,4.3,,,52
+1644,Vina Centenaria Mencia,38.0,4.3,3.0,3.0,52
+1645,Grans Muralles,137.75,4.3,4.0,3.0,52
+1646,Clos de L'Obac,79.9,4.3,4.0,3.0,51
+1647,Malvasia,41.5,4.3,,,51
+1648,Cerro del Lobo Syrah,24.5,4.3,4.0,3.0,51
+1649,Estrats,68.55,4.3,4.0,3.0,51
+1650,Masdeu,81.35,4.3,4.0,3.0,51
+1651,Regina Vides Ribera del Duero,121.5,4.3,5.0,3.0,50
+1652,Celia,79.98,4.3,5.0,3.0,50
+1653,Gaudium,60.0,4.3,4.0,3.0,50
+1654,Summum Monastrell,13.99,4.3,5.0,3.0,50
+1655,Doix,195.52,4.3,4.0,3.0,49
+1656,Finca La Herradura,68.0,4.3,5.0,3.0,49
+1657,Reserva Especial,16.9,4.3,4.0,3.0,49
+1658,Alma de Mar Albarino,27.5,4.3,3.0,3.0,49
+1659,Canasta 20 Anos Cream,29.25,4.3,5.0,1.0,49
+1660,Rioja Anadas Frias,75.0,4.3,3.0,3.0,49
+1661,5o Ano,23.9,4.3,4.0,3.0,49
+1662,Suzzane Rioja,34.9,4.3,4.0,3.0,48
+1663,Castillo Ygay Gran Reserva Especial Tinto,532.0,4.3,4.0,3.0,48
+1664,Llanos del Almendro Ribera del Duero,95.0,4.3,5.0,3.0,48
+1665,Monreal,44.1,4.3,4.0,3.0,48
+1666,Blanco,17.7,4.3,,,48
+1667,8 Vents Mallorca,18.9,4.3,4.0,3.0,47
+1668,Venus,35.35,4.3,4.0,3.0,47
+1669,Gran Reserva 890,270.0,4.3,4.0,3.0,47
+1670,Vd'O 1 Samso - Pissarra,34.95,4.3,4.0,3.0,46
+1671,Les Manyes,348.85,4.3,4.0,3.0,46
+1672,Tempranillo Reserva,14.9,4.3,4.0,3.0,46
+1673,La Cuartilleja Reserva,39.7,4.3,5.0,3.0,46
+1674,Cava Gran Reserva La Capella Brut,75.5,4.3,2.0,3.0,46
+1675,Coleccion No. 3 Cosecha,189.9,4.3,4.0,3.0,45
+1676,Rioja Gran Reserva,21.01,4.3,4.0,3.0,45
+1677,Albarino Sobre Lias,23.9,4.3,3.0,3.0,45
+1678,Nobbis,12.8,4.3,4.0,2.0,45
+1679,Rara Avis Prieto Picudo,39.95,4.3,4.0,3.0,45
+1680,Sensal,22.35,4.3,4.0,3.0,45
+1681,Campo Eliseo Blanco,27.25,4.3,3.0,3.0,45
+1682,Blanc de Neu,16.99,4.3,2.0,3.0,45
+1683,Reserva,55.0,4.3,4.0,3.0,45
+1684,La Mar,21.5,4.3,3.0,3.0,45
+1685,Las Lamas Bierzo (Corullon),106.92,4.3,3.0,3.0,44
+1686,Vinas Viejas,37.065126,4.3,5.0,3.0,44
+1687,T3rno Seleccion de 3 Parcelas Ribera del Duero,38.5,4.3,5.0,3.0,44
+1688,Fino La Barajuela,69.95,4.3,,,44
+1689,Clos Abella Seleccion Especial,43.5,4.3,4.0,3.0,44
+1690,Parcelas de Maturana Tinta Coleccion Rioja,36.5,4.3,4.0,3.0,44
+1691,Reserva Real,213.5,4.3,4.0,3.0,43
+1692,Attis Embaixador Albarino,21.89,4.3,3.0,3.0,43
+1693,Vitola Reserva,21.9,4.3,4.0,3.0,42
+1694,San Cucufate Monasterio,33.0,4.3,5.0,3.0,42
+1695,Tras Los Muros Albarino,38.0,4.3,3.0,3.0,42
+1696,Godello,24.77,4.3,,,42
+1697,CM Tinto,17.75,4.3,4.0,2.0,42
+1698,La Loma & Los Santos Garnacha Blanca - Macabeo,40.9,4.3,,,41
+1699,200 Monges Rioja Gran Reserva,52.5,4.3,4.0,3.0,40
+1700,Clos Adrien,48.91,4.3,4.0,3.0,40
+1701,Gratallops Escanya-Vella,27.1,4.3,,,40
+1702,Lalomba Finca Ladero,58.25,4.3,4.0,3.0,40
+1703,Oloroso En Rama,24.9,4.3,4.0,3.0,40
+1704,El Reventon Cebreros,67.95,4.3,5.0,3.0,40
+1705,Amontillado Napoleon Vinos Viejos 30 Year Old Sherry,74.9,4.3,4.0,3.0,40
+1706,Navarra Vendimia Tardia Coleccion 125,25.95,4.3,,,39
+1707,Tinto,119.0,4.3,4.0,3.0,39
+1708,Manar dos Seixas,13.5,4.3,,,38
+1709,200 Monges Edicion Exclusiva Blanco Reserva,51.45,4.3,3.0,3.0,38
+1710,Montsalvat,56.27,4.3,4.0,3.0,38
+1711,Eolic Sauvignon Blanc,11.65,4.3,3.0,3.0,38
+1712,Finca Valmediano Tinta de Toro 16 Meses Barrica,32.9,4.3,5.0,3.0,38
+1713,Cantos del Diablo,197.0,4.3,5.0,3.0,38
+1714,Teofilo Reyes Crianza,14.71,4.3,5.0,3.0,38
+1715,Recondita Armonia Monastrell Dulce,16.45,4.3,,,38
+1716,Falguera,53.55,4.3,4.0,3.0,38
+1717,Epistem No. 3,18.9,4.3,4.0,3.0,38
+1718,Molino Real,53.3,4.3,,,38
+1719,Angel Ribera del Duero,31.9,4.3,5.0,3.0,37
+1720,Pleret,55.5,4.3,4.0,3.0,37
+1721,A Torna dos Pasas Escolma Ribeiro,40.75,4.3,4.0,3.0,37
+1722,Costers Del Segre 1780,22.9,4.3,4.0,3.0,37
+1723,Ines,76.87,4.3,5.0,3.0,37
+1724,Ines,79.98,4.3,5.0,3.0,37
+1725,Honoris,35.0,4.3,5.0,3.0,37
+1726,La Revelia Godello,21.65,4.3,,,37
+1727,Club Rioja Reserva,20.95,4.3,4.0,3.0,36
+1728,Camino del Abuelo Vinas Viejas,243.8,4.3,5.0,3.0,36
+1729,La Morera de San Lazaro,80.0,4.3,4.0,2.0,36
+1730,Tinto,60.4,4.3,4.0,3.0,36
+1731,Quintanilla,65.9,4.3,4.0,2.0,35
+1732,Reserva,10.2,4.3,4.0,3.0,35
+1733,Salvaxe,26.75,4.3,,,35
+1734,Vina Tondonia Reserva,47.95,4.3,4.0,3.0,35
+1735,Vi De Glass Gewurztraminer,18.58,4.3,,,35
+1736,Finca Los Quemados,27.7,4.3,5.0,3.0,35
+1737,Teofilo Reyes Crianza,11.94,4.3,5.0,3.0,35
+1738,Rioja Reserva,45.0,4.3,4.0,3.0,35
+1739,Albarino (O Rosal),13.45,4.3,3.0,3.0,35
+1740,Les Manyes,180.0,4.3,4.0,3.0,35
+1741,Rioja,29.0,4.3,4.0,3.0,34
+1742,Vino de Autor Ribeiro Blanco,15.9,4.3,,,34
+1743,Rioja Reserva,65.0,4.3,4.0,3.0,34
+1744,Argila Reserva 3 Anys Brut Nature,21.6,4.3,2.0,3.0,34
+1745,Octogenarius,46.5,4.3,5.0,3.0,34
+1746,Finca La Pedrissa,37.9,4.3,4.0,3.0,34
+1747,Magister,35.5,4.3,4.0,3.0,35
+1748,Ribera del Duero Vendimia Seleccionada VT,27.9,4.3,5.0,3.0,34
+1749,Porcellanic VI Xarel-lo Sur Lie,110.47,4.3,,,33
+1750,Sibila,32.46,4.3,4.0,3.0,33
+1751,Emporda Reserva Especial Don Miguel Mateu,15.56,4.3,4.0,3.0,33
+1752,200 Cestos Godello,23.7,4.3,,,33
+1753,Heaven & Hell,18.5,4.3,,,32
+1754,Cabrida Montsant,36.85,4.3,4.0,3.0,32
+1755,Suane Blanco,23.9,4.3,3.0,3.0,32
+1756,Garnacha,38.0,4.3,5.0,3.0,32
+1757,Cantos del Diablo,101.01,4.3,5.0,3.0,33
+1758,Vendimia Tardia Moscatel,13.75,4.3,,,32
+1759,Pinot Noir,29.38,4.3,4.0,3.0,31
+1760,Cerro La Isa Blanco,44.9,4.3,3.0,3.0,31
+1761,Cuvee Verdejo,12.0,4.3,3.0,3.0,31
+1762,Anadelia,38.5,4.3,,,31
+1763,Salvaxe,28.35,4.3,,,31
+1764,Tabuerniga,65.22,4.3,4.0,3.0,31
+1765,Seleccion Especial Verdejo,6.26,4.3,3.0,3.0,32
+1766,Coster d'en Fornos,40.55,4.3,4.0,3.0,31
+1767,Malvasia Volcanica,31.9,4.3,,,31
+1768,Laderas de Inurrieta,26.1,4.3,4.0,3.0,30
+1769,El Velado Tinto,73.95,4.3,4.0,3.0,30
+1770,Pico de Luyas,48.9,4.3,5.0,3.0,30
+1771,Blanco Afrutado,11.99,4.3,,,30
+1772,A Pita Cega,44.8,4.3,,,30
+1773,Mas Via Gran Reserva Brut,76.17,4.3,2.0,3.0,29
+1774,Prado Enea Gran Reserva,120.0,4.3,4.0,3.0,29
+1775,Finca Cuesta Clara Raro Reserva,39.5,4.3,4.0,3.0,29
+1776,Naiades,19.03,4.3,3.0,3.0,29
+1777,Fuenmayor Gran Reserva,230.0,4.3,4.0,3.0,29
+1778,Dalmau Rioja,110.0,4.3,4.0,3.0,29
+1779,Rioja Reserva,310.0,4.3,4.0,3.0,29
+1780,Mirador de Navajas Reserva Rioja,28.7550102072719,4.3,4.0,3.0,29
+1781,Coleccion Roberto Amillo Amontillado,39.9,4.3,4.0,3.0,29
+1782,1730 Amontillado,34.65,4.3,4.0,3.0,29
+1783,Aurus,211.92,4.3,4.0,3.0,29
+1784,Cerro La Isa Garnacha,43.9,4.3,4.0,3.0,28
+1785,Nus del Terrer,25.9,4.3,4.0,3.0,28
+1786,Nivel,35.0,4.3,5.0,3.0,28
+1787,I Gran Reserva,160.0,4.3,4.0,3.0,28
+1788,Seleccion Especial,32.0,4.3,5.0,3.0,28
+1789,Galia Clos Santuy,74.9,4.3,4.0,3.0,28
+1790,Seleccion,30.0,4.3,4.0,3.0,28
+1791,Le Rose,49.0,4.3,,,28
+1792,Pago de las Sabinas,39.55,4.3,5.0,3.0,28
+1793,Old & Plus Oloroso,45.0,4.3,4.0,3.0,28
+1794,Coleccion Roberto Amillo Palo Cortado,47.7,4.3,4.0,3.0,27
+1795,Alicante Bouschet by Tarima,14.9,4.3,4.0,3.0,27
+1796,Rioja Gran Reserva,46.45,4.3,4.0,3.0,27
+1797,Tinto,15.45,4.3,4.0,3.0,27
+1798,Gueta-Lupia,31.75,4.3,4.0,3.0,27
+1799,Amancio,110.0,4.3,4.0,3.0,27
+1800,Marmajuelo,29.75,4.3,,,27
+1801,Cava Reserva Especial Chardonnay Brut Nature,18.5,4.3,2.0,3.0,27
+1802,Ribera del Duero Vendimia Seleccionada,19.8563175,4.3,5.0,3.0,26
+1803,No. 23,23.1,4.3,4.0,3.0,26
+1804,Las Iruelas El Tiemblo,97.07,4.3,5.0,3.0,26
+1805,Tinto,8.57,4.3,5.0,3.0,26
+1806,Cantos del Diablo,67.95,4.3,5.0,3.0,26
+1807,V Dulce de Invierno,17.74,4.3,,,26
+1808,Diego Magana,37.9,4.3,4.0,3.0,26
+1809,Graciano,68.0,4.3,4.0,3.0,26
+1810,Cerro Las Cuevas Seleccion Terroir,39.89,4.3,4.0,3.0,26
+1811,Pena Lobera,68.9,4.3,5.0,3.0,25
+1812,Altos R Pigeage Graciano,35.0,4.3,4.0,3.0,25
+1813,Ronda,32.5,4.3,4.0,3.0,25
+1814,Nisia Las Suertes Verdejo Old Vines,16.9,4.3,3.0,3.0,25
+1815,Territori,23.6,4.3,4.0,3.0,25
+1816,Alomado,46.95,4.3,4.0,3.0,25
+1817,Octogenarius,36.9,4.3,5.0,3.0,25
+1818,Gran Reserva,48.81,4.3,4.0,3.0,25
+1819,Pinot Noir,33.5,4.3,4.0,3.0,25
+1820,Selma de Nin Blanco,56.95,4.3,,,25
+1821,Senda de Los Olivos Roble,8.9,4.3,5.0,3.0,25
+1822,Mucho Mas Tinto,4.99,4.2,4.0,3.0,32624
+1823,Rioja Reserva,15.9,4.2,4.0,3.0,16505
+1824,Vina Ardanza Reserva,23.7,4.2,4.0,3.0,9098
+1825,Reserva Rioja (Finca Ygay),23.0,4.2,4.0,3.0,8318
+1826,Ribera del Duero,19.5,4.2,5.0,3.0,7825
+1827,Ribera del Duero,21.2,4.2,5.0,3.0,7294
+1828,Reserva,27.0,4.2,5.0,3.0,6567
+1829,Vina Ardanza Reserva,33.0,4.2,4.0,3.0,6532
+1830,Coto de Imaz Rioja Gran Reserva,16.14,4.2,4.0,3.0,6256
+1831,PSI,37.95,4.2,5.0,3.0,6163
+1832,Vina Alberdi Reserva,17.02,4.2,4.0,3.0,5802
+1833,Seleccion Especial,49.85,4.2,4.0,3.0,5178
+1834,Rias Baixas Albarino Atlantico,14.95,4.2,3.0,3.0,4610
+1835,Crianza,9.76,4.2,5.0,3.0,4127
+1836,Ribera del Duero Crianza,19.16,4.2,5.0,3.0,4091
+1837,Vina Alberdi Reserva,15.8,4.2,4.0,3.0,3825
+1838,Rioja Reserva,19.8333333333333,4.2,4.0,3.0,3788
+1839,27 Ribera del Duero,21.0,4.2,5.0,3.0,3725
+1840,Terras Gauda O Rosal,12.29,4.2,3.0,3.0,3648
+1841,27 Ribera del Duero,23.75,4.2,5.0,3.0,3545
+1842,Rioja Reserva,15.83,4.2,4.0,3.0,3453
+1843,Ribera del Duero Crianza,15.45,4.2,5.0,3.0,3354
+1844,Salmos,24.85,4.2,4.0,3.0,3225
+1845,Crianza Tinto,20.95,4.2,5.0,3.0,3224
+1846,Rioja Gran Reserva,28.43,4.2,4.0,3.0,3101
+1847,Vina Bosconia Reserva,22.58,4.2,4.0,3.0,2901
+1848,Red,58.26,4.2,4.0,3.0,2820
+1849,Vina Bosconia Reserva,20.95,4.2,4.0,3.0,2820
+1850,Mas La Plana Cabernet Sauvignon,48.4,4.2,4.0,3.0,2788
+1851,Louro Godello,19.7,4.2,,,2685
+1852,Rioja Reserva,24.75,4.2,4.0,3.0,2676
+1853,Roda Reserva Rioja,55.47,4.2,4.0,3.0,2478
+1854,Roda Reserva Rioja,28.4,4.2,4.0,3.0,2375
+1855,Rioja Reserva,27.6,4.2,4.0,3.0,2364
+1856,Jumilla Blue Label,24.76,4.2,4.0,3.0,2271
+1857,Jumilla Blue Label,24.6,4.2,4.0,3.0,2234
+1858,Jumilla Blue Label,22.5,4.2,4.0,3.0,2135
+1859,I Gran Reserva,124.5,4.2,4.0,3.0,2074
+1860,Crianza,19.99,4.2,5.0,3.0,2050
+1861,La Atalaya del Camino,11.8,4.2,4.0,3.0,2022
+1862,27 Ribera del Duero,23.74,4.2,5.0,3.0,1981
+1863,Roda Reserva Rioja,30.35,4.2,4.0,3.0,1931
+1864,Gran Reserva,38.84,4.2,5.0,3.0,1921
+1865,Rioja Reserva,21.5,4.2,4.0,3.0,1768
+1866,Reserva,29.95,4.2,5.0,3.0,1688
+1867,Rioja 150 Aniversario,59.0,4.2,4.0,3.0,1686
+1868,Toro,98.9,4.2,5.0,3.0,1665
+1869,Roda Reserva Rioja,59.9,4.2,4.0,3.0,1645
+1870,Veraton Garnacha,19.94,4.2,5.0,3.0,1627
+1871,Vina Bosconia Reserva,23.52,4.2,4.0,3.0,1611
+1872,Alexander vs. The Ham Factory,33.3733333333333,4.2,5.0,3.0,1573
+1873,PSI,34.5,4.2,5.0,3.0,1355
+1874,Veraton Garnacha,21.6,4.2,5.0,3.0,1343
+1875,Vina Alberdi Crianza,11.2,4.2,4.0,3.0,1341
+1876,Taberner Tierra de Cadiz,32.0010770950795,4.2,4.0,3.0,1337
+1877,Rioja Gran Reserva,39.5,4.2,4.0,3.0,1319
+1878,Ribera del Duero,33.59,4.2,5.0,3.0,1308
+1879,Capellania Reserva,29.15,4.2,3.0,3.0,1301
+1880,Finca El Otero,28.75,4.2,5.0,3.0,1267
+1881,Crianza,16.88,4.2,5.0,3.0,1209
+1882,Gessami,9.95,4.2,,,1164
+1883,Dominio de Atauta,25.71,4.2,5.0,3.0,1159
+1884,Finest Old Harvest Medium,18.87,4.2,5.0,1.0,1155
+1885,Taberner Tierra de Cadiz,17.04,4.2,4.0,3.0,1125
+1886,Ribera del Duero Red,18.9,4.2,5.0,3.0,1095
+1887,Bosque de Matasnos Etiqueta Blanca,55.75,4.2,5.0,3.0,1093
+1888,Ribera del Duero,37.9,4.2,5.0,3.0,1086
+1889,Corimbo I,39.0,4.2,5.0,3.0,1078
+1890,Crianza,16.49,4.2,5.0,3.0,1070
+1891,Vermut Rojo,11.9,4.2,,,1058
+1892,La Atalaya del Camino,11.66,4.2,4.0,3.0,1048
+1893,Vina Tondonia Reserva Blanco,26.9,4.2,3.0,3.0,1043
+1894,Reserva 5 Ano,22.95,4.2,5.0,3.0,1040
+1895,Malleolus,31.95,4.2,5.0,3.0,1030
+1896,Del Duque Amontillado Sherry VORS,77.22,4.2,4.0,3.0,1016
+1897,Les Terrasses Velles Vinyes Priorat,85.9,4.2,4.0,3.0,1016
+1898,Salmos,20.99,4.2,4.0,3.0,1008
+1899,Numanthia,51.19,4.2,5.0,3.0,998
+1900,Les Terrasses Laderas de Pizarra,32.25,4.2,4.0,3.0,970
+1901,Inici,39.0,4.2,4.0,3.0,969
+1902,Mas La Plana Cabernet Sauvignon,56.26,4.2,4.0,3.0,964
+1903,Corimbo I,23.4,4.2,5.0,3.0,918
+1904,5 Finques (Fincas) Reserva,11.35,4.2,4.0,3.0,918
+1905,Corimbo I,37.5,4.2,5.0,3.0,915
+1906,QS,40.76,4.2,4.0,3.0,900
+1907,Martinet Bru (Garnatxa - Syrah),21.9,4.2,4.0,3.0,897
+1908,Vina Ardanza Reserva,161.0,4.2,4.0,3.0,883
+1909,El Puntido,34.41,4.2,4.0,3.0,879
+1910,Ribera del Duero,16.95,4.2,5.0,3.0,876
+1911,Finca Dofi,52.5,4.2,4.0,3.0,865
+1912,Reserva 5 Ano,19.53,4.2,5.0,3.0,855
+1913,Ribera Del Duero Reserva,30.0,4.2,5.0,3.0,852
+1914,Muscat,5.5,4.2,,,842
+1915,Rioja Gran Reserva,35.63,4.2,4.0,3.0,840
+1916,Roda Reserva Rioja,25.5,4.2,4.0,3.0,834
+1917,Angeles de Amaren Tempranillo - Graciano,19.38,4.2,4.0,3.0,832
+1918,Reserva Rioja (Finca Ygay),20.9,4.2,4.0,3.0,811
+1919,Ribera del Duero Crianza,18.5,4.2,5.0,3.0,806
+1920,Reserva XR,23.0,4.2,4.0,3.0,778
+1921,Purgatori Costers del Segre,38.37,4.2,4.0,3.0,778
+1922,Purgatori Costers del Segre,25.5,4.2,4.0,3.0,777
+1923,Mirto,35.0,4.2,4.0,3.0,776
+1924,Vinas Viejas Verdejo,30.0,4.2,3.0,3.0,769
+1925,Bassus Pinot Noir,18.95,4.2,4.0,3.0,753
+1926,Sericis Cepas Viejas Monastrell,8.95,4.2,5.0,3.0,745
+1927,Finca Malaveina,25.35,4.2,4.0,3.0,740
+1928,Ribera del Duero Red,18.5,4.2,5.0,3.0,733
+1929,Rioja Gran Reserva,36.0,4.2,4.0,3.0,732
+1930,Rioja Gran Reserva,85.8,4.2,4.0,3.0,731
+1931,Bassus Pinot Noir,19.25,4.2,4.0,3.0,721
+1932,QS,37.5,4.2,4.0,3.0,707
+1933,Rioja Reserva,19.4,4.2,4.0,3.0,696
+1934,Gessami,11.2,4.2,,,692
+1935,Rioja Reserva Fincas de Ganuza,29.5,4.2,4.0,3.0,684
+1936,Summum Monastrell,15.95,4.2,5.0,3.0,682
+1937,Altos de Losada,18.4,4.2,3.0,3.0,676
+1938,Finca Dofi,59.95,4.2,4.0,3.0,671
+1939,Coto de Imaz Rioja Gran Reserva,15.88,4.2,4.0,3.0,668
+1940,El Viejo,26.95,4.2,5.0,3.0,668
+1941,Corpinnat Terrers Brut Nature,25.0,4.2,2.0,3.0,667
+1942,Dos Cortados Palo Cortado Solera Especial Aged 20 Years,32.16,4.2,4.0,3.0,666
+1943,Vi de Vila Gratallops,60.0,4.2,4.0,3.0,648
+1944,Vi de Vila Gratallops,55.0,4.2,4.0,3.0,647
+1945,Gran Reserva Rioja (Finca Ygay),86.95,4.2,4.0,3.0,645
+1946,Oscar Tobia Reserva Rioja,20.0,4.2,4.0,3.0,633
+1947,Rioja Satinela Blanco Semidulce,6.99,4.2,3.0,3.0,630
+1948,Reserva,29.93,4.2,5.0,3.0,628
+1949,Finca Malaveina,17.84,4.2,4.0,3.0,627
+1950,Rioja Gran Reserva,34.5,4.2,4.0,3.0,624
+1951,Red,55.0,4.2,4.0,3.0,622
+1952,Clos del Portal Negre de Negres,21.85,4.2,4.0,3.0,612
+1953,Corpinnat Terrers Brut Nature,21.8,4.2,2.0,3.0,611
+1954,Martelo Reserva,20.5,4.2,4.0,3.0,600
+1955,Crianza,17.25,4.2,5.0,3.0,599
+1956,Solideo,35.09,4.2,5.0,3.0,592
+1957,Preludio,24.9,4.2,5.0,3.0,591
+1958,Reserva Tempranillo,20.4532878069468,4.2,4.0,3.0,587
+1959,Coma Vella Priorat,24.8,4.2,4.0,3.0,576
+1960,Las Ocho (8) Tinto,16.767557,4.2,4.0,3.0,570
+1961,Pago de los Balagueses Syrah,17.7,4.2,4.0,3.0,559
+1962,Bagus Ribera del Duero,54.0,4.2,5.0,3.0,559
+1963,Formiga de Vellut,16.2,4.2,4.0,3.0,558
+1964,Tierra Alta En 2 Maderas,19.9,4.2,5.0,3.0,557
+1965,Pago El Espino,25.35,4.2,4.0,3.0,555
+1966,Rioja Blanco,17.75,4.2,3.0,3.0,540
+1967,Crianza,18.9,4.2,5.0,3.0,528
+1968,Propiedad  Rioja,25.9,4.2,4.0,3.0,527
+1969,Crianza,18.25,4.2,5.0,3.0,520
+1970,Reserva Especial Icon Edition,23.89,4.2,4.0,3.0,519
+1971,Antique Palo Cortado,36.9,4.2,4.0,3.0,519
+1972,El Viejo,33.9,4.2,5.0,3.0,518
+1973,Vina Lanciano Reserva,14.6,4.2,4.0,3.0,514
+1974,An,139.9,4.2,4.0,3.0,513
+1975,Artigas,20.9,4.2,4.0,3.0,505
+1976,200 Monges Rioja Reserva,48.0,4.2,4.0,3.0,499
+1977,Rioja Gran Reserva,39.5,4.2,4.0,3.0,490
+1978,Preludio,24.5,4.2,5.0,3.0,488
+1979,Jalifa Amontillado Rare Old Dry Solera Especial Aged 30 Years,33.5,4.2,4.0,3.0,487
+1980,Rejon Tempranillo,36.97,4.2,4.0,2.0,485
+1981,La Felisa,26.3,4.2,5.0,3.0,483
+1982,La Revelia Godello,21.95,4.2,,,484
+1983,Tinto,21.5,4.2,5.0,3.0,481
+1984,A Mano Rioja,28.95,4.2,4.0,3.0,480
+1985,Milmanda,126.2,4.2,4.0,3.0,473
+1986,Terras Gauda O Rosal,11.9,4.2,3.0,3.0,466
+1987,Seleccion de Anada Albarino Rias Baixas,37.9,4.2,3.0,3.0,459
+1988,Seleccion Especial (Reserva),65.0,4.2,4.0,3.0,447
+1989,Reserva,21.65,4.2,5.0,3.0,442
+1990,3.9,22.95,4.2,4.0,3.0,441
+1991,Rias Baixas Albarino Atlantico,14.8,4.2,3.0,3.0,439
+1992,Envidiacochina (Tete de Cuvee),18.46,4.2,3.0,3.0,438
+1993,Adaro,16.45,4.2,5.0,3.0,436
+1994,Ribera del Duero Red,16.9,4.2,5.0,3.0,433
+1995,Fondillon Gran Reserva,49.95,4.2,,,432
+1996,Clos del Portal Negre de Negres,21.7,4.2,4.0,3.0,429
+1997,Monastrell - Syrah Finca Espolla,13.95,4.2,4.0,3.0,424
+1998,Casa Cisca Monastrell,32.0,4.2,5.0,3.0,423
+1999,Rioja Blanco,29.15,4.2,3.0,3.0,421
+2000,Reserva,17.5,4.2,,,420
+2001,Santa Rosa,18.9,4.2,,,420
+2002,Roc Nu,23.95,4.2,,,420
+2003,Coleccion Privada,28.3,4.2,,,420
+2004,Rioja Reserva,45.0,4.2,,,417
+2005,Altos de Losada,17.9,4.2,,,415
+2006,Rias Baixas Albarino Finca Valinas,16.78,4.2,,,414
+2007,Vina Alberdi Crianza,13.58,4.2,,,410
+2008,Corimbo I,37.9,4.2,,,412
+2009,Gran Reserva,51.35,4.2,,,410
+2010,Gran Reserva Rioja,22.99,4.2,,,410
+2011,Treixadura,11.95,4.2,,,407
+2012,Candela Cream Dulce Sweet,7.1,4.2,,,405
+2013,Clos del Portal Somni,77.36,4.2,,,404
+2014,Nounat,19.9,4.2,,,404
+2015,Mirto,28.53,4.2,,,402
+2016,El Viejo,27.89,4.2,,,400
+2017,Valdegines,48.96,4.2,,,398
+2018,Rioja Graciano,61.94,4.2,,,395
+2019,Reserva,19.98,4.2,,,392
+2020,Les Brugueres,16.76,4.2,,,390
+2021,Finca Terrerazo,24.45,4.2,,,390
+2022,Gran Reserva,64.5,4.2,,,389
+2023,Preludio,31.63,4.2,,,388
+2024,El Puntido,73.0,4.2,,,384
+2025,Reserva,17.5,4.2,4.0,3.0,420
+2026,Santa Rosa,18.9,4.2,4.0,3.0,420
+2027,Roc Nu,23.95,4.2,4.0,3.0,420
+2028,Coleccion Privada,28.3,4.2,4.0,3.0,420
+2029,Rioja Reserva,45.0,4.2,4.0,3.0,417
+2030,Altos de Losada,17.9,4.2,3.0,3.0,415
+2031,Rias Baixas Albarino Finca Valinas,16.78,4.2,3.0,3.0,414
+2032,Vina Alberdi Crianza,13.58,4.2,4.0,3.0,410
+2033,Corimbo I,37.9,4.2,5.0,3.0,412
+2034,Gran Reserva,51.35,4.2,5.0,3.0,410
+2035,Gran Reserva Rioja,22.99,4.2,4.0,3.0,410
+2036,Candela Cream Dulce Sweet,7.1,4.2,4.0,3.0,405
+2037,Clos del Portal Somni,77.36,4.2,4.0,3.0,404
+2038,Mirto,28.53,4.2,4.0,3.0,402
+2039,El Viejo,27.89,4.2,5.0,3.0,400
+2040,Valdegines,48.96,4.2,4.0,2.0,398
+2041,Rioja Graciano,61.94,4.2,4.0,3.0,395
+2042,Reserva,19.98,4.2,4.0,3.0,392
+2043,Les Brugueres,16.76,4.2,4.0,3.0,390
+2044,Finca Terrerazo,24.45,4.2,4.0,3.0,390
+2045,Gran Reserva,64.5,4.2,5.0,3.0,389
+2046,Preludio,31.63,4.2,5.0,3.0,388
+2047,El Puntido,73.0,4.2,4.0,3.0,384
+2048,Rioja Blanco,29.15,4.2,,,421
