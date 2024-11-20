@@ -1,4 +1,4 @@
-CREATE DATASCHEMA WinesBD;
+CREATE DATABASE WinesBD;
 
 CREATE TABLE wineries (
     id_winery INT AUTO_INCREMENT PRIMARY KEY,
@@ -7,9 +7,9 @@ CREATE TABLE wineries (
     region VARCHAR(100)
 );
 
-CREATE TABLE types (
+CREATE TABLE wine_types (
     id_type INT AUTO_INCREMENT PRIMARY KEY,
-    type VARCHAR(100) NOT NULL
+    wine_type VARCHAR(100) NOT NULL
 );
 
 CREATE TABLE designations (
@@ -20,7 +20,7 @@ CREATE TABLE designations (
 CREATE TABLE wines (
     id_wine INT AUTO_INCREMENT PRIMARY KEY,
     wine VARCHAR(255) NOT NULL,
-    year INT,
+    wine_year INT,
     id_winery INT NOT NULL,
     id_type INT NOT NULL,
     id_designation INT
