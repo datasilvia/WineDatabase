@@ -1,0 +1,310 @@
+country,wine_type,wine_year,avg_rating
+Espana,"Toro Red",2013,4.444927536231889
+Espana,"Toro Red",2012,4.446218487394959
+Espana,"Toro Red",2009,4.4425925925925975
+Espana,"Toro Red",2011,4.453030303030308
+Espana,"Toro Red",2015,4.444881889763776
+Espana,"Toro Red",2010,4.4514285714285755
+Espana,"Ribera Del Duero Red",2019,4.438020833333325
+Espana,"Toro Red",2008,4.445283018867929
+Espana,"Rioja Red",2019,4.447058823529416
+Espana,"Ribera Del Duero Red",2016,4.445000000000011
+Espana,"Ribera Del Duero Red",2018,4.431876138433517
+Espana,"Ribera Del Duero Red",2017,4.42550607287449
+Espana,"Ribera Del Duero Red",2009,4.550256410256404
+Espana,"Montsant Red",2013,4.445283018867929
+Espana,"Ribera Del Duero Red",2011,4.5129370629370555
+Espana,"Ribera Del Duero Red",2010,4.568421052631572
+Espana,"Ribera Del Duero Red",2012,4.519572953736649
+Espana,"Ribera Del Duero Red",2007,4.561621621621616
+Espana,"Toro Red",2017,4.439726027397263
+Espana,Red,2017,4.413978494623645
+Espana,"Ribera Del Duero Red",2014,4.431025641025643
+Espana,"Montsant Red",2016,4.4425925925925975
+Espana,"Montsant Red",2014,4.445283018867929
+Espana,"Montsant Red",2017,4.437500000000005
+Espana,Red,2019,4.438750000000002
+Espana,Red,2007,4.441791044776124
+Espana,"Toro Red",2016,4.438750000000004
+Espana,"Toro Red",2018,4.444615384615389
+Espana,Red,2014,4.423275862068967
+Espana,Red,2015,4.433116883116871
+Espana,"Rioja Red",2018,4.4196261682243
+Espana,Red,2018,4.413636363636366
+Espana,"Montsant Red",2015,4.444444444444449
+Espana,"Rioja Red",2016,4.377198697068391
+Espana,"Montsant Red",2018,4.440000000000005
+Espana,"Rioja Red",2000,4.419811320754719
+Espana,Tempranillo,2018,4.511764705882354
+Espana,Tempranillo,1995,4.568750000000001
+Espana,Tempranillo,2006,4.568750000000001
+Espana,Tempranillo,2010,4.517857142857145
+Espana,Tempranillo,2011,4.568750000000001
+Espana,Tempranillo,2012,4.50714285714286
+Espana,Tempranillo,2005,4.558823529411766
+Espana,Tempranillo,2014,4.48947368421053
+Espana,Tempranillo,2015,4.495833333333335
+Espana,Tempranillo,2009,4.503703703703706
+Espana,Tempranillo,2017,4.497560975609757
+Espana,Tempranillo,2013,4.486666666666669
+Espana,Tempranillo,2007,4.568750000000001
+Espana,Tempranillo,1999,4.568750000000001
+Espana,Tempranillo,2001,4.535000000000002
+Espana,Tempranillo,2016,4.489130434782611
+Espana,"Ribera Del Duero Red",1999,4.65666666666667
+Espana,"Ribera Del Duero Red",1996,4.618978102189782
+Espana,"Ribera Del Duero Red",1998,4.658208955223879
+Espana,"Ribera Del Duero Red",1995,4.583018867924524
+Espana,"Ribera Del Duero Red",1970,4.704878048780486
+Espana,"Ribera Del Duero Red",1962,4.704878048780486
+Espana,"Ribera Del Duero Red",1979,4.655555555555555
+Espana,"Ribera Del Duero Red",2005,4.616788321167884
+Espana,"Ribera Del Duero Red",2004,4.615972222222223
+Espana,"Ribera Del Duero Red",2000,4.621481481481483
+Espana,"Ribera Del Duero Red",2006,4.615107913669066
+Espana,"Ribera Del Duero Red",2008,4.639999999999999
+Espana,"Ribera Del Duero Red",2003,4.594166666666668
+Espana,"Ribera Del Duero Red",2002,4.575510204081631
+Espana,"Ribera Del Duero Red",1991,4.704878048780486
+Espana,"Ribera Del Duero Red",1994,4.598901098901097
+Espana,"Ribera Del Duero Red",1990,4.704878048780486
+Espana,"Ribera Del Duero Red",1989,4.673684210526317
+Espana,"Ribera Del Duero Red",1987,4.673684210526317
+Espana,"Ribera Del Duero Red",1981,4.704878048780486
+Espana,"Ribera Del Duero Red",1986,4.609999999999998
+Espana,"Ribera Del Duero Red",1985,4.673684210526317
+Espana,"Ribera Del Duero Red",1968,4.704878048780486
+Espana,"Ribera Del Duero Red",1964,4.704878048780486
+Espana,"Ribera Del Duero Red",1982,4.673684210526317
+Espana,"Ribera Del Duero Red",1974,4.704878048780486
+Espana,"Ribera Del Duero Red",1983,4.655555555555555
+Espana,"Ribera Del Duero Red",1980,4.655555555555555
+Espana,"Ribera Del Duero Red",1972,4.704878048780486
+Espana,"Ribera Del Duero Red",1953,4.704878048780486
+Espana,"Ribera Del Duero Red",1965,4.704878048780486
+Espana,"Ribera Del Duero Red",1973,4.704878048780486
+Espana,"Ribera Del Duero Red",1967,4.704878048780486
+Espana,"Ribera Del Duero Red",1975,4.655555555555555
+Espana,"Ribera Del Duero Red",1961,4.704878048780486
+Espana,"Ribera Del Duero Red",1969,4.704878048780486
+Espana,"Ribera Del Duero Red",2015,4.470996978851968
+Espana,"Ribera Del Duero Red",2013,4.519696969696972
+Espana,"Ribera Del Duero Red",2020,4.674074074074074
+Espana,"Pedro Ximenez",1946,4.6
+Espana,"Pedro Ximenez",1931,4.699999999999999
+Espana,"Pedro Ximenez",1929,4.699999999999999
+Espana,"Pedro Ximenez",1955,4.6
+Espana,"Pedro Ximenez",1958,4.699999999999999
+Espana,"Pedro Ximenez",1968,4.582352941176471
+Espana,Red,2013,4.5307692307692315
+Espana,Red,2016,4.406578947368424
+Espana,Red,2008,4.5249999999999995
+Espana,"Ribera Del Duero Red",2001,4.4628571428571435
+Espana,"Pedro Ximenez",1994,4.469999999999999
+Espana,"Pedro Ximenez",1986,4.514285714285714
+Espana,"Pedro Ximenez",1973,4.512499999999999
+Espana,"Pedro Ximenez",1999,4.514285714285714
+Espana,"Priorat Red",2004,4.5078947368421085
+Espana,"Priorat Red",2008,4.461616161616161
+Espana,"Priorat Red",2017,4.418181818181799
+Espana,"Priorat Red",2018,4.426530612244886
+Espana,"Priorat Red",1998,4.52727272727273
+Espana,"Priorat Red",2000,4.474576271186445
+Espana,"Priorat Red",2015,4.428225806451613
+Espana,"Priorat Red",2005,4.470588235294122
+Espana,"Priorat Red",2016,4.434645669291337
+Espana,"Priorat Red",1999,4.474576271186445
+Espana,"Priorat Red",1996,4.595652173913043
+Espana,"Priorat Red",1997,4.486842105263159
+Espana,"Priorat Red",1995,4.666666666666666
+Espana,"Priorat Red",2001,4.628571428571427
+Espana,"Priorat Red",2010,4.4686746987951835
+Espana,"Priorat Red",2014,4.422480620155038
+Espana,"Priorat Red",2011,4.431428571428574
+Espana,"Priorat Red",2003,4.442574257425744
+Espana,"Toro Red",2014,4.466666666666667
+Espana,Red,2010,4.381081081081078
+Espana,"Rioja Red",1985,4.351162790697671
+Espana,"Rioja Red",1982,4.365853658536584
+Espana,"Rioja Red",2005,4.4123287671232925
+Espana,"Rioja Red",2004,4.374025974025977
+Espana,"Rioja Red",1995,4.4040000000000035
+Espana,"Rioja Red",2010,4.373275862068969
+Espana,"Rioja Red",1989,4.444444444444444
+Espana,"Rioja Red",1981,4.49090909090909
+Espana,"Ribera Del Duero Red",1992,4.59032258064516
+Espana,"Ribera Del Duero Red",1988,4.59032258064516
+Espana,"Ribera Del Duero Red",1976,4.59032258064516
+Espana,"Rioja White",1986,4.7
+Espana,"Rioja Red",2015,4.36965811965811
+Espana,"Rioja Red",2017,4.389583333333336
+Espana,Tempranillo,2019,4.49
+Espana,"Rioja Red",2012,4.35879120879121
+Espana,"Rioja Red",2011,4.3578378378378355
+Espana,"Rioja Red",2014,4.3472027972027885
+Espana,"Rioja Red",2006,4.364999999999998
+Espana,"Toro Red",2005,4.555555555555555
+Espana,"Toro Red",2004,4.470588235294118
+Espana,"Toro Red",2000,4.575
+Espana,Grenache,2011,4.575
+Espana,Grenache,2015,4.471428571428572
+Espana,Grenache,2016,4.411764705882352
+Espana,Grenache,2014,4.404999999999999
+Espana,"Priorat Red",2013,4.401250000000006
+Espana,"Rioja Red",2007,4.363768115942031
+Espana,"Priorat Red",2006,4.4043010752688225
+Espana,"Priorat Red",2009,4.410344827586211
+Espana,"Priorat Red",2012,4.390000000000004
+Espana,"Priorat Red",2007,4.400943396226419
+Espana,Cava,2007,4.566666666666666
+Espana,Cava,2005,4.566666666666666
+Espana,Cava,2006,4.471428571428571
+Espana,"Priorat Red",2019,4.369230769230773
+Espana,Sherry,1987,4.6
+Espana,Sherry,1991,4.6
+Espana,Grenache,2018,4.364705882352941
+Espana,Cava,2011,4.454545454545454
+Espana,Cava,2008,4.5
+Espana,Red,2009,4.409999999999999
+Espana,"Rioja Red",1964,4.336538461538462
+Espana,"Rioja Red",1928,4.38421052631579
+Espana,"Rioja Red",1978,4.38421052631579
+Espana,"Rioja Red",1998,4.3942307692307745
+Espana,"Rioja Red",1942,4.433333333333332
+Espana,"Rioja Red",2009,4.33617021276596
+Espana,"Rioja Red",1959,4.423076923076922
+Espana,"Rioja Red",1994,4.339393939393942
+Espana,"Rioja Red",1925,4.433333333333332
+Espana,"Rioja Red",2001,4.40444444444445
+Espana,"Rioja Red",2013,4.332692307692309
+Espana,"Rioja Red",2002,4.451612903225809
+Espana,"Rioja Red",1996,4.344827586206896
+Espana,Red,2004,4.483333333333333
+Espana,Red,2011,4.427777777777778
+Espana,Verdejo,2018,4.372222222222221
+Espana,Verdejo,2016,4.4
+Espana,Red,2006,4.5
+Espana,Syrah,2014,4.375
+Espana,Syrah,2015,4.375
+Espana,"Pedro Ximenez",1910,4.6
+Espana,"Pedro Ximenez",1965,4.525
+Espana,"Pedro Ximenez",1962,4.525
+Espana,"Pedro Ximenez",1949,4.525
+Espana,"Rioja Red",1970,4.351162790697674
+Espana,Cava,2001,4.6
+Espana,Red,2005,4.516666666666667
+Espana,Monastrell,2016,4.385714285714286
+Espana,Monastrell,2015,4.4
+Espana,Monastrell,2011,4.3999999999999995
+Espana,Mencia,2016,4.425
+Espana,"Rioja Red",1954,4.333333333333333
+Espana,"Priorat Red",2020,4.466666666666667
+Espana,Mencia,2011,4.6
+Espana,"Rioja Red",1986,4.3
+Espana,"Rioja Red",2008,4.319607843137254
+Espana,Sparkling,2004,4.6
+Espana,"Toro Red",2003,4.377777777777778
+Espana,"Toro Red",2001,4.377777777777778
+Espana,"Toro Red",2006,4.377777777777778
+Espana,Grenache,2017,4.362499999999999
+Espana,Grenache,2019,4.389999999999999
+Espana,Verdejo,2019,4.38
+Espana,Verdejo,2020,4.4
+Espana,Verdejo,2015,4.366666666666667
+Espana,"Rioja Red",1991,4.385714285714286
+Espana,Monastrell,2018,4.414285714285714
+Espana,Monastrell,2017,4.36
+Espana,Monastrell,2019,4.4
+Espana,"Priorat Red",2002,4.354545454545453
+Espana,Red,2000,4.4
+Espana,Albarino,2019,4.3100000000000005
+Espana,Syrah,2016,4.4
+Espana,Syrah,2009,4.5
+Espana,"Rioja White",2018,4.314285714285711
+Espana,"Rioja Red",2003,4.4
+Espana,"Rioja Red",1999,4.425
+Espana,Cava,2004,4.4
+Espana,Cava,2002,4.433333333333334
+Espana,Chardonnay,2018,4.342857142857143
+Espana,Chardonnay,2017,4.45
+Espana,Chardonnay,2011,4.4
+Espana,Chardonnay,2012,4.4
+Espana,Sparkling,2007,4.4
+Espana,Red,2012,4.3100000000000005
+Espana,"Rioja White",1981,4.5
+Espana,"Rioja White",2012,4.45
+Espana,"Rioja Red",1987,4.3500000000000005
+Espana,"Pedro Ximenez",1951,4.5
+Espana,"Toro Red",2019,4.327272727272728
+Espana,Monastrell,2013,4.5
+Espana,Cava,2013,4.425000000000001
+Espana,Cava,2010,4.3999999999999995
+Espana,Mencia,2019,4.314285714285714
+Espana,Mencia,2018,4.33
+Espana,Mencia,2017,4.327272727272727
+Espana,Mencia,2015,4.375
+Espana,"Cabernet Sauvignon",2019,4.5
+Espana,"Sauvignon Blanc",2021,4.5
+Espana,Tempranillo,2004,4.333333333333333
+Espana,Red,1996,4.4
+Espana,Verdejo,2017,4.314285714285715
+Espana,Cava,2009,4.4
+Espana,"Rioja White",2017,4.317241379310343
+Espana,"Rioja White",2019,4.316666666666667
+Espana,"Rioja White",2016,4.311111111111111
+Espana,"Rioja White",2014,4.323076923076923
+Espana,"Rioja White",2015,4.316666666666666
+Espana,"Rioja White",2013,4.3090909090909095
+Espana,"Rioja White",2011,4.3090909090909095
+Espana,Cava,2014,4.4
+Espana,Cava,2016,4.316666666666666
+Espana,Cava,2015,4.4
+Espana,"Pedro Ximenez",2019,4.333333333333333
+Espana,"Pedro Ximenez",2017,4.35
+Espana,Albarino,2012,4.3
+Espana,Albarino,2011,4.3
+Espana,Albarino,2008,4.3
+Espana,Albarino,2017,4.366666666666667
+Espana,"Pedro Ximenez",2018,4.4
+Espana,Syrah,2019,4.35
+Espana,Syrah,2018,4.333333333333333
+Espana,"Pedro Ximenez",1990,4.366666666666667
+Espana,"Pedro Ximenez",1988,4.366666666666667
+Espana,Tempranillo,2008,4.4
+Espana,"Cabernet Sauvignon",2016,4.285714285714286
+Espana,"Cabernet Sauvignon",2015,4.300000000000001
+Espana,"Cabernet Sauvignon",2014,4.325
+Espana,"Cabernet Sauvignon",2010,4.285714285714286
+Espana,"Rioja Red",1922,4.4
+Espana,Albarino,2020,4.279999999999999
+Espana,Cava,2019,4.4
+Espana,"Sauvignon Blanc",2019,4.4
+Espana,"Rioja White",2008,4.4
+Espana,"Montsant Red",2020,4.4
+Espana,Chardonnay,2019,4.3
+Espana,Chardonnay,2020,4.3
+Espana,"Rioja Red",1968,4.2749999999999995
+Espana,"Montsant Red",2009,4.3
+Espana,"Cabernet Sauvignon",2013,4.3
+Espana,Mencia,2012,4.3
+Espana,Syrah,2017,4.25
+Espana,Chardonnay,2014,4.3
+Espana,Chardonnay,2004,4.3
+Espana,Chardonnay,2016,4.3
+Espana,Albarino,2013,4.3
+Espana,Mencia,2014,4.3
+Espana,Albarino,2015,4.25
+Espana,Red,2020,4.3
+Espana,Sparkling,2016,4.3
+Espana,Red,1998,4.3
+Espana,Albarino,2018,4.3
+Espana,"Rioja White",2010,4.3
+Espana,"Sauvignon Blanc",2016,4.3
+Espana,Albarino,2021,4.22
+Espana,Sparkling,2013,4.3
+Espana,Verdejo,2021,4.3
+Espana,"Rioja Red",2020,4.3
+Espana,"Rioja White",2005,4.2
+Espana,Cava,2017,4.2
+Espana,"Rioja White",2020,4.2
+Espana,Chardonnay,2015,4.2

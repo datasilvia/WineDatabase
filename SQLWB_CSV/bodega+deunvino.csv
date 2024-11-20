@@ -1,0 +1,242 @@
+winery,wine_type,total_wines
+"Vega Sicilia","Ribera Del Duero Red",95
+"Alvaro Palacios","Priorat Red",44
+Artadi,Tempranillo,37
+"La Rioja Alta","Rioja Red",30
+"Marques de Murrieta","Rioja Red",30
+Martinet,"Priorat Red",30
+"Dominio de Pingus","Ribera Del Duero Red",29
+"Vina Sastre","Ribera Del Duero Red",24
+"Toro Albala","Pedro Ximenez",23
+"Bodegas Roda","Rioja Red",23
+"Emilio Moro","Ribera Del Duero Red",20
+"Remirez de Ganuza","Rioja Red",19
+Contino,"Rioja Red",18
+Muga,"Rioja Red",18
+"Clos Mogador","Priorat Red",18
+"Sierra Cantabria","Rioja Red",17
+"Marques de Riscal","Rioja Red",17
+"Bodega Contador (Benjamin Romeo)","Rioja Red",16
+"Teso La Monja","Toro Red",15
+Alion,"Ribera Del Duero Red",15
+"Bodegas Valduero","Ribera Del Duero Red",14
+"Pago de Los Capellanes","Ribera Del Duero Red",14
+Arzuaga,"Ribera Del Duero Red",14
+"Bodegas El Nido",Red,12
+"Vinedos de Paganos","Rioja Red",12
+"Mas Doix","Priorat Red",12
+"Tinto Pesquera","Ribera Del Duero Red",12
+"Bodega Numanthia","Toro Red",11
+"Carmelo Rodero","Ribera Del Duero Red",11
+"Bodegas Mas Alta","Priorat Red",11
+Protos,"Ribera Del Duero Red",11
+"Pago de Carraovejas","Ribera Del Duero Red",10
+"Alto Moncayo",Grenache,10
+Recaredo,Cava,10
+"Clos Erasmus","Priorat Red",10
+Aalto,"Ribera Del Duero Red",10
+Allende,"Rioja Red",10
+"Hacienda Monasterio","Ribera Del Duero Red",10
+"Castillo Perelada",Red,10
+"Ferrer Bobet","Priorat Red",10
+"Bodegas Mauro",Tempranillo,9
+"Terroir Al Limit Soc. Lda","Priorat Red",9
+"Abadia Retuerta",Red,9
+"Vina Pedrosa","Ribera Del Duero Red",9
+Pintia,"Toro Red",9
+Lan,"Rioja Red",9
+"R. Lopez de Heredia","Rioja Red",9
+"Familia Torres",Red,9
+"Vinicola Real","Rioja Red",9
+"Bodegas San Roman","Toro Red",8
+Matarromera,"Ribera Del Duero Red",8
+"Anima Negra",Red,8
+"Vall Llach","Priorat Red",8
+"Benjamin de Rothschild - Vega Sicilia","Rioja Red",8
+Losada,Mencia,8
+Imperial,"Rioja Red",8
+"Bodegas Amaren","Rioja Red",7
+"Tomas Postigo","Ribera Del Duero Red",7
+Ossian,Verdejo,7
+"Dominio del Aguila","Ribera Del Duero Red",7
+"Dominio de Atauta","Ribera Del Duero Red",7
+"Marques de Caceres","Rioja Red",7
+Remelluri,"Rioja White",7
+Pujanza,"Rioja Red",7
+Gramona,Cava,6
+"Senorio de San Vicente","Rioja Red",6
+"Espectacle del Montsant","Montsant Red",6
+"Sei Solo","Ribera Del Duero Red",6
+Vizcarra,"Ribera Del Duero Red",6
+"Scala Dei","Priorat Red",6
+"Marques de Vargas","Rioja Red",6
+Volver,Red,6
+Remelluri,"Rioja Red",6
+"Portal del Priorat","Priorat Red",6
+"Cims de Porrera","Priorat Red",6
+"Bodegas Faustino","Rioja Red",6
+"Descendientes de J. Palacios",Mencia,5
+"Mas d'en Gil","Priorat Red",5
+"Bodegas 6o Elemento - Vino Sexto Elemento",Red,5
+"Abadia Retuerta",Tempranillo,5
+Enate,Chardonnay,5
+"Costers del Siurana","Priorat Red",5
+"Dominio de Es","Ribera Del Duero Red",5
+"Ramon Bilbao","Rioja Red",5
+Garmon,"Ribera Del Duero Red",5
+Jimenez-Landi,Grenache,5
+"Remirez de Ganuza","Rioja White",4
+"Territorio Luthier","Ribera Del Duero Red",4
+"Dehesa de Los Canonigos","Ribera Del Duero Red",4
+"Miguel Merino","Rioja Red",4
+"Vinas del Vero",Red,4
+"Bodegas Vilano","Ribera Del Duero Red",4
+"Marques de Grinon",Red,4
+"Finca Torremilanos","Ribera Del Duero Red",4
+"Abadia Retuerta","Cabernet Sauvignon",4
+Belondrade,Verdejo,4
+"Juan Gil",Red,4
+"Adama Wines","Ribera Del Duero Red",4
+"Bodegas Naluar & Acediano","Ribera Del Duero Red",4
+Artadi,"Rioja Red",4
+"Finca Villacreces","Ribera Del Duero Red",4
+"Agusti Torello Mata",Cava,4
+"Dominio de Cair","Ribera Del Duero Red",4
+Valderiz,"Ribera Del Duero Red",4
+Matsu,"Toro Red",4
+Tridente,Tempranillo,4
+"La Vicalanda","Rioja Red",4
+"Los Aguilares",Red,4
+"Bodegas Ximenez-Spinola","Pedro Ximenez",4
+"Merum Priorati","Priorat Red",4
+"Pazo Senorans",Albarino,4
+"Familia Torres","Priorat Red",4
+Figuero,"Ribera Del Duero Red",4
+"Clos Figueras","Priorat Red",4
+"Torre de Ona","Rioja Red",4
+"Luis Canas","Rioja Red",4
+"Quinta Sardonia",Red,4
+Campillo,"Rioja Red",4
+"Bodegas La Horra","Ribera Del Duero Red",4
+Ordonez,"Toro Red",3
+"Descendientes de J. Palacios",Red,3
+"Marques de Murrieta","Rioja White",3
+"Bodegas Mauro",Red,3
+Morca,Grenache,3
+"Terra Remota",Red,3
+"Dominio del Bendito","Toro Red",3
+"Casa Castillo",Monastrell,3
+"Cepa 21","Ribera Del Duero Red",3
+Ysios,"Rioja Red",3
+"Hacienda Solano","Ribera Del Duero Red",3
+Castano,Monastrell,3
+"Castillo de Cuzcurrita","Rioja Red",3
+"Oxer Wines","Rioja Red",3
+"Gomez Cruzado","Rioja Red",3
+"Gomez Cruzado","Rioja White",3
+Enate,Red,3
+"Juan Gil",Monastrell,3
+Tobia,"Rioja Red",3
+"Tresmano - Tr3smano","Ribera Del Duero Red",3
+"Monte Real","Rioja Red",3
+Valquejigoso,Red,3
+Legaris,"Ribera Del Duero Red",3
+"Clos d'Agon",Red,3
+"Jose Pariente",Verdejo,3
+Atalaya,Grenache,3
+"Bosque de Matasnos","Ribera Del Duero Red",3
+Jaro,"Ribera Del Duero Red",3
+Mustiguillo,Red,3
+"Vina Pomal","Rioja Red",3
+"Bodegas Celler Francisco Castillo - Clos Dominic","Priorat Red",3
+Baigorri,"Rioja Red",3
+Comenge,"Ribera Del Duero Red",3
+"Clos Galena","Priorat Red",3
+"Conreria d'Scala Dei","Priorat Red",3
+Barahonda,Monastrell,3
+"Familia Torres","Cabernet Sauvignon",3
+Abadal,Red,3
+Arinzano,Chardonnay,3
+"Terras Gauda",Albarino,3
+"Mar de Frades",Albarino,3
+Montecastro,"Ribera Del Duero Red",3
+"Quinta de la Quietud","Toro Red",2
+"Bodega Contador (Benjamin Romeo)","Rioja White",2
+"Alvaro Palacios","Rioja Red",2
+Gonzalez-Byass,Sherry,2
+Nin-Ortiz,"Priorat Red",2
+"Cal Pla","Priorat Red",2
+Allende,"Rioja White",2
+"Castillo Perelada",Syrah,2
+"Ukan Winery","Rioja Red",2
+"Huerta de Albala",Syrah,2
+"Huerta de Albala",Red,2
+"Castell d'Encus",Red,2
+"Francisco Barona","Ribera Del Duero Red",2
+"Pazo Barrantes",Albarino,2
+"Abadia Retuerta",Syrah,2
+"Cruz de Alba","Ribera Del Duero Red",2
+"Jesus Madrazo","Rioja Red",2
+Trus,"Ribera Del Duero Red",2
+Mestres,Cava,2
+Chivite,Chardonnay,2
+"Bodega Ribas",Red,2
+Cervoles,Red,2
+"R. Lopez de Heredia","Rioja White",2
+Penafiel,"Ribera Del Duero Red",2
+"Sara Perez y Rene Barbier","Priorat Red",2
+"Dehesa del Carrizal",Red,2
+Beronia,"Rioja Red",2
+"Vinicola Real","Rioja White",2
+"El Regajal",Red,2
+"Abel Mendoza Monge","Rioja White",2
+Anayon,Red,2
+Atalaya,Red,2
+Tridente,Red,2
+Altanza,"Rioja Red",2
+"Marco Abella","Priorat Red",2
+Orben,"Rioja Red",2
+Astrales,"Ribera Del Duero Red",2
+"Vinyes Domenech","Montsant Red",2
+"Pago de Vallegarcia",Red,2
+"Pago de Vallegarcia",Syrah,2
+"Eulogio Pomares",Albarino,2
+"Sangenis I Vaque","Priorat Red",2
+VALENCISO,"Rioja Red",2
+"Chozas Carrascal",Red,2
+"Alonso del Yerro","Ribera Del Duero Red",2
+Ontanon,"Rioja Red",2
+"Bodega Elias Mora","Toro Red",2
+Avgvstvs,Red,2
+Leda,Tempranillo,2
+Llopart,Cava,2
+Ostatu,"Rioja Red",2
+"Albet i Noya",Red,2
+"Do Ferreiro (Bodegas Gerardo Mendez)",Albarino,2
+"Martin Codax",Albarino,2
+"Vinedos Hermanos Hernaiz","Rioja Red",2
+"Venta Las Vacas","Ribera Del Duero Red",2
+"Pago Calzadilla",Red,2
+Vivanco,"Rioja Red",2
+"Lopez Cristobal","Ribera Del Duero Red",2
+Aster,"Ribera Del Duero Red",2
+"Marques de Tomares",Red,2
+Taron,"Rioja Red",2
+"Venus la Universal","Montsant Red",2
+Pradorey,"Ribera Del Duero Red",2
+"Telmo Rodriguez","Ribera Del Duero Red",2
+"Celler de Capcanes","Montsant Red",2
+Habla,Red,2
+"Rodriguez de Vera",Red,2
+Valtravieso,"Ribera Del Duero Red",2
+"Real de Asua","Rioja Red",2
+"Altos de Rioja","Rioja Red",2
+"Finca Rio Negro",Red,2
+"Cartoixa de Montsalvat","Priorat Red",2
+"Atlan & Artisan",Red,2
+"Bodegas Reyes","Ribera Del Duero Red",2
+"Bodegas Gama",Grenache,2
+"Telmo Rodriguez","Rioja Red",2
+Zifar,"Ribera Del Duero Red",2
+"El Coto","Rioja Red",2
+"Hispano Suizas",Red,2
