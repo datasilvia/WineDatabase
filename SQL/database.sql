@@ -1,33 +1,47 @@
--- 1. Agregar clave primaria a la tabla 'wines'
-ALTER TABLE wines
-ADD PRIMARY KEY (id);
+-- Crear la base de datos
+CREATE DATABASE wines_quality;
 
--- 2. Agregar clave primaria a la tabla 'winerys'
-ALTER TABLE winerys
-ADD PRIMARY KEY (winery_id);
+-- Crear la tabla Wineries
+CREATE TABLE Wineries (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    winery VARCHAR(255) NOT NULL
+);
 
--- 3. Relacionar la tabla 'winerys' con 'wines' mediante una clave foránea
-ALTER TABLE winerys
-ADD CONSTRAINT fk_winery_wine
-FOREIGN KEY (wine_id) REFERENCES wines(id)
-ON DELETE CASCADE;
+-- Crear la tabla Wines
+CREATE TABLE Wines (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    wine VARCHAR(255) NOT NULL,
+    year YEAR NOT NULL,
+    designation VARCHAR(255),
+    type VARCHAR(255),
+    body DECIMAL(3, 1),
+    acidity DECIMAL(3, 1),
+    winery_id INT NOT NULL,
+    FOREIGN KEY (winery_id) REFERENCES Wineries(id)
+);
 
--- 4. Relacionar la tabla 'winerys' con 'regions' mediante una clave foránea
-ALTER TABLE winerys
-ADD CONSTRAINT fk_winery_region
-FOREIGN KEY (region_id) REFERENCES regions(region_id)
-ON DELETE SET NULL;
+-- Crear la tabla Reviews
+CREATE TABLE Reviews (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    wine_id INT NOT NULL,
+    rating DECIMAL(3, 1) NOT NULL,
+    num_reviews INT NOT NULL,
+    FOREIGN KEY (wine_id) REFERENCES Wines(id)
+);
 
--- 5. Agregar clave primaria a la tabla 'regions'
-ALTER TABLE regions
-ADD PRIMARY KEY (region_id);
+-- Crear la tabla Regions
+CREATE TABLE Regions (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    country VARCHAR(255) NOT NULL,
+    region VARCHAR(255) NOT NULL
+);
 
--- 6. Agregar clave primaria a la tabla 'designations'
-ALTER TABLE designations
-ADD PRIMARY KEY (type_id);
-
--- 7. Relacionar la tabla 'designations' con 'wines' mediante una clave foránea
-ALTER TABLE designations
-ADD CONSTRAINT fk_type_wine
-FOREIGN KEY (wine_id) REFERENCES wines(id)
-ON DELETE CASCADE;
+-- Crear la tabla Prices
+CREATE TABLE Prices (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    wine_id INT NOT NULL,
+    region_id INT NOT NULL,
+    price DECIMAL(10, 2) NOT NULL,
+    FOREIGN KEY (wine_id) REFERENCES Wines(id),
+    FOREIGN KEY (region_id) REFERENCES Regions(id)
+);
