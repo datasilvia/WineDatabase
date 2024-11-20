@@ -230,3 +230,31 @@ JOIN ratings ON wines.id_wine = ratings.id_wine
 WHERE ratings.body > 8 OR ratings.acidity > 8
 ORDER BY ratings.rating DESC;
 
+-- Consulta 28 -- Distribución de vinos por cuerpo y acidez 
+
+SELECT ratings.body, ratings.acidity, COUNT(wines.id_wine) AS total_wines
+FROM ratings
+JOIN wines ON ratings.id_wine = wines.id_wine
+GROUP BY ratings.body, ratings.acidity
+ORDER BY total_wines DESC;
+
+-- Consulta 29 -- Años con más produccion de vinos
+
+SELECT wines.year, COUNT(wines.id_wine) AS total_wines
+FROM wines
+GROUP BY wines.year
+ORDER BY total_wines DESC;
+
+-- Consulta 30 -- Años con menos produccion de vinos    
+
+SELECT wines.year, COUNT(wines.id_wine) AS total_wines
+FROM wines
+GROUP BY wines.year
+ORDER BY total_wines ASC;
+
+-- Consulta 31 -- Relación entre cuerpo, acidez y calificación media de vinos
+
+SELECT ratings.body, ratings.acidity, AVG(ratings.rating) AS avg_rating
+FROM ratings
+GROUP BY ratings.body, ratings.acidity
+ORDER BY avg_rating DESC;
