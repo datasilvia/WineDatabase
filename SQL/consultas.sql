@@ -166,3 +166,67 @@ FROM wines
 JOIN ratings ON wines.id_wine = ratings.id_wine
 ORDER BY ratings.rating / ratings.price ASC
 LIMIT 10;
+
+
+-- Consulta 21 -- Los 10 vinos con mejor relacion calificación-precio y su calificación media
+
+SELECT wines.wine, ratings.rating, ratings.price, AVG(ratings.rating) AS avg_rating
+FROM wines
+JOIN ratings ON wines.id_wine = ratings.id_wine
+GROUP BY wines.wine, ratings.rating, ratings.price
+ORDER BY ratings.rating / ratings.price DESC
+LIMIT 10;
+
+-- Consulta 22 -- Los 10 vinos con peor relacion calificación-precio y su calificación media
+
+SELECT wines.wine, ratings.rating, ratings.price, AVG(ratings.rating) AS avg_rating 
+FROM wines
+JOIN ratings ON wines.id_wine = ratings.id_wine
+GROUP BY wines.wine, ratings.rating, ratings.price
+ORDER BY ratings.rating / ratings.price ASC
+LIMIT 10;
+
+-- Consulta 23 -- Número total de reseñas por denominación de vino
+
+SELECT designations.designation, SUM(ratings.num_reviews) AS total_reviews
+FROM designations
+LEFT JOIN wines ON designations.id_designation = wines.id_designation
+LEFT JOIN ratings ON wines.id_wine = ratings.id_wine
+GROUP BY designations.designation;
+
+-- Consulta 24 -- Número total de reseñas por denominación de vino y su calificación media
+
+SELECT designations.designation, SUM(ratings.num_reviews) AS total_reviews, AVG(ratings.rating) AS avg_rating
+FROM designations
+LEFT JOIN wines ON designations.id_designation = wines.id_designation
+LEFT JOIN ratings ON wines.id_wine = ratings.id_wine
+GROUP BY designations.designation;
+
+
+-- Consulta 25 -- Vinos más antiguos por denominación de vino y su calificación media
+
+SELECT designations.designation, wines.wine, wines.wine_year, AVG(ratings.rating) AS avg_rating
+FROM designations
+LEFT JOIN wines ON designations.id_designation = wines.id_designation
+LEFT JOIN ratings ON wines.id_wine = ratings.id_wine
+GROUP BY designations.designation, wines.wine, wines.year
+ORDER BY wines.year ASC;
+
+-- Consulta 26 -- Promedio de precios por región dentro de España 
+
+SELECT wineries.region, AVG(ratings.price) AS avg_price
+FROM wineries
+JOIN wines ON wineries.id_winery = wines.id_winery
+JOIN ratings ON wines.id_wine = ratings.id_wine
+WHERE wineries.country = 'España'
+GROUP BY wineries.region
+ORDER BY avg_price DESC;
+
+-- Consulta 27 -- Vinos que destacan en cuerpo o acidez
+
+SELECT wines.wine, ratings.body, ratings.acidity, ratings.rating
+FROM wines
+JOIN ratings ON wines.id_wine = ratings.id_wine
+WHERE ratings.body > 8 OR ratings.acidity > 8
+ORDER BY ratings.rating DESC;
+
