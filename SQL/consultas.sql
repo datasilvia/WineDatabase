@@ -114,26 +114,7 @@ FROM wines
 JOIN ratings ON wines.id_wine = ratings.id_wine
 WHERE ratings.rating = (SELECT MAX(rating) FROM ratings);
 
--- Consulta 15 -- Los 10 vinos con la mayor cantidad de calificaciones
-
-SELECT wines.wine, COUNT(ratings.rating) AS num_ratings
-FROM wines
-JOIN ratings ON wines.id_wine = ratings.id_wine
-GROUP BY wines.wine
-ORDER BY num_ratings DESC
-LIMIT 10;
-
-
--- Consulta 16 -- Los 10 vinos con la menor cantidad de calificaciones
-
-SELECT wines.wine, COUNT(ratings.rating) AS num_ratings
-FROM wines  
-JOIN ratings ON wines.id_wine = ratings.id_wine
-GROUP BY wines.wine
-ORDER BY num_ratings ASC
-LIMIT 10;
-
--- Consulta 17 -- Los 10 vinos con la mayor cantidad de calificaciones y su calificación media
+-- Consulta 15 -- Los 10 vinos con la mayor cantidad de calificaciones y su calificación media
 
 SELECT wines.wine, COUNT(ratings.rating) AS num_ratings, AVG(ratings.rating) AS avg_rating
 FROM wines
@@ -142,7 +123,7 @@ GROUP BY wines.wine
 ORDER BY num_ratings DESC
 LIMIT 10;
 
--- Consulta 18 -- Los 10 vinos con la menor cantidad de calificaciones y su calificación media
+-- Consulta 16 -- Los 10 vinos con la menor cantidad de calificaciones y su calificación media
 
 SELECT wines.wine, COUNT(ratings.rating) AS num_ratings, AVG(ratings.rating) AS avg_rating
 FROM wines
