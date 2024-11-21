@@ -1,0 +1,64 @@
+region_name,total_wines,avg_rating
+"Ribera del Duero",6906,4.542412395019031
+Rioja,2910,4.3671134020618165
+Priorato,2006,4.4379361914256785
+Toro,878,4.44487471526203
+"Vino de Espana",358,4.527094972067073
+Montsant,330,4.44060606060604
+Valencia,164,4.440243902439008
+"Castilla y Leon",134,4.400000000000006
+Almansa,119,4.433613445378152
+Cataluna,113,4.440707964601771
+Montilla-Moriles,113,4.563716814159283
+"Rioja Alavesa",112,4.4419642857142865
+Jumilla,111,4.546846846846842
+Emporda,93,4.401075268817208
+"Sardon de Duero",90,4.383333333333338
+Cava,72,4.429166666666668
+"Campo de Borja",54,4.440740740740743
+Bierzo,48,4.400000000000002
+Mallorca,48,4.4666666666666694
+"Rioja Alta",46,4.34565217391304
+Somontano,38,4.392105263157897
+"Rias Baixas",38,4.29473684210526
+Rueda,30,4.409999999999999
+"Conca de Barbera",26,4.411538461538462
+Penedes,22,4.309090909090909
+"Costers del Segre",20,4.34
+Alicante,16,4.349999999999999
+Yecla,15,4.3533333333333335
+Utiel-Requena,11,4.363636363636364
+Navarra,11,4.427272727272726
+"Pla de Bages",11,4.281818181818182
+"Dehesa del Carrizal",10,4.43
+Castilla,10,4.34
+Madrid,9,4.3999999999999995
+Arinzano,9,4.3
+Mentrida,9,4.3
+Cadiz,8,4.375
+"Dominio de Valdepusa",8,4.475
+"Sierras de Malaga",8,4.3125
+Andalucia,7,4.442857142857142
+"El Terrerazo",5,4.279999999999999
+"Jerez Pedro Ximenes (PX)",4,4.3500000000000005
+"Pago Calzadilla",4,4.3500000000000005
+"La Mancha",4,4.3
+"Jerez Palo Cortado",4,4.6
+Carinena,3,4.433333333333334
+Jerez-Xeres-Sherry,2,4.35
+Aragon,2,4.35
+Calatayud,2,4.3
+Cigales,2,4.5
+Extremadura,2,4.3
+Alella,2,4.3
+"Tierra del Vino de Zamora",1,4.5
+Monterrei,1,4.4
+"Ribera del Gallego-Cinco Villas",1,4.4
+Binissalem-Mallorca,1,4.3
+"Pla i Llevant",1,4.3
+Murcia,1,4.3
+Otazu,1,4.3
+Ribeiro,1,4.3
+"Terra Alta",1,4.3
+Arribes,1,4.3
+Tarragona,1,4.3

@@ -1,0 +1,757 @@
+wine,wine_type,winery,avg_rating,num_ratings
+Tinto,"Toro Red","Teso La Monja",4.445283018867909,371
+Tinto,"Ribera Del Duero Red","Dominio de Calogia",4.445283018867929,53
+Tinto,"Ribera Del Duero Red","Bodegas Vilano",4.445283018867929,53
+Tinto,"Rioja Red","Ukan Winery",4.445283018867926,106
+Tinto,"Ribera Del Duero Red","Pago de Carraovejas",4.4452830188679044,212
+Tinto,"Ribera Del Duero Red",Aalto,4.4452830188679044,212
+Tinto,"Ribera Del Duero Red","Adama Wines",4.4452830188679044,212
+Tinto,"Ribera Del Duero Red",Milsetentayseis,4.445283018867929,53
+Tinto,"Montsant Red","Espectacle del Montsant",4.445283018867905,318
+Tinto,"Ribera Del Duero Red","Sei Solo",4.445283018867909,159
+Tinto,"Toro Red","Bodegas San Roman",4.445283018867904,265
+Tinto,Red,"Bodegas 6o Elemento - Vino Sexto Elemento",4.445283018867909,159
+Tinto,"Ribera Del Duero Red","Bodega Rento",4.445283018867929,53
+Tinto,"Ribera Del Duero Red",Vivaltus,4.445283018867929,53
+Tinto,Red,"Sota els Angels",4.445283018867929,53
+Tinto,Red,"Clos d'Agon",4.445283018867926,106
+Tinto,Red,"Rodriguez de Vera",4.445283018867926,106
+Tinto,"Ribera Del Duero Red",Pinea,4.445283018867929,53
+Tinto,"Rioja Red","Real de Asua",4.445283018867926,106
+Tinto,"Ribera Del Duero Red",Loess,4.445283018867929,53
+Tinto,"Ribera Del Duero Red",Valderiz,4.445283018867929,53
+"Vina El Pison",Tempranillo,Artadi,4.568750000000019,256
+Unico,"Ribera Del Duero Red","Vega Sicilia",4.704878048780429,1681
+"Unico Reserva Especial Edicion","Ribera Del Duero Red","Vega Sicilia",4.730434782608682,529
+"El Anejon","Ribera Del Duero Red","Pago de Carraovejas",4.75,4
+"Don PX Convento Seleccion","Pedro Ximenez","Toro Albala",4.699999999999999,36
+"Cuesta de Las Liebres","Ribera Del Duero Red","Pago de Carraovejas",4.699999999999999,9
+"El Nido",Red,"Bodegas El Nido",4.71428571428571,49
+Pingus,"Ribera Del Duero Red","Dominio de Pingus",4.6529411764705735,289
+"Don PX Pedro Ximenez","Pedro Ximenez","Toro Albala",4.514285714285718,49
+"L'Ermita Velles Vinyes Priorat","Priorat Red","Alvaro Palacios",4.666666666666654,324
+"Vatan Arena Tinta de Toro","Toro Red",Ordonez,4.8,1
+"Ribera Del Duero Gran Reserva 12 Anos","Ribera Del Duero Red","Bodegas Valduero",4.8,1
+"Pesus Ribera del Duero","Ribera Del Duero Red","Vina Sastre",4.524999999999999,64
+Magico,"Rioja Red","Sierra Cantabria",4.8,1
+"La Faraona Bierzo (Corullon)",Red,"Descendientes de J. Palacios",4.633333333333334,9
+"Gran Reserva 890","Rioja Red","La Rioja Alta",4.512500000000003,64
+"Valbuena 5o","Ribera Del Duero Red","Vega Sicilia",4.590322580645095,961
+"Castillo Ygay Gran Reserva Especial Blanco","Rioja White","Marques de Murrieta",4.7,1
+"La Nieta","Rioja Red","Vinedos de Paganos",4.675,16
+"Malleolus de Valderramiro","Ribera Del Duero Red","Emilio Moro",4.575,16
+"Malleolus de Sanchomartin","Ribera Del Duero Red","Emilio Moro",4.550000000000001,36
+Alabaster,"Toro Red","Teso La Monja",4.666666666666667,9
+"La Mula de la Quietud","Toro Red","Quinta de la Quietud",4.6,4
+"Terreus Paraje de Cueva Baja",Tempranillo,"Bodegas Mauro",4.639999999999998,25
+"Contador Rioja","Rioja Red","Bodega Contador (Benjamin Romeo)",4.6166666666666645,36
+"Maria Remirez de Ganuza","Rioja Red","Remirez de Ganuza",4.65,4
+"Cartago Paraje de Pozo","Toro Red","Bodegas San Roman",4.6000000000000005,9
+"Parcela El Picon Tinto","Ribera Del Duero Red","Pago de Los Capellanes",4.6166666666666645,36
+Termanthia,"Toro Red","Bodega Numanthia",4.574999999999996,64
+"Clon De La Familia","Ribera Del Duero Red","Emilio Moro",4.633333333333335,9
+"Aquilon Garnacha",Grenache,"Alto Moncayo",4.575000000000001,16
+"Quinon de Valmira","Rioja Red","Alvaro Palacios",4.6,4
+"1902 Centenary Carignan Priorat","Priorat Red","Mas Doix",4.6499999999999995,16
+"Cirsion Rioja","Rioja Red","Bodegas Roda",4.599999999999999,25
+"Cami Pesseroles","Priorat Red",Martinet,4.4818181818181735,121
+"Turo d'en Mota",Cava,Recaredo,4.566666666666666,9
+Priorat,"Priorat Red","Clos Erasmus",4.4307692307692115,208
+Priorat,"Priorat Red","Clos Mogador",4.430769230769232,416
+Priorat,"Priorat Red",Perinet,4.430769230769231,26
+Priorat,"Priorat Red","Ferrer Bobet",4.430769230769231,26
+"Anada Palo Cortado 1987",Sherry,Gonzalez-Byass,4.6,4
+"Daphne Glorian Red",Red,"Clos Erasmus",4.7,1
+"El Regollar","Rioja Red","Bodegas Amaren",4.7,1
+Touran,Grenache,Morca,4.7,1
+"Luthier Gran Reserva","Ribera Del Duero Red","Territorio Luthier",4.7,1
+"Reserva Particular de Recaredo Brut Nature",Cava,Recaredo,4.65,4
+Usted,Red,"Terra Remota",4.550000000000001,4
+"Gran Reserva","Ribera Del Duero Red","Dehesa de Los Canonigos",4.38421052631579,19
+"Gran Reserva","Rioja Red","Remirez de Ganuza",4.38421052631579,38
+"Gran Reserva","Rioja Red","Monte Real",4.384210526315792,57
+"Gran Reserva","Rioja Red","Federico Paternina",4.38421052631579,19
+"Gran Reserva","Rioja Red","La Vicalanda",4.38421052631579,38
+"Gran Reserva","Ribera Del Duero Red","Vina Pedrosa",4.38421052631579,38
+"Gran Reserva","Ribera Del Duero Red",Matarromera,4.38421052631579,38
+"Gran Reserva","Ribera Del Duero Red","Tinto Pesquera",4.384210526315792,57
+"Gran Reserva","Ribera Del Duero Red",Protos,4.38421052631579,38
+"Gran Reserva","Rioja Red","Miguel Merino",4.38421052631579,19
+"Regina Vides Ribera del Duero","Ribera Del Duero Red","Vina Sastre",4.4555555555555575,81
+"La Loma","Rioja Red","Miguel Merino",4.6,4
+"Castillo Ygay Gran Reserva Especial Tinto","Rioja Red","Marques de Murrieta",4.433333333333322,144
+"Ribera del Duero","Ribera Del Duero Red",Alion,4.38260869565217,345
+"Ribera del Duero","Ribera Del Duero Red",Garmon,4.382608695652172,115
+"Ribera del Duero","Ribera Del Duero Red","Emilio Moro",4.382608695652175,69
+"PS (Pagos Seleccionados) Ribera del Duero","Ribera Del Duero Red",Aalto,4.55,36
+"Flor de Pingus","Ribera Del Duero Red","Dominio de Pingus",4.499999999999997,64
+"Pago De Valtarrena","Ribera Del Duero Red","Carmelo Rodero",4.6000000000000005,9
+"El Titan del Bendito","Toro Red","Dominio del Bendito",4.566666666666666,9
+"Dalmau Rioja","Rioja Red","Marques de Murrieta",4.430000000000004,100
+"Finca el Bosque","Rioja Red","Sierra Cantabria",4.500000000000002,49
+"Pago de Santa Cruz","Ribera Del Duero Red","Vina Sastre",4.500000000000001,25
+"Clos Fonta Priorat","Priorat Red","Mas d'en Gil",4.3999999999999995,9
+"Cuvee N Vinas Viejas",Red,"Casa Castillo",4.6,1
+"Ribera del Duero Prestigio Pago de las Solanas","Ribera Del Duero Red",Matarromera,4.55,4
+"Nit de Nin Mas d'en Cacador","Priorat Red",Nin-Ortiz,4.5,4
+VS,Tempranillo,"Bodegas Mauro",4.475,16
+"Blecua Somontano",Red,"Vinas del Vero",4.424999999999999,16
+"Frank Gehry Selection",Tempranillo,"Marques de Riscal",4.6,1
+"Amaya Arzuaga (Coleccion)","Ribera Del Duero Red",Arzuaga,4.45,4
+"La Creu Alta","Priorat Red","Bodegas Mas Alta",4.575000000000001,16
+"5o Ano Ribera del Duero Tinto","Ribera Del Duero Red","Tomas Postigo",4.550000000000001,16
+"Planots Priorat","Priorat Red","Cal Pla",4.55,4
+Capitel,Verdejo,Ossian,4.55,4
+"Gran Arzuaga Ribera del Duero","Ribera Del Duero Red",Arzuaga,4.6,1
+Horcajo,"Ribera Del Duero Red","Cepa 21",4.6,1
+Aurus,"Rioja Red",Allende,4.379999999999998,25
+Trasnocho,"Rioja Red","Remirez de Ganuza",4.483333333333335,36
+"Doroteo Edicion Especial 25 Aniversario","Ribera Del Duero Red","Pago de Los Capellanes",4.6,1
+"Tierra Alta de 2 Racimos Gran Reserva","Ribera Del Duero Red","Bodegas Valduero",4.6,1
+"Reserva Especial Ribera del Duero","Ribera Del Duero Red",Arzuaga,4.55,4
+"Reserva Especial","Ribera Del Duero Red","Hacienda Monasterio",4.5,8
+"Reserva Especial",Red,Enate,4.5,4
+"Reserva Especial",Red,"Pago de Larrainzar",4.5,4
+"Gran Buig Priorat","Priorat Red","Mas d'en Gil",4.6,1
+"Finca Garbet",Syrah,"Castillo Perelada",4.55,4
+Amancio,"Rioja Red","Sierra Cantabria",4.485714285714288,49
+"Gines Liebana Pedro Ximenez","Pedro Ximenez","Toro Albala",4.6,1
+"Don PX Seleccion","Pedro Ximenez","Toro Albala",4.525,16
+Reserva,"Ribera Del Duero Red","Hacienda Monasterio",4.353846153846163,156
+Reserva,"Ribera Del Duero Red","Pago de Carraovejas",4.3538461538461535,26
+Reserva,"Ribera Del Duero Red","Dominio del Aguila",4.353846153846155,78
+Reserva,"Ribera Del Duero Red","Tinto Pesquera",4.35384615384616,130
+Reserva,"Ribera Del Duero Red","Carmelo Rodero",4.353846153846155,52
+Reserva,"Rioja Red","Vina Pomal",4.3538461538461535,26
+Reserva,"Rioja Red","La Vicalanda",4.353846153846155,52
+Reserva,"Ribera Del Duero Red","Dominio Fournier",4.3538461538461535,26
+Reserva,"Rioja Red",Contino,4.353846153846155,52
+Reserva,"Rioja Red",Taron,4.3538461538461535,26
+Reserva,"Ribera Del Duero Red","Vina Pedrosa",4.3538461538461535,26
+Reserva,"Ribera Del Duero Red",Bohorquez,4.3538461538461535,26
+"Finca Las Naves","Rioja Red",Ysios,4.6,1
+AAA,Red,"Marques de Grinon",4.55,4
+"Vina del Olivo","Rioja Red",Contino,4.41666666666667,36
+"Les Aubaguetes Priorat","Priorat Red","Alvaro Palacios",4.55,4
+"Cava Enoteca Finca La Plana Brut Nature",Cava,Gramona,4.6,1
+"Gran Reserva Penas Aladas","Ribera Del Duero Red","Dominio del Aguila",4.566666666666666,9
+"Pena Lobera","Ribera Del Duero Red","Hacienda Solano",4.45,4
+"Son Negre",Red,"Anima Negra",4.516666666666668,36
+"Casa Cisca Monastrell",Monastrell,Castano,4.4,9
+"Moncerbal Bierzo (Corullon)",Mencia,"Descendientes de J. Palacios",4.6,1
+Capricho,Red,"La Legua",4.6,1
+"Cerrado del Castillo Rioja","Rioja Red","Castillo de Cuzcurrita",4.5,4
+"Kalamity Rioja","Rioja Red","Oxer Wines",4.5,4
+Respeto,Red,"Bodegas 6o Elemento - Vino Sexto Elemento",4.6,4
+"El Garnacho Viejo de la Familia Acha","Rioja Red","Proyecto Garnachas de Espana",4.6,1
+"Ribera del Duero Prestigio","Ribera Del Duero Red",Matarromera,4.55,4
+"La Poza de Ballesteros",Tempranillo,Artadi,4.433333333333337,36
+"Reserva Rioja (Finca Ygay)","Rioja Red","Marques de Murrieta",4.333333333333333,9
+Idus,"Priorat Red","Vall Llach",4.466666666666666,9
+"Valdafoz Bierzo (Corullon)",Mencia,"Descendientes de J. Palacios",4.6,1
+"Rioja Gran Reserva","Rioja Red","Vina Real",4.3,19
+"Rioja Gran Reserva","Rioja Red",Beronia,4.3,19
+"Rioja Gran Reserva","Rioja Red",Contino,4.300000000000001,114
+"Rioja Gran Reserva","Rioja Red","Marques de Riscal",4.300000000000001,114
+"Rioja Gran Reserva","Rioja Red",Imperial,4.299999999999996,38
+"Rioja Gran Reserva",Red,"Marques de Tomares",4.299999999999996,38
+"Rioja Gran Reserva","Rioja Red","Luis Canas",4.3,19
+"Valdegatiles Ribera del Duero","Ribera Del Duero Red","Dominio de Atauta",4.6,4
+"Respublica Verdejo",Verdejo,"Micro Bio (MicroBio)",4.6,1
+"Les Tosses","Priorat Red","Terroir Al Limit Soc. Lda",4.466666666666666,9
+"Torremilanos Coleccion Ribera del Duero","Ribera Del Duero Red","Finca Torremilanos",4.5,4
+"El Carretil",Tempranillo,Artadi,4.4666666666666694,36
+"Taberner No. 1",Red,"Huerta de Albala",4.55,4
+"Vina Motulleri","Rioja Red","Gomez Cruzado",4.6,1
+Saktih,Red,"Castell d'Encus",4.55,4
+"Cuvee Palomar",Red,"Abadia Retuerta",4.6,1
+"Uno Tinto",Red,Enate,4.6,1
+Macan,"Rioja Red","Benjamin de Rothschild - Vega Sicilia",4.500000000000001,25
+"1903 Centenary Grenache","Priorat Red","Mas Doix",4.6,1
+"Galiano Seleccion Especial",Red,"Bodegas Aragonesas",4.6,1
+"Etern Vinyes Molt Velles","Priorat Red","Acustic Celler",4.6,1
+"40 Aniversario Gran Reserva","Ribera Del Duero Red","Vina Pedrosa",4.6,1
+"Corpinnat Enoteca Reserva Particular de Recaredo",Sparkling,Recaredo,4.6,1
+Toro,"Toro Red",Pintia,4.377777777777782,81
+Clio,Red,"Bodegas El Nido",4.5,25
+Garnacha,Grenache,"Alto Moncayo",4.3999999999999995,24
+Garnacha,Grenache,Morca,4.4,6
+Garnacha,Grenache,"Bodegas Amaren",4.4,6
+"Parcela El Nogal Tinto","Ribera Del Duero Red","Pago de Los Capellanes",4.5,9
+"Belondrade y Lurton",Verdejo,Belondrade,4.449999999999999,16
+"Rioja Reserva","Rioja Red","Remirez de Ganuza",4.305000000000009,140
+"Rioja Reserva","Rioja Red",Imperial,4.305000000000001,120
+"Rioja Reserva","Rioja Red","Marques de Caceres",4.305000000000001,20
+"Rioja Reserva","Rioja Red","Finca Valpiedra",4.305000000000001,20
+"Rioja Reserva","Rioja Red","Marques de Riscal",4.304999999999996,40
+"Rioja Reserva","Rioja Red",Remelluri,4.304999999999996,40
+"Rioja Reserva","Rioja Red",VALENCISO,4.305000000000001,20
+"Prado Enea Gran Reserva","Rioja Red",Muga,4.385714285714292,49
+"Torre Muga","Rioja Red",Muga,4.366666666666668,36
+Aro,"Rioja Red",Muga,4.5,9
+"San Vicente Rioja","Rioja Red","Senorio de San Vicente",4.366666666666668,36
+"Ribera del Duero TSM","Ribera Del Duero Red","Carmelo Rodero",4.433333333333334,9
+"Ribera Del Duero Reserva Premium 6 Anos","Ribera Del Duero Red","Bodegas Valduero",4.5,9
+"Clos de L'Obac","Priorat Red","Costers del Siurana",4.433333333333334,9
+"Reserva Ribera del Duero","Ribera Del Duero Red",Arzuaga,4.399999999999999,16
+"Ribera Del Duero","Ribera Del Duero Red","Francisco Barona",4.4,4
+Bruto,Monastrell,"Juan Gil",4.5,9
+"Culmen Reserva Rioja","Rioja Red",Lan,4.433333333333333,9
+"Vina Tondonia Gran Reserva","Rioja Red","R. Lopez de Heredia",4.433333333333334,9
+"Petit Verdot",Red,"Abadia Retuerta",4.466666666666669,24
+"Petit Verdot",Red,"Dehesa del Carrizal",4.466666666666666,6
+"Petit Verdot",Red,"Bodegas Luis Perez",4.466666666666666,6
+"Clos Martinet","Priorat Red",Martinet,4.339999999999979,225
+"Millenium Gran Reserva","Ribera Del Duero Red","Tinto Pesquera",4.5,1
+"Finca Dofi","Priorat Red","Alvaro Palacios",4.319999999999994,225
+"Gran Reserva Ribera del Duero","Ribera Del Duero Red",Arzuaga,4.4,4
+"Seleccio Especial Vinyes Velles","Priorat Red","Ferrer Bobet",4.4,25
+"Calvario Rioja","Rioja Red",Allende,4.45,16
+"Ribera del Duero Una Cepa I","Ribera Del Duero Red","Bodegas Valduero",4.374999999999998,16
+"Grans Muralles",Red,"Familia Torres",4.420000000000001,25
+"Gran Vino Albarino",Albarino,"Pazo Barrantes",4.5,1
+"Pago Garduna",Syrah,"Abadia Retuerta",4.5,4
+"La Cueva del Contador Rioja","Rioja Red","Bodega Contador (Benjamin Romeo)",4.400000000000005,49
+"Que Bonito Cacareaba Blanco","Rioja White","Bodega Contador (Benjamin Romeo)",4.5,1
+"Baron de Chirel Rioja Reserva","Rioja Red","Marques de Riscal",4.400000000000004,36
+"Emeritvs (Emeritus)",Red,"Marques de Grinon",4.4,4
+"Finca Los Hoyales Ribera del Duero","Ribera Del Duero Red","Cruz de Alba",4.45,4
+"La Basseta","Priorat Red","Bodegas Mas Alta",4.466666666666666,9
+"Territorio Luthier Reserva","Ribera Del Duero Red","Territorio Luthier",4.5,1
+"Vinas Viejas de Soria Ribera Del Duero","Ribera Del Duero Red","Dominio de Es",4.379999999999998,25
+"Pago de Santa Cruz Gran Reserva Ribera del Duero","Ribera Del Duero Red","Vina Sastre",4.45,4
+"Seleccion Rioja","Rioja Red","Jesus Madrazo",4.45,4
+"Millenium Reserva","Ribera Del Duero Red","Tinto Pesquera",4.45,4
+Acediano,"Ribera Del Duero Red","Bodegas Naluar & Acediano",4.424999999999999,16
+Gaudium,"Rioja Red","Marques de Caceres",4.383333333333336,36
+"Pico de Luyas","Ribera Del Duero Red",Trus,4.4,4
+"Grandes Anadas Rioja","Rioja Red",Artadi,4.424999999999999,16
+"Mas Via Gran Reserva Brut",Cava,Mestres,4.4,4
+"Navarra Coleccion 125 Blanco",Chardonnay,Chivite,4.45,4
+"Chardonnay Uno",Chardonnay,Enate,4.4,4
+"Don PX Vieja Cosecha","Pedro Ximenez","Toro Albala",4.5,1
+"Ribas de Cabrera",Red,"Bodega Ribas",4.5,1
+Cenit,Tempranillo,"Vinas del Cenit",4.5,1
+"Mas del Serral",Sparkling,"Mas del Serral",4.5,1
+Estrats,Red,Cervoles,4.4,4
+"Vina Tondonia Gran Reserva Blanco","Rioja White","R. Lopez de Heredia",4.5,1
+8000,"Ribera Del Duero Red","Marques de Burgos",4.5,1
+"Mironia Black Edition Tempranillo","Ribera Del Duero Red",Penafiel,4.5,1
+Miserere,"Priorat Red","Costers del Siurana",4.45,4
+"Alma Tobia Rioja","Rioja Red",Tobia,4.5,1
+Tm,Tempranillo,"Tresmano - Tr3smano",4.5,1
+Doix,"Priorat Red","Mas Doix",4.3857142857142914,49
+"Nebro Ribera del Duero","Ribera Del Duero Red","Finca Villacreces",4.399999999999999,16
+"El Canto del Angel","Ribera Del Duero Red","Virgen de la Asuncion",4.5,1
+"Rioja Blanco Reserva","Rioja White","Remirez de Ganuza",4.5,1
+"Gratallops Partida Bellvisos","Priorat Red","Sara Perez y Rene Barbier",4.45,4
+"Coleccion Privada",Red,"Dehesa del Carrizal",4.333333333333333,3
+"Coleccion Privada","Rioja Red","Sierra Cantabria",4.333333333333333,6
+"Finca El Canto",Tempranillo,Tarsus,4.5,1
+"Finca Cascorrales","Ribera Del Duero Red","Hacienda Solano",4.5,1
+"Rioja Gran Reserva 904","Rioja Red","La Rioja Alta",4.3500000000000005,36
+"Marques de Poley Amontillado Seleccion 1951","Pedro Ximenez","Toro Albala",4.5,1
+"Platon Tinto","Toro Red","Divina Proporcion",4.5,1
+"Altos de Las Gateras Monastrell",Monastrell,"Vina al Lado de la Casa",4.5,1
+"Canta la Perdiz","Ribera Del Duero Red","Dominio del Aguila",4.5,1
+"Marques de la Concordia VSG Premium (formerly Hacienda de Susar Rioja)","Rioja Red","Marques de la Concordia",4.5,1
+"Cava Kripta Gran Reserva Brut Nature",Cava,"Agusti Torello Mata",4.425,16
+"Alba de Miros Rueda Verdejo",Verdejo,Penafiel,4.5,1
+"Pendon De La Aguilera","Ribera Del Duero Red","Dominio de Cair",4.5,1
+"V2 Tinto",Red,Valquejigoso,4.3999999999999995,9
+Celia,"Ribera Del Duero Red",Vizcarra,4.4,4
+Calmo,"Ribera Del Duero Red",Legaris,4.5,1
+"Confesor Rioja","Rioja Red","Vinicola Real",4.5,1
+"La Bienquerida",Mencia,Losada,4.374999999999998,16
+"Seleccion Especial",Red,"Clos d'Agon",4.333333333333333,6
+"Seleccion Especial",Red,"Abadia Retuerta",4.333333333333332,24
+"Seleccion Especial","Ribera Del Duero Red","Dominio de Loalva",4.333333333333333,6
+Palomero,"Ribera Del Duero Red","Uvaguilera Aguilera",4.5,1
+"Grano a Grano","Rioja Red",Ysios,4.5,1
+"Cuvee Julia Ribera del Duero","Ribera Del Duero Red","Altos del Terral",4.5,1
+"Las Lamas Bierzo (Corullon)",Mencia,"Descendientes de J. Palacios",4.366666666666666,9
+"200 Monges Rioja Reserva Seleccion Especial","Rioja Red","Vinicola Real",4.5,1
+"Galia Clos Santuy",Red,"El Regajal",4.4,4
+"Tomas Esteban","Ribera Del Duero Red",Valderiz,4.4,4
+"Finca Las Comas Verdejo",Verdejo,"Jose Pariente",4.4,4
+"St Antoni de Scala Dei Priorat","Priorat Red","Scala Dei",4.5,1
+Valdegines,Tempranillo,Artadi,4.35,16
+"Seda de Oro Reserva","Rioja Red","Bodegas Valdelana",4.5,1
+"Grano a Grano Graciano - Garnacha",Grenache,"Abel Mendoza Monge",4.5,1
+"Carraquintana de Amaren","Rioja Red","Bodegas Amaren",4.5,1
+"Garnacha Parcela 81 Vinas Viejas",Red,Anayon,4.5,1
+"Cava Enoteca Finca de L'Origen Brut Nature",Cava,Gramona,4.5,1
+"Salinas 1237",Red,"Sierra Salinas",4.5,1
+"Cabernet Sauvignon","Cabernet Sauvignon","Dehesa del Carrizal",4.5,1
+"Finca La Colina Sauvignon Blanc","Sauvignon Blanc","Vinos Sanz",4.5,1
+"Vina Ardanza Reserva","Rioja Red","La Rioja Alta",4.274999999999997,64
+"Roda I Reserva Rioja","Rioja Red","Bodegas Roda",4.37272727272727,121
+"3er Ano Ribera del Duero Tinto","Ribera Del Duero Red","Tomas Postigo",4.366666666666666,9
+"Macan Clasico","Rioja Red","Benjamin de Rothschild - Vega Sicilia",4.366666666666666,9
+"Alaya Tierra (Old Vines Vieilles Vignes)",Grenache,Atalaya,4.3999999999999995,9
+Cosecha,"Ribera Del Duero Red","Hacienda Monasterio",4.4,4
+Red,Red,"Bodegas Mauro",4.2666666666666675,9
+"El Viejo","Toro Red",Matsu,4.250000000000001,16
+"Hacienda Pradolagar","Rioja Red","Marques de Vargas",4.4,1
+"200 Monges Rioja Reserva","Rioja Red","Vinicola Real",4.319999999999999,25
+Malleolus,"Ribera Del Duero Red","Emilio Moro",4.3,4
+"Reserva Tinto","Ribera Del Duero Red","Pago de Los Capellanes",4.3500000000000005,4
+"Jumilla Blue Label",Red,"Juan Gil",4.250000000000001,16
+Triga,Red,Volver,4.366666666666666,9
+Victorino,"Toro Red","Teso La Monja",4.339999999999998,25
+"Reserva Privada Rioja","Rioja Red","Marques de Vargas",4.3500000000000005,4
+"Pago Negralada",Tempranillo,"Abadia Retuerta",4.38,25
+"Rejon Tempranillo",Tempranillo,Tridente,4.35,16
+Interpretacion,"Ribera Del Duero Red",Ausas,4.4,1
+Vendimia,"Ribera Del Duero Red","Tresmano - Tr3smano",4.333333333333333,9
+"Priorat Vinyes Velles","Priorat Red","Ferrer Bobet",4.324999999999999,16
+"Tempranillo Reserva","Rioja Red","Bodegas Amaren",4.333333333333334,6
+"Tempranillo Reserva","Rioja Red","Lar de Paula",4.333333333333333,3
+"Whisba Tempranillo Aged 18 Months in Whisky Barrels","Toro Red","Rodriguez Sanzo",4.4,1
+"A Mano Rioja","Rioja Red",Lan,4.319999999999999,25
+"200 Monges Rioja Gran Reserva","Rioja Red","Vinicola Real",4.3500000000000005,4
+"La Hormiga de Antidoto","Ribera Del Duero Red",Antidoto,4.4,1
+"Edicion Limitada","Ribera Del Duero Red","Bosque de Matasnos",4.4,1
+"Lealtanza Coleccion de Artistas Espanoles Sorolla","Rioja Red",Altanza,4.4,1
+"Granja Gran Reserva Rioja","Rioja Red",Remelluri,4.374999999999999,16
+"Perez Pascuas Gran Reserva Seleccion","Ribera Del Duero Red","Vina Pedrosa",4.349999999999999,16
+"El Puntido Gran Reserva","Rioja Red","Vinedos de Paganos",4.3500000000000005,4
+"Pagos Viejos",Tempranillo,Artadi,4.333333333333333,9
+"Cuvee Old Vines Unfiltered",Red,Volver,4.4,1
+Fondillon,Red,Monovar,4.4,1
+Cirerets,"Priorat Red","Bodegas Mas Alta",4.4,4
+"Dominio del Pidio","Ribera Del Duero Red","Cillar de Silos",4.4,1
+"Vinas Viejas Verdejo",Verdejo,Ossian,4.3,25
+"Tadeo Tinto",Red,"Los Aguilares",4.4,1
+"Tierras de Cair Reserva","Ribera Del Duero Red","Dominio de Cair",4.3500000000000005,4
+"Cava Celler Batlle",Cava,Gramona,4.3999999999999995,16
+"Rioja Blanco","Rioja White",Remelluri,4.309090909090911,77
+"Rioja Blanco","Rioja White","Remirez de Ganuza",4.309090909090906,33
+"Rioja Blanco","Rioja White",VALENCISO,4.3090909090909095,11
+"Clos Abella Seleccion Especial","Priorat Red","Marco Abella",4.3500000000000005,4
+"Pie Franco",Monastrell,"Casa Castillo",4.366666666666666,9
+"Singular V Malcorta Verdejo",Verdejo,"Javier Sanz Viticultor",4.4,1
+"Serral del Vell Brut Nature",Cava,Recaredo,4.3999999999999995,9
+"Seleccion Finca el Grajo Viejo","Ribera Del Duero Red",Protos,4.349999999999999,16
+Malpuesto,"Rioja Red",Orben,4.3500000000000005,4
+Chafandin,"Ribera Del Duero Red",Jaro,4.333333333333333,9
+"La Vina de Andres Romeo Rioja","Rioja Red","Bodega Contador (Benjamin Romeo)",4.3500000000000005,4
+"Delicado Cosecha Pedro Ximenez","Pedro Ximenez","Bodegas Ximenez-Spinola",4.3500000000000005,4
+"Quincha Corral",Red,Mustiguillo,4.4,1
+"Els Escurcons","Priorat Red",Martinet,4.333333333333333,9
+"Vinos Singulares Tempranillo Blanco Reserva","Rioja White","Vina Pomal",4.4,1
+"Christina Ribera del Duero","Ribera Del Duero Red",Astrales,4.3500000000000005,4
+Desti,"Priorat Red","Merum Priorati",4.4,1
+"Gran Reserva Classica Tinto","Rioja Red","Hacienda Lopez de Haro",4.4,1
+"Seleccion de Anada Albarino Rias Baixas",Albarino,"Pazo Senorans",4.300000000000001,9
+"Albarino de Fefinanes III Ano",Albarino,Fefinanes,4.4,1
+Perpetual,"Priorat Red","Familia Torres",4.3500000000000005,4
+"El Cel","Priorat Red","Merum Priorati",4.4,4
+"Montes Obarenes Seleccion Terroir","Rioja White","Gomez Cruzado",4.333333333333333,9
+"Porrera Vi de Vila","Priorat Red","Vall Llach",4.324999999999999,16
+"Gran Ribera del Duero","Ribera Del Duero Red",Resalte,4.4,1
+"Heretge Priorat","Priorat Red","Scala Dei",4.4,4
+"Vinas Viejas","Ribera Del Duero Red",Figuero,4.333333333333334,6
+"Vinas Viejas","Ribera Del Duero Red",Lambuena,4.333333333333333,3
+17,Tempranillo,Pinea,4.4,1
+"Clos del Portal Tros de Clos","Priorat Red","Portal del Priorat",4.4,1
+Classic,"Priorat Red","Cims de Porrera",4.339999999999998,25
+Minami,Monastrell,"Casa Rojo",4.4,1
+"Vi de Vila Gratallops","Priorat Red","Alvaro Palacios",4.2833333333333306,36
+"Veguin de Murua Gran Reserva","Rioja Red",Murua,4.4,1
+Teixar,"Montsant Red","Vinyes Domenech",4.4,1
+"Anada Pedro Ximenez","Pedro Ximenez","Bodegas Ximenez-Spinola",4.4,1
+"Clos del Portal Somni","Priorat Red","Portal del Priorat",4.300000000000001,9
+"Les Manyes","Priorat Red","Terroir Al Limit Soc. Lda",4.316666666666666,36
+"Emporda Aires de Garbet",Red,"Castillo Perelada",4.4,4
+"Montes de Toledo Syrah",Syrah,"Pago de Vallegarcia",4.3500000000000005,4
+"Maceracion Con Pieles",Albarino,"Eulogio Pomares",4.4,1
+"Clos Monlleo","Priorat Red","Sangenis I Vaque",4.3500000000000005,4
+"Rioja Reserva 10 Anos Despues Edicion Limitada","Rioja Red",VALENCISO,4.4,1
+"Perinet + Plus","Priorat Red","Mas Perinet",4.4,1
+"Ribera del Duero Torralvo","Ribera Del Duero Red",Vizcarra,4.3500000000000005,4
+"El Cabernet F - Familiar",Red,"Chozas Carrascal",4.4,1
+Premium,"Ribera Del Duero Red","Bodegas Vilano",4.4,1
+"Hipperia Red Blend",Red,"Pago de Vallegarcia",4.3500000000000005,4
+"Maria Ribera del Duero","Ribera Del Duero Red","Alonso del Yerro",4.4,4
+"Vendimia Seleccionada","Ribera Del Duero Red","Emilio Moro",4.366666666666667,3
+"Vendimia Seleccionada","Ribera Del Duero Red",Briego,4.366666666666667,3
+"Vendimia Seleccionada","Ribera Del Duero Red","El Lagar de Isilla",4.366666666666667,3
+"Clos Figueres","Priorat Red","Clos Figueras",4.324999999999999,16
+"Castillo de Monte la Reina Cuvee Privee","Toro Red","Bodegas Monte La Reina",4.4,1
+"Queiron Reserva Vinedos Familiares","Rioja Red",Ontanon,4.4,1
+"Don PX Gran Reserva","Pedro Ximenez","Toro Albala",4.366666666666666,9
+"Llanos del Almendro Ribera del Duero","Ribera Del Duero Red","Dominio de Atauta",4.333333333333333,9
+"Toro 2V Premium","Toro Red","Bodega Elias Mora",4.4,1
+"Les Eres Vinyes Velles","Priorat Red","Joan Simo",4.4,1
+"Gran Reserva Classica Blanco","Rioja White","Hacienda Lopez de Haro",4.4,1
+"The Artist",Red,"Can Axartell",4.4,1
+"La Comtesse de Pazo Barrantes Albarino",Albarino,"Pazo Barrantes",4.4,1
+"5V Blanco","Rioja White","Abel Mendoza Monge",4.4,1
+"Finca Butaros Vinya Centenaria",Red,"Mas Llunes",4.4,1
+"Seleccion Privada","Rioja Red","Marques de Vargas",4.3500000000000005,4
+"Aponte Winemaker's Private Collection Tempranillo",Tempranillo,"Bodegas Frontaura",4.4,1
+"Cami de Cormes",Red,"Roig Parals",4.4,1
+1194,Red,Perinet,4.4,1
+"Malabrigo Ribera del Duero","Ribera Del Duero Red","Cepa 21",4.3500000000000005,4
+"Reserva Trajanvs",Red,Avgvstvs,4.4,1
+"Emporda Gran Claustro",Red,"Castillo Perelada",4.4,1
+"Lalomba Finca Valhonta","Rioja Red","Ramon Bilbao",4.4,1
+Manyetes,"Priorat Red","Clos Mogador",4.4,4
+"Pago Valdebellon","Cabernet Sauvignon","Abadia Retuerta",4.324999999999999,16
+"Guarda de Leda Seleccion Tempranillo",Tempranillo,Leda,4.4,1
+"Vinyes Altes Porrera","Priorat Red","Bodegas Celler Francisco Castillo - Clos Dominic",4.3999999999999995,9
+"5 Partides Gratallops Vi de La Vila","Priorat Red","Cal Batllet - Celler Ripoll Sans",4.4,1
+"Cava Ex-Vite Gran Reserva Brut",Cava,Llopart,4.4,1
+"Summa Edicion Limitada","Ribera Del Duero Red",Portia,4.4,1
+"Pago El Espino",Red,"Los Aguilares",4.3,4
+"Gloria Rioja","Rioja Red",Ostatu,4.3500000000000005,4
+"Petra de Valpiedra Garnacha",Grenache,"Finca Valpiedra",4.4,1
+"Alto de la Caseta","Rioja Red","Vina Pomal",4.3500000000000005,4
+"Mas de la Rosa","Priorat Red","Vall Llach",4.4,1
+"Rioja B70","Rioja Red",Baigorri,4.4,1
+"Don Miguel","Ribera Del Duero Red",Comenge,4.4,1
+"Singular Negre","Cabernet Sauvignon","Collbaix Celler El Moli",4.4,1
+"Rioja Reserva Especial","Rioja Red","Martinez Lacuesta",4.4,1
+"Rioja Cisma","Rioja Red",Pujanza,4.3999999999999995,9
+"Martires Rioja","Rioja White",Allende,4.4,4
+"Cava Original Brut (Espumos)",Cava,Llopart,4.4,1
+"Marti Reserva Penedes",Red,"Albet i Noya",4.4,4
+"Vina Ardanza Reserva Seleccion Especial","Rioja Red","La Rioja Alta",4.4,1
+"Pozo Alto","Rioja Red","Olivier Riviere",4.4,1
+"El Cristo de Samaniego","Rioja Red","Bodegas Amaren",4.4,1
+"El Belisario",Tempranillo,"Bodegas Tierra",4.4,1
+"Baron de Ona Rioja Reserva","Rioja Red","Torre de Ona",4.4,1
+"Cepas Vellas Rias Baixas Albarino",Albarino,"Do Ferreiro (Bodegas Gerardo Mendez)",4.3500000000000005,4
+"La Aguilera","Ribera Del Duero Red",Legaris,4.4,1
+Pirata,"Rioja White","Bodega Contador (Benjamin Romeo)",4.4,1
+Hispania,"Ribera Del Duero Red","Territorio Luthier",4.3500000000000005,4
+Arousa,Albarino,"Martin Codax",4.4,1
+"Las Cenizas Tempranillo","Rioja Red","Vinedos Hermanos Hernaiz",4.4,1
+"Solanes Priorat","Priorat Red","Cims de Porrera",4.4,1
+"Cava Cuvee De Prestige Trepat",Cava,Freixenet,4.4,1
+"Felix Azpilicueta Coleccion Privada","Rioja Red",Azpilicueta,4.4,1
+"Savinat Sauvignon Blanc","Sauvignon Blanc",Gramona,4.4,1
+"Capricho Crianza","Ribera Del Duero Red","Veronica Salgado",4.4,1
+"Finca La Emperatriz Vinedo Singular Tinto","Rioja Red","Vinedos Hermanos Hernaiz",4.4,1
+Galena,"Priorat Red","Clos Galena",4.3500000000000005,4
+"Finca Helena","Ribera Del Duero Red","Bodegas Imperiales - Abadia de San Quirce",4.4,1
+Primordium,"Ribera Del Duero Red","Marta Mate",4.4,1
+"La Cuartilleja Reserva","Ribera Del Duero Red","Venta Las Vacas",4.3500000000000005,4
+Noble,"Ribera Del Duero Red",Figuero,4.4,1
+"De Garage Rioja","Rioja Red",Baigorri,4.3500000000000005,4
+"Gran Calzadilla",Red,"Pago Calzadilla",4.3500000000000005,4
+"4 Varietales Coleccion Rioja","Rioja Red",Vivanco,4.4,1
+"Numerus Clausus",Tempranillo,Museum,4.4,1
+"200 Monges Rioja Seleccion Especial Reserva Blanco","Rioja White","Vinicola Real",4.4,1
+"Campus Gothorum","Toro Red",Farina,4.4,1
+"La Pizca",Red,"Galindo San Millan",4.4,1
+"Moradillo de Roa","Ribera Del Duero Red",Legaris,4.4,1
+Cofradia,"Rioja Red","Bodegas Casa Primicia",4.4,1
+Planella,"Montsant Red","Joan d'Anguera",4.4,1
+"Gallaecia Rias Baixes Albarino",Albarino,"Martin Codax",4.4,1
+Monada,Red,Xaloc,4.4,1
+Verdejo,Verdejo,"Bodegas Frontaura",4.4,1
+"Vina Garugele","Rioja Red","Carlos Moro",4.4,1
+Barrica,Red,Ladairo,4.4,1
+Voltons,"Priorat Red","Conreria d'Scala Dei",4.3500000000000005,4
+"Valcavado de Traslascuestas","Ribera Del Duero Red",Traslascuestas,4.4,1
+"Oscar Tobia Gran Reserva Rioja","Rioja Red",Tobia,4.4,1
+"La Baixada","Priorat Red","Alvaro Palacios",4.4,1
+Seleccion,"Ribera Del Duero Red","Lopez Cristobal",4.35,2
+Seleccion,"Rioja Red",Ysios,4.35,2
+"Cava El Tros Nou Pinot Noir",Cava,Codorniu,4.4,1
+"Los Dominios de Berceo Prefiloxerico","Rioja Red",Berceo,4.4,1
+"Sao Expressiu",Red,"Mas Blanch I Jove",4.4,1
+"Onomastica Rioja Reserva","Rioja Red","Carlos Serres",4.4,1
+"Vina Arana Gran Reserva","Rioja Red","La Rioja Alta",4.333333333333333,9
+"Carinena Parcela 15 Vinas Viejas",Red,Anayon,4.4,1
+Vobiscum,"Rioja Red","David Moreno",4.4,1
+"La Navilla","Ribera Del Duero Red","Vina Pedrosa",4.4,1
+"Merlot - Syrah",Red,Edra,4.4,1
+"Pago de Las Costanas",Tempranillo,Valdelosfrailes,4.4,1
+"Cava Gran Reserva Familiar Millenium Brut",Cava,"Guillem Carol - Cellers Carol Valles",4.4,1
+"Zona Zepa Monastrell",Monastrell,Barahonda,4.4,1
+"Alma Tobia Blanco","Rioja White",Tobia,4.4,1
+"Garnacha Vinas Centenarias",Grenache,Particular,4.4,1
+"El Jardin de las Iguales Vinedo Historico Garnacha",Grenache,"Bodegas Frontonio",4.4,1
+"Silvanus Edicion Limitada Ribera del Duero","Ribera Del Duero Red","Bodegas Asenjo & Manso",4.4,1
+"Vina Tondonia Reserva","Rioja Red","R. Lopez de Heredia",4.3,9
+PSI,"Ribera Del Duero Red","Dominio de Pingus",4.250000000000001,16
+"Seleccion Especial (Reserva)","Rioja Red",Muga,4.25,4
+"Mas La Plana Cabernet Sauvignon","Cabernet Sauvignon","Familia Torres",4.233333333333333,9
+Numanthia,"Toro Red","Bodega Numanthia",4.2666666666666675,9
+"Bosque de Matasnos Etiqueta Blanca","Ribera Del Duero Red","Bosque de Matasnos",4.25,4
+"Reserva Seleccion de la Familia","Rioja Red","Luis Canas",4.3,4
+"Gran Reserva Rioja (Finca Ygay)","Rioja Red","Marques de Murrieta",4.279999999999999,25
+"El Puntido","Rioja Red","Vinedos de Paganos",4.266666666666664,36
+"Crianza Tinto","Ribera Del Duero Red","Pago de Los Capellanes",4.25,4
+"Gran Reserva Rioja","Rioja Red","Marques de Vargas",4.25,2
+"Gran Reserva Rioja","Rioja Red",Campillo,4.25,2
+An,Red,"Anima Negra",4.25,4
+"La Baraja","Ribera Del Duero Red","Bodegas Vilano",4.3,1
+"Finca Malaveina",Red,"Castillo Perelada",4.250000000000001,16
+"Reserva XR","Rioja Red","Marques de Riscal",4.25,4
+"Alenza Ribera del Duero Gran Reserva","Ribera Del Duero Red","Condado de Haza",4.3,1
+"Chardonnay Fermentado en Barrica",Chardonnay,Enate,4.3,9
+"Vatan Tinta de Toro","Toro Red",Ordonez,4.3,4
+"Alicante Bouschet by Tarima",Red,Volver,4.3,4
+"Dominio de Atauta","Ribera Del Duero Red","Dominio de Atauta",4.25,4
+Crianza,"Ribera Del Duero Red","Carmelo Rodero",4.222222222222224,27
+Crianza,"Ribera Del Duero Red","Bodegas Vilano",4.222222222222222,9
+Crianza,"Ribera Del Duero Red",Matarromera,4.222222222222224,18
+Crianza,"Ribera Del Duero Red","Tinto Pesquera",4.222222222222222,9
+Crianza,"Ribera Del Duero Red","Dehesa de Los Canonigos",4.222222222222224,18
+Laurel,"Priorat Red","Clos Erasmus",4.3,4
+"Seleccion La Aguilera","Ribera Del Duero Red","Dominio de Cair",4.3,1
+"Finca Martelo","Rioja Red","Torre de Ona",4.3,1
+Mirto,"Rioja Red","Ramon Bilbao",4.233333333333333,9
+"I Gran Reserva","Rioja Red","Bodegas Faustino",4.2749999999999995,16
+"Roda Reserva Rioja","Rioja Red","Bodegas Roda",4.228571428571425,49
+"Rioja Vina Coqueta","Rioja Red","Remirez de Ganuza",4.3,1
+"Capellania Reserva","Rioja White","Marques de Murrieta",4.25,4
+"Torre Albeniz Reserva Ribera del Duero","Ribera Del Duero Red","Finca Torremilanos",4.3,1
+"Finca El Otero","Ribera Del Duero Red",Aster,4.25,4
+"Familia Comenge Reserva","Ribera Del Duero Red",Comenge,4.3,1
+"Tierra Alta de 2 Cotas Reserva","Ribera Del Duero Red","Bodegas Valduero",4.3,1
+"Fagus de Coto de Hayas Garnacha",Grenache,"Bodegas Aragonesas",4.3,1
+"Finca Terrerazo",Red,Mustiguillo,4.25,4
+"Godina Garnacha",Grenache,Morca,4.3,1
+QS,Red,"Quinta Sardonia",4.250000000000001,16
+"Don Miguel Comenge Reserva","Ribera Del Duero Red",Comenge,4.3,1
+3.9,Red,Abadal,4.2666666666666675,9
+"Finca Iscorta Gran Reserva","Rioja Red","Hermanos Pecina",4.3,1
+"Finca Biniagual Veran",Red,Biniagual,4.3,1
+"Brega Garnacha",Grenache,Breca,4.3,1
+"Cerro Anon Rioja Gran Reserva","Rioja Red","Bodegas Olarra",4.3,1
+Masdeu,"Priorat Red","Scala Dei",4.3,9
+Pantocrator,"Rioja Red",Taron,4.3,1
+"Senorio de Cuzcurrita Rioja","Rioja Red","Castillo de Cuzcurrita",4.3,1
+"Silencio de Miros Ribera Del Duero","Ribera Del Duero Red",Penafiel,4.3,1
+"Queiron Mi Lugar","Rioja Red",Ontanon,4.3,1
+"Purgatori Costers del Segre",Red,"Familia Torres",4.233333333333333,9
+"Perfume de Sonsierra","Rioja Red",Sonsierra,4.3,1
+"Chardonnay Roure",Chardonnay,"Vins Miquel Gelabert",4.3,1
+"Rioja Graciano","Rioja Red",Contino,4.2749999999999995,16
+"ARX Arcos de la Frontera",Red,"Bodega Tesalia",4.3,1
+"Navarra Reserva Coleccion 125",Red,Chivite,4.3,1
+"Suprema 30 Meses","Ribera Del Duero Red","Bodega de Bardos",4.3,1
+Venus,"Montsant Red","Venus la Universal",4.3,4
+Grillo,Red,"El Grillo y La Luna",4.3,1
+"Prieto Picudo",Red,Tridente,4.3,4
+Sofia,Red,"De Moya",4.3,1
+"Finca Cuesta Clara Raro Reserva","Rioja Red",Campillo,4.3,4
+"Fermentado En Barrica Blanco",Verdejo,"Tomas Postigo",4.3,1
+"Ribera Del Duero Gran Reserva","Ribera Del Duero Red","Bodegas Valduero",4.3,1
+"Vinya La Scala Gran Reserva Cabernet Sauvignon","Cabernet Sauvignon","Jean Leon",4.3,1
+"Atteca Armas Garnacha Old Vines",Grenache,"Bodegas Ateca",4.3,1
+"Syrah (Shiraz)",Syrah,Enate,4.3,1
+"Campo Eliseo","Toro Red","Bodega Campo Eliseo",4.3,1
+"Vinas Viejas Tempranillo",Tempranillo,Leda,4.3,1
+"Palmeri Navalta Garnacha",Grenache,"Palmeri Sicilia",4.2,1
+Elite,"Ribera Del Duero Red",Pradorey,4.3,1
+"La Plazuela",Red,"Mas Que Vinos",4.3,1
+"Solar de Estraunza Reserva",Tempranillo,"Bodegas Estraunza",4.3,1
+"III a.C","Rioja Red",Beronia,4.3,1
+Matallana,"Ribera Del Duero Red","Telmo Rodriguez",4.3,4
+"Rioja Norte","Rioja Red",Pujanza,4.3,9
+Artigas,"Priorat Red","Bodegas Mas Alta",4.25,4
+Julia,Monastrell,"De Moya",4.3,1
+Pancrudo,"Rioja Red","Gomez Cruzado",4.3,1
+Aurea,Mencia,Pittacum,4.3,1
+"Coleccion Syrah",Syrah,"Bodega Sommos",4.3,1
+"Flor de Primavera Peraj Ha'abib","Montsant Red","Celler de Capcanes",4.3,1
+"Altos de Losada El Cepon",Mencia,Losada,4.3,1
+"Gran Vino Blanco",Chardonnay,Arinzano,4.3,9
+"Crianza Vendimia Seleccionada","Ribera Del Duero Red","Pago del Vostal",4.3,1
+"Finca Azaya Premium","Ribera Del Duero Red","Bodegas Valduero",4.3,1
+"Ribera del Duero Tinto","Ribera Del Duero Red",Neo,4.3,1
+"No. 20",Red,Habla,4.3,1
+"Martelo Reserva","Rioja Red","Torre de Ona",4.25,4
+"Vintage Albarino",Albarino,"Paco & Lola",4.3,1
+"Finca la Atalaya Reserva","Ribera Del Duero Red",Valtravieso,4.3,1
+"Clos Cypres Vinyes Velles (Old Vines)","Priorat Red","Costers del Priorat",4.3,1
+"Castineiro Albarino",Albarino,"Eulogio Pomares",4.3,1
+Altar,Red,"Bodega Otazu",4.3,1
+"Toro Gran Elias Mora","Toro Red","Bodega Elias Mora",4.3,1
+"Arnau Oller Seleccio de la Familia",Red,"Oller del Mas",4.3,1
+Orbus,Syrah,"Alta Alella",4.3,1
+Malbec,Red,"Bodegas Clunia",4.3,1
+"Altos de Losada",Mencia,Losada,4.233333333333333,9
+"Reserva Especial Rioja","Rioja Red",Campillo,4.3,1
+"Hiru 3 Rioja Racimos","Rioja Red","Luis Canas",4.3,1
+Triaca,"Priorat Red","Ca l'Apotecari",4.3,1
+Cyclo,"Ribera Del Duero Red","Finca Torremilanos",4.3,1
+"Maimo Garnatxa",Grenache,"Josep Grau Viticultor",4.3,1
+"Nunci Negre","Priorat Red","Mas de les Pereres",4.3,1
+"Musivari Gran Reserva Brut Nature",Sparkling,Guilera,4.3,1
+"Faustino de Autor Reserva Especial","Rioja Red","Bodegas Faustino",4.3,1
+"Vinas Viejas Aguilera","Priorat Red","l'Infernal Combier Fischer Gerin",4.3,1
+"Juan Piernas Finca El Paso Malo Monastrell",Monastrell,"Jorge Piernas",4.3,1
+"Albarino Pedralonga",Albarino,Pedralonga,4.3,1
+"Vinyes Velles de Samso","Montsant Red","Vinyes Domenech",4.3,1
+Malvasia,"Rioja White","Abel Mendoza Monge",4.3,1
+"Antigues Reserves",Red,Avgvstvs,4.3,1
+"Baron de Chirel Verdejo Vinas Centenarias",Verdejo,"Marques de Riscal",4.3,1
+"Masia Carreras Negre",Red,"Marti Fabra",4.3,1
+"Milagros de Figuero","Ribera Del Duero Red",Figuero,4.3,1
+"Coma Bruna",Red,Espelt,4.3,1
+"Grano a Grano Tempranillo","Rioja Red","Abel Mendoza Monge",4.3,1
+S'Alou,Red,"Vinyes dels Aspres",4.3,1
+"Altos R Pigeage","Rioja Red","Altos de Rioja",4.3,1
+"Finca Monteviejo","Rioja Red",Valserrano,4.3,1
+Habis,Verdejo,Shaya,4.3,1
+"5o Ano",Red,"Finca Rio Negro",4.3,4
+Gaminde,"Rioja Red",Allende,4.3,1
+"Varietal Fermentacion Lenta","Pedro Ximenez","Bodegas Ximenez-Spinola",4.3,1
+"El Cordero y las Virgenes",Red,Loxera,4.3,1
+"Garnacha Tintorera",Red,Neton,4.3,1
+Cabernet,Red,Enate,4.3,1
+Juegabolos,"Ribera Del Duero Red",Valderiz,4.3,1
+Sketch,Albarino,"Raul Perez",4.3,1
+Montsalvat,"Priorat Red","Cartoixa de Montsalvat",4.3,4
+"Sio Negre",Red,"Bodega Ribas",4.3,1
+"Pago de Otazu Chardonnay Con Crianza",Chardonnay,"Bodega Otazu",4.3,1
+"Verdejo Fermentado en Barrica",Verdejo,"Jose Pariente",4.3,1
+"Vina Centenaria Mencia",Mencia,"Anibal de Otero",4.3,1
+"Cerro del Lobo Syrah",Syrah,"Finca Rio Negro",4.3,1
+"Summum Monastrell",Monastrell,Barahonda,4.25,4
+"Finca La Herradura","Ribera Del Duero Red","Altos del Enebro",4.3,1
+"Alma de Mar Albarino",Albarino,Albamar,4.3,1
+"Rioja Anadas Frias","Rioja White",Pujanza,4.3,1
+"Suzzane Rioja","Rioja Red","Oxer Wines",4.3,1
+Monreal,Red,"Can Bas",4.3,1
+"8 Vents Mallorca",Red,"Atlan & Artisan",4.3,1
+"Vd'O 1 Samso - Pissarra",Red,Olivardots,4.3,1
+"Cava Gran Reserva La Capella Brut",Cava,"Juve & Camps",4.3,1
+"Coleccion No. 3 Cosecha","Rioja Red","Bodega Contador (Benjamin Romeo)",4.3,1
+"Albarino Sobre Lias",Albarino,"La Val",4.3,1
+Nobbis,Tempranillo,"Tres Piedras",4.3,1
+"Rara Avis Prieto Picudo",Red,"Raul Perez",4.3,1
+Sensal,Red,"Javi Revert",4.3,1
+"Campo Eliseo Blanco",Verdejo,"Bodega Campo Eliseo",4.3,1
+"Blanc de Neu",Sparkling,"Alta Alella",4.3,1
+"La Mar",Albarino,"Terras Gauda",4.3,1
+"T3rno Seleccion de 3 Parcelas Ribera del Duero","Ribera Del Duero Red",Tarsus,4.3,1
+"Parcelas de Maturana Tinta Coleccion Rioja","Rioja Red",Vivanco,4.3,1
+"Reserva Real",Red,"Familia Torres",4.3,1
+"Attis Embaixador Albarino",Albarino,Attis,4.3,1
+"Vitola Reserva","Rioja Red","Miguel Merino",4.3,1
+"San Cucufate Monasterio","Ribera Del Duero Red","San Cobate",4.3,1
+"Tras Los Muros Albarino",Albarino,"Pazo Senorans",4.3,1
+"CM Tinto",Tempranillo,"Carlos Moro",4.3,1
+"Clos Adrien",Red,"Terra Remota",4.3,1
+"Lalomba Finca Ladero","Rioja Red","Ramon Bilbao",4.3,1
+"El Reventon Cebreros",Grenache,Jimenez-Landi,4.3,1
+"200 Monges Edicion Exclusiva Blanco Reserva","Rioja White","Vinicola Real",4.3,1
+"Eolic Sauvignon Blanc","Sauvignon Blanc",Arid,4.3,1
+"Finca Valmediano Tinta de Toro 16 Meses Barrica","Toro Red","Carlos Moro",4.3,1
+"Cantos del Diablo",Grenache,Jimenez-Landi,4.3,9
+"Teofilo Reyes Crianza","Ribera Del Duero Red","Bodegas Reyes",4.3,4
+Falguera,Red,"Hugas de Batlle",4.3,1
+"Epistem No. 3",Red,"Atlan & Artisan",4.3,1
+"Angel Ribera del Duero","Ribera Del Duero Red","Bodegas Arrocal",4.3,1
+Pleret,"Priorat Red","Buil & Gine",4.3,1
+"A Torna dos Pasas Escolma Ribeiro",Red,"Luis A. Rodriguez Vazquez",4.3,1
+"Costers Del Segre 1780",Red,"Castell del Remei",4.3,1
+Ines,"Ribera Del Duero Red",Vizcarra,4.3,4
+Honoris,"Ribera Del Duero Red",Valdubon,4.3,1
+"Club Rioja Reserva","Rioja Red",Altanza,4.3,1
+"Camino del Abuelo Vinas Viejas","Ribera Del Duero Red","Bodegas Y Vinedos Alilian",4.3,1
+"La Morera de San Lazaro",Tempranillo,Artadi,4.3,1
+Quintanilla,Tempranillo,Artadi,4.3,1
+"Finca Los Quemados","Ribera Del Duero Red","Goyo Garcia Viadero",4.3,1
+"Albarino (O Rosal)",Albarino,"Santiago Ruiz",4.3,1
+Rioja,"Rioja Red",Pujanza,4.3,1
+"Argila Reserva 3 Anys Brut Nature",Sparkling,"Mas Bertran",4.3,1
+Octogenarius,Grenache,"Bodegas Gama",4.3,4
+"Finca La Pedrissa",Red,Edetaria,4.3,1
+Magister,Red,"Hacienda Zorita Natural Reserve",4.3,1
+"Ribera del Duero Vendimia Seleccionada VT","Ribera Del Duero Red",Valtravieso,4.3,1
+Sibila,Red,"Can Xanet",4.3,1
+"Emporda Reserva Especial Don Miguel Mateu",Red,"Castillo Perelada",4.3,1
+"Cabrida Montsant","Montsant Red","Celler de Capcanes",4.3,1
+"Suane Blanco","Rioja White","Alonso & Pedrajo",4.3,1
+"Pinot Noir",Red,"Mandia Vell",4.3,2
+"Pinot Noir",Red,"Los Aguilares",4.3,2
+"Cerro La Isa Blanco","Rioja White","Bodega Juan Carlos Sancha",4.3,1
+"Cuvee Verdejo",Verdejo,Valdecuevas,4.3,1
+Tabuerniga,"Rioja Red","Telmo Rodriguez",4.3,1
+"Seleccion Especial Verdejo",Verdejo,Mocen,4.3,1
+"Coster d'en Fornos","Montsant Red",Estones,4.3,1
+"Laderas de Inurrieta",Red,Inurrieta,4.3,1
+"El Velado Tinto","Rioja Red","Telmo Rodriguez",4.3,1
+Naiades,Verdejo,Naia,4.3,1
+"Fuenmayor Gran Reserva","Rioja Red",AGE,4.3,1
+"Mirador de Navajas Reserva Rioja","Rioja Red",Navajas,4.3,1
+"Cerro La Isa Garnacha","Rioja Red","Bodega Juan Carlos Sancha",4.3,1
+"Nus del Terrer",Red,"Vinyes del Terrer",4.3,1
+Nivel,"Ribera Del Duero Red","Cepas Familiares",4.3,1
+"Pago de las Sabinas","Ribera Del Duero Red",Zifar,4.3,1
+Gueta-Lupia,"Priorat Red","Bordalas Garcia",4.3,1
+"Cava Reserva Especial Chardonnay Brut Nature",Cava,Rimarts,4.3,1
+"Ribera del Duero Vendimia Seleccionada","Ribera Del Duero Red","Pinna Fidelis",4.3,1
+"No. 23",Red,Habla,4.3,1
+"Las Iruelas El Tiemblo",Grenache,Jimenez-Landi,4.3,1
+"Diego Magana","Rioja Red","Dominio de Anza",4.3,1
+Graciano,"Rioja Red","Bodegas Amaren",4.3,1
+"Cerro Las Cuevas Seleccion Terroir","Rioja Red","Gomez Cruzado",4.3,1
+"Altos R Pigeage Graciano","Rioja Red","Altos de Rioja",4.3,1
+Ronda,Red,Samsara,4.3,1
+"Nisia Las Suertes Verdejo Old Vines",Verdejo,Ordonez,4.3,1
+Territori,Red,"Josep Grau Viticultor",4.3,1
+Alomado,"Rioja Red",Cuentavinas,4.3,1
+"Senda de Los Olivos Roble","Ribera Del Duero Red",Zifar,4.3,1
+"Coto de Imaz Rioja Gran Reserva","Rioja Red","El Coto",4.2,4
+"Vina Alberdi Reserva","Rioja Red","La Rioja Alta",4.2,4
+"Rias Baixas Albarino Atlantico",Albarino,"Mar de Frades",4.2,4
+"Ribera del Duero Crianza","Ribera Del Duero Red",Arzuaga,4.2,9
+"27 Ribera del Duero","Ribera Del Duero Red",Protos,4.2,9
+"Terras Gauda O Rosal",Albarino,"Terras Gauda",4.2,4
+Salmos,"Priorat Red","Familia Torres",4.2,4
+"Vina Bosconia Reserva","Rioja Red","R. Lopez de Heredia",4.2,9
+"La Atalaya del Camino",Red,Atalaya,4.2,4
+"Rioja 150 Aniversario","Rioja Red","Marques de Riscal",4.2,1
+"Veraton Garnacha",Grenache,"Alto Moncayo",4.2,4
+"Alexander vs. The Ham Factory","Ribera Del Duero Red","Casa Rojo",4.2,1
+"Vina Alberdi Crianza","Rioja Red","La Rioja Alta",4.2,4
+"Taberner Tierra de Cadiz",Syrah,"Huerta de Albala",4.2,4
+"Ribera del Duero Red","Ribera Del Duero Red",Montecastro,4.2,9
+"Corimbo I","Ribera Del Duero Red","Bodegas La Horra",4.200000000000001,16
+"Vina Tondonia Reserva Blanco","Rioja White","R. Lopez de Heredia",4.2,1
+"Reserva 5 Ano","Ribera Del Duero Red",Protos,4.2,4
+"Les Terrasses Velles Vinyes Priorat","Priorat Red","Alvaro Palacios",4.2,1
+"Les Terrasses Laderas de Pizarra","Priorat Red","Alvaro Palacios",4.2,1
+Inici,"Priorat Red","Merum Priorati",4.2,1
+"5 Finques (Fincas) Reserva",Red,"Castillo Perelada",4.2,1
+"Martinet Bru (Garnatxa - Syrah)","Priorat Red",Martinet,4.2,1
+"Ribera Del Duero Reserva","Ribera Del Duero Red","Bodegas Valduero",4.2,1
+"Angeles de Amaren Tempranillo - Graciano","Rioja Red","Bodegas Amaren",4.2,1
+"Bassus Pinot Noir",Red,"Hispano Suizas",4.2,4
+"Sericis Cepas Viejas Monastrell",Monastrell,Murviedro,4.2,1
+"Rioja Reserva Fincas de Ganuza","Rioja Red","Remirez de Ganuza",4.2,1
+"Corpinnat Terrers Brut Nature",Cava,Recaredo,4.2,4
+"Oscar Tobia Reserva Rioja","Rioja Red",Tobia,4.2,1
+"Rioja Satinela Blanco Semidulce","Rioja White","Marques de Caceres",4.2,1
+"Clos del Portal Negre de Negres","Priorat Red","Portal del Priorat",4.2,4
+Solideo,"Ribera Del Duero Red","Dehesa de Los Canonigos",4.2,1
+Preludio,"Ribera Del Duero Red","Sei Solo",4.2,9
+"Reserva Tempranillo","Rioja Red","Diez Caballero",4.2,1
+"Coma Vella Priorat","Priorat Red","Mas d'en Gil",4.2,1
+"Las Ocho (8) Tinto",Red,"Chozas Carrascal",4.2,1
+"Pago de los Balagueses Syrah",Syrah,Vegalfaro,4.2,1
+"Bagus Ribera del Duero","Ribera Del Duero Red","Lopez Cristobal",4.2,1
+"Formiga de Vellut","Priorat Red","Clos Galena",4.2,1
+"Tierra Alta En 2 Maderas","Ribera Del Duero Red","Bodegas Valduero",4.2,1
+"Propiedad  Rioja","Rioja Red","Palacios Remondo",4.2,1
+"Reserva Especial Icon Edition","Rioja Red","Bodegas Faustino",4.2,1
+"Vina Lanciano Reserva","Rioja Red",Lan,4.2,1
+"La Felisa","Ribera Del Duero Red","Emilio Moro",4.2,1
+Milmanda,Chardonnay,"Familia Torres",4.2,1
+"Envidiacochina (Tete de Cuvee)",Albarino,"Adega Familiar Eladio Pineiro",4.2,1
+Adaro,"Ribera Del Duero Red",Pradorey,4.2,1
+"Monastrell - Syrah Finca Espolla",Red,"Castillo Perelada",4.2,1
+"Santa Rosa",Red,"Enrique Mendoza",4.2,1
+"Roc Nu",Red,"Clos Pons",4.2,1
+"Rias Baixas Albarino Finca Valinas",Albarino,"Mar de Frades",4.2,1
+"Les Brugueres","Priorat Red","Conreria d'Scala Dei",4.2,1

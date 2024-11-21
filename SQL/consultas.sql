@@ -1,9 +1,8 @@
 -- Consulta 1 -- Obtener los vinos de España 
 
-SELECT wines.wine, wineries.country
+SELECT wines.wine, wineries.winery
 FROM wines
-JOIN wineries ON wines.id_winery = wineries.id_winery
-WHERE wineries.country = 'España';
+JOIN wineries ON wines.id_winery = wineries.id_winery;
 
 -- Consulta 2 -- Obtener los tipos de vinos disponible y su cantidad 
 
