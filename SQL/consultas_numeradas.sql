@@ -1,4 +1,3 @@
-
 -- Consulta 1 -- Listar todos los vinos de España. 
 -- Muestra el nombre del vino y el nombre de la bodega
 
