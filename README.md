@@ -1,7 +1,7 @@
 # **Wine Database Project**
 
 This a proyect for Ironhack's Data Analytics bootcamp.
-You can enjoy a visual presentation [here](https://www.canva.com/design/DAGXDdtUPiw/6pFqIfnYYvOwLbpH_AaOXQ/edit?utm_content=DAGXDdtUPiw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+You can enjoy a visual presentation [here]()
 
 ## **Table of Contents**
 1. [Introduction](#introduction)
@@ -59,16 +59,12 @@ Before designing the database, the dataset underwent several cleaning steps:
 
 The database consists of the following tables:
 
-1. **Wines**:
-   - 
-2. **Wineries**:
-   - 
-3. **Types**:
-   -
-4. **Ratings**:
-   - 
-5. **Designations**:
-   - 
+1. Wines
+2. Wineries
+3. Type
+4. Ratings
+5. Designations
+   
 
 ## **ERD diagram** 
 
@@ -136,12 +132,15 @@ Created using Python's Matplotlib.
 
 ### **Challenges**
 1. **Theme election**:
+
 -The choice of the topic took longer than expected because the first topic we selected did not have much data available online, so we decided to change the project's theme.
    
 2. **Importing existing data from csv files into MySQL WorkBench tables**:
+
 -Using a new tool like MySQL Workbench, we took some time to get familiar with an essential action: importing data from a CSV file into a table in Workbench.
    
 3. **Data Integration**:
+
 - Linking the relationships between tables while maintaining data integrity was complex.
 
 
