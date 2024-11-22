@@ -133,11 +133,11 @@ Created using Python's Matplotlib.
 ### **Challenges**
 1. **Theme election**:
 
--The choice of the topic took longer than expected because the first topic we selected did not have much data available online, so we decided to change the project's theme.
+- The choice of the topic took longer than expected because the first topic we selected did not have much data available online, so we decided to change the project's theme.
    
 2. **Importing existing data from csv files into MySQL WorkBench tables**:
 
--Using a new tool like MySQL Workbench, we took some time to get familiar with an essential action: importing data from a CSV file into a table in Workbench.
+- Using a new tool like MySQL Workbench, we took some time to get familiar with an essential action: importing data from a CSV file into a table in Workbench.
    
 3. **Data Integration**:
 
