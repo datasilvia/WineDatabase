@@ -1,8 +1,11 @@
 # **Wine Database Project**
 
 This a proyect for Ironhack's Data Analytics bootcamp.
-You can enjoy a visual presentation [here](https://www.canva.com/design/DAGXDdtUPiw/6pFqIfnYYvOwLbpH_AaOXQ/edit)
+
+You can enjoy a visual presentation [here](https://www.canva.com/design/DAGXDdtUPiw/6pFqIfnYYvOwLbpH_AaOXQ/edit).
+Yo can also download the presentation in pdf format from [here](/Wine%20Database.pdf).
 ![Presentation](images/presentacion.jpg "Visual presentation of the project")
+
 
 
 ## **Table of Contents**
